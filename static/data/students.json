@@ -1,0 +1,5409 @@
+[
+  {
+    "name": "Abbet Mélanie",
+    "role": "Etudiant",
+    "desc": "  option Media &amp; Interaction Design",
+    "img": "/img/photo/AbbetMelanie.jpg",
+    "email": "melanie.abbet@ecal.ch"
+  },
+  {
+    "name": "Aberlé Jérémy",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/AberleJeremy.jpg",
+    "email": "jeremy.aberle@ecal.ch"
+  },
+  {
+    "name": "Aboulker Clara",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design graphique",
+    "img": "/img/photo/AboulkerClara.jpg",
+    "email": "clara.aboulker@ecal.ch"
+  },
+  {
+    "name": "Abplanalp Sven",
+    "role": "Etudiant",
+    "desc": "  option Design industriel",
+    "img": "/img/photo/AbplanalpSven.jpg",
+    "email": "sven.abplanalp@ecal.ch"
+  },
+  {
+    "name": "Abrar Anoush",
+    "role": "Professeur",
+    "desc": "Professeur en Bachelor Photographie  CVph",
+    "img": "/img/photo/AbrarAnoush.jpg",
+    "email": "anoush.abrar@ecal.ch"
+  },
+  {
+    "name": "Aceto Alfredo",
+    "role": "Intervenant",
+    "desc": "Chargé de cours en Année Propédeutique  PP",
+    "email": "alfredo.aceto@ecal.ch"
+  },
+  {
+    "name": "Aeby Marion",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/AebyMarion.jpg",
+    "email": "marion.aeby@ecal.ch"
+  },
+  {
+    "name": "Aeschbacher Zoel",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Cinéma",
+    "img": "/img/photo/AeschbacherZoel.jpg",
+    "email": "zoel.aeschbacher@ecal.ch"
+  },
+  {
+    "name": "Aguirre Bruno Adrien",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/AguirreBrunoAdrien.jpg",
+    "email": "bruno.aguirre@ecal.ch"
+  },
+  {
+    "name": "Al Zouabi Alfatih",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/AlZouabiAlfatih.jpg",
+    "email": "alfatih.al_zouabi@ecal.ch"
+  },
+  {
+    "name": "Albanese Antonio",
+    "role": "Professeur",
+    "desc": "Professeur de Théorie en Année Propédeutique  PP",
+    "img": "/img/photo/AlbaneseAntonio.jpg",
+    "email": "antonio.albanese@ecal.ch"
+  },
+  {
+    "name": "Alberti Pietro",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/AlbertiPietro.jpg",
+    "email": "pietro.alberti@ecal.ch"
+  },
+  {
+    "name": "Albespy Mina",
+    "role": "Etudiant",
+    "desc": "  option Photographie",
+    "img": "/img/photo/AlbespyMina.jpg",
+    "email": "mina.albespy@ecal.ch"
+  },
+  {
+    "name": "Aliev Kirill",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design graphique",
+    "img": "/img/photo/AlievKirill.jpg",
+    "email": "kirill.aliev@ecal.ch"
+  },
+  {
+    "name": "Allain-Longval Pierre",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/ALLAINLONGVALPIERRE.jpg",
+    "email": "pierre.allain-longval@ecal.ch"
+  },
+  {
+    "name": "Allenspach Sonja",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/ALLENSPACHSONJA.jpg",
+    "email": "sonja.allenspach@ecal.ch"
+  },
+  {
+    "name": "Alonso Tomas",
+    "role": "Intervenant",
+    "desc": "Chargé de cours en Master Design de produit  DI",
+    "email": "tomas.alonso@ecal.ch"
+  },
+  {
+    "name": "Amara Marjane",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/AmaraMarjane.jpg",
+    "email": "marjane.amara@ecal.ch"
+  },
+  {
+    "name": "Ambrosetti Tonatiúh",
+    "role": "Intervenant",
+    "desc": "Chargé de cours en Année Propédeutique  PP",
+    "img": "/img/photo/AmbrosettiTonatiuh.jpg",
+    "email": "tonatiuh.ambrosetti@ecal.ch"
+  },
+  {
+    "name": "Ammann Cynthia",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Photographie",
+    "img": "/img/photo/AmmannCynthia.jpg",
+    "email": "cynthia.ammann@ecal.ch"
+  },
+  {
+    "name": "Amoser Florian Sebastian",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Photographie",
+    "img": "/img/photo/AmoserFlorian.jpg",
+    "email": "florian.amoser@ecal.ch"
+  },
+  {
+    "name": "Andrade André",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/AndradeAndre.jpg",
+    "email": "andre.andrade@ecal.ch"
+  },
+  {
+    "name": "Andrié Luc",
+    "role": "Professeur",
+    "desc": "Professeur en Bachelor Arts Visuels, Cinéma, Communication Visuelle et Master Arts Visuels  AV",
+    "img": "/img/photo/AndrieLuc.jpg",
+    "email": "luc.andrie@ecal.ch"
+  },
+  {
+    "name": "Anfalov Yevgen",
+    "role": "Etudiant",
+    "desc": " 2e année Master Art Direction",
+    "img": "/img/photo/AnfalovYevgen.jpg",
+    "email": "yevgen.anfalov@ecal.ch"
+  },
+  {
+    "name": "Antoine-Schumann Cosima",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/ANTOINESCHUMANNCOSIMA.jpg",
+    "email": "cosima.antoine-schumann@ecal.ch"
+  },
+  {
+    "name": "Arbenz Carole",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Photographie",
+    "img": "/img/photo/ARBENZCAROLE.jpg",
+    "email": "carole.arbenz@ecal.ch"
+  },
+  {
+    "name": "Archer Luke",
+    "role": "Etudiant",
+    "desc": " 2e année Master Arts visuels  - European Art Ensemble",
+    "img": "/img/photo/ArcherLuke.jpg",
+    "email": "luke.archer@ecal.ch"
+  },
+  {
+    "name": "Ardaine Faustine",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Photographie",
+    "img": "/img/photo/ArdaineFaustine.jpg",
+    "email": "faustine.ardaine@ecal.ch"
+  },
+  {
+    "name": "Ariu Virginia",
+    "role": "Etudiant",
+    "desc": " 2e année Master Arts visuels  - European Art Ensemble",
+    "img": "/img/photo/AriuVirginia.jpg",
+    "email": "virginia.ariu@ecal.ch"
+  },
+  {
+    "name": "Atakurt Selim",
+    "role": "Collaborateur",
+    "desc": "Responsable de la Communication  COM",
+    "email": "selim.atakurt@ecal.ch"
+  },
+  {
+    "name": "Atzori Jacopo",
+    "role": "Etudiant",
+    "desc": " 2e année Master Art Direction",
+    "img": "/img/photo/AtzoriJacopo.jpg",
+    "email": "jacopo.atzori@ecal.ch"
+  },
+  {
+    "name": "Aubort Luc",
+    "role": "Professeur",
+    "desc": "Professeur en Année Propédeutique  PP",
+    "img": "/img/photo/AubortLuc.jpg",
+    "email": "luc.aubort@ecal.ch"
+  },
+  {
+    "name": "Augay Maxime",
+    "role": "Etudiant",
+    "desc": " 2e année Master Design en Design de Produit",
+    "img": "/img/photo/AugayMaxime.jpg",
+    "email": "maxime.augay@ecal.ch"
+  },
+  {
+    "name": "Avogadro Marceau",
+    "role": "Assistant",
+    "desc": "Assistant en Bachelor Design Industriel  DI",
+    "img": "/img/photo/AvogadroMarceau.jpg",
+    "email": "marceau.avogadro@ecal.ch"
+  },
+  {
+    "name": "Avogadro Mathilde",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design graphique",
+    "img": "/img/photo/AvogadroMathilde.jpg",
+    "email": "mathilde.avogadro@ecal.ch"
+  },
+  {
+    "name": "Aynetchi Alyar",
+    "role": "Etudiant",
+    "desc": " 2e année Master Art Direction",
+    "img": "/img/photo/AynetchiAlyar.jpg",
+    "email": "alyar.aynetchi@ecal.ch"
+  },
+  {
+    "name": "Azemi Djellza",
+    "role": "Etudiant",
+    "desc": "  option Arts visuels",
+    "img": "/img/photo/AzemiDjellza.jpg",
+    "email": "djellza.azemi@ecal.ch"
+  },
+  {
+    "name": "Azzolini Leonardo",
+    "role": "Assistant",
+    "desc": "Assistant en Master Type Design  MAad",
+    "img": "/img/photo/AzzoliniLeonardo.jpg",
+    "email": "leonardo.azzolini@ecal.ch"
+  },
+  {
+    "name": "Bae Byongseon",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Design de Produit",
+    "img": "/img/photo/BaeByongseon.jpg",
+    "email": "byongseon.bae@ecal.ch"
+  },
+  {
+    "name": "Baechtold Gianfranco",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/BaechtoldGianfranco.jpg",
+    "email": "gianfranco.baechtold@ecal.ch"
+  },
+  {
+    "name": "Baeriswyl Guillaume",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Photographie",
+    "img": "/img/photo/BaeriswylGuillaume.jpg",
+    "email": "guillaume.baeriswyl@ecal.ch"
+  },
+  {
+    "name": "Baiao Ana",
+    "role": "Collaborateur",
+    "desc": "Réceptionniste / Economat  SEC",
+    "email": "ana.baiao@ecal.ch"
+  },
+  {
+    "name": "Baier Lionel",
+    "role": "Professeur",
+    "desc": "Responsable des Bachelor et Master Cinéma  CVci",
+    "email": "lionel.baier@ecal.ch"
+  },
+  {
+    "name": "Baldé Mariama",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Cinéma",
+    "img": "/img/photo/BaldeMariama.jpg",
+    "email": "mariama.balde@ecal.ch"
+  },
+  {
+    "name": "Balgiu Alexandru",
+    "role": "Intervenant",
+    "desc": "Chargé de cours de Théorie en Bachelor Design graphique  CVdg",
+    "img": "/img/photo/BalgiuAlexandru.jpg",
+    "email": "alexandru.balgiu@ecal.ch"
+  },
+  {
+    "name": "Bamogo Krisyam Yves",
+    "role": "Collaborateur",
+    "desc": "Stagiaire Informatique  SI",
+    "email": "krisyam.bamogo@ecal.ch"
+  },
+  {
+    "name": "Banchi Margherita",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Design de Produit",
+    "img": "/img/photo/BanchiMargherita.jpg",
+    "email": "margherita.banchi@ecal.ch"
+  },
+  {
+    "name": "Bantone-Momba James",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Photographie",
+    "img": "/img/photo/BANTONEMOMBAJAMES.jpg",
+    "email": "james.bantone-momba@ecal.ch"
+  },
+  {
+    "name": "Baraness Nathan",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/BARANESSNATHAN.jpg",
+    "email": "nathan.baraness@ecal.ch"
+  },
+  {
+    "name": "Barbon Federico",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design graphique",
+    "img": "/img/photo/BarbonFederico.jpg",
+    "email": "federico.barbon@ecal.ch"
+  },
+  {
+    "name": "Barras Antoine",
+    "role": "Etudiant",
+    "desc": "  option Media &amp; Interaction Design",
+    "img": "/img/photo/BarrasAntoine.jpg",
+    "email": "antoine.barras@ecal.ch"
+  },
+  {
+    "name": "Barraud Théo",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design graphique",
+    "img": "/img/photo/BarraudTheo.jpg",
+    "email": "theo.barraud@ecal.ch"
+  },
+  {
+    "name": "Barresi Giulio",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/BARRESIGIULIO.jpg",
+    "email": "giulio.barresi@ecal.ch"
+  },
+  {
+    "name": "Bastianelli Giacomo",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design graphique",
+    "img": "/img/photo/BastianelliGiacomo.jpg",
+    "email": "giacomo.bastianelli@ecal.ch"
+  },
+  {
+    "name": "Baud Manfred-Gordon",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/BaudManfredGordon.jpg",
+    "email": "manfred-gordon.baud@ecal.ch"
+  },
+  {
+    "name": "Baudevin Francis",
+    "role": "Professeur",
+    "desc": "Professeur en Année Propédeutique et Bachelor Arts Visuels  AV",
+    "img": "/img/photo/BaudevinFrancis.jpg",
+    "email": "francis.baudevin@ecal.ch"
+  },
+  {
+    "name": "Baudraz Isabelle",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/BaudrazIsabelle.jpg",
+    "email": "isabelle.baudraz@ecal.ch"
+  },
+  {
+    "name": "Bauer Johannes",
+    "role": "Etudiant",
+    "desc": " 2e année Master Art Direction",
+    "img": "/img/photo/BAUERJOHANNES.jpg",
+    "email": "johannes.bauer@ecal.ch"
+  },
+  {
+    "name": "Bays Sidonie",
+    "role": "Etudiant",
+    "desc": "  option Design graphique",
+    "img": "/img/photo/BaysSidonie.jpg",
+    "email": "sidonie.bays@ecal.ch"
+  },
+  {
+    "name": "Beaud Maxime",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Cinéma",
+    "img": "/img/photo/BeaudMaxime.jpg",
+    "email": "maxime.beaud@ecal.ch"
+  },
+  {
+    "name": "Beaulieu Adèle",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Cinéma",
+    "img": "/img/photo/BeaulieuAdele.jpg",
+    "email": "adele.beaulieu@ecal.ch"
+  },
+  {
+    "name": "Becheras Diane",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/BecherasDiane.jpg",
+    "email": "diane.becheras@ecal.ch"
+  },
+  {
+    "name": "Beer Eva-Maria",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Design de Produit",
+    "img": "/img/photo/BeerEvaMaria.jpg",
+    "email": "eva-maria.beer@ecal.ch"
+  },
+  {
+    "name": "Bellet Alain",
+    "role": "Professeur",
+    "desc": "Professeur en Bachelor Media &amp; Interaction Design  CVnm",
+    "img": "/img/photo/BelletAlain.jpg",
+    "email": "alain.bellet@ecal.ch"
+  },
+  {
+    "name": "Bellier Maya",
+    "role": "Etudiant",
+    "desc": "  option Media &amp; Interaction Design",
+    "img": "/img/photo/BellierMaya0026.jpg",
+    "email": "maya.bellier@ecal.ch"
+  },
+  {
+    "name": "Bellini Lineo",
+    "role": "Etudiant",
+    "desc": "  option Design graphique",
+    "img": "/img/photo/BelliniLineo.jpg",
+    "email": "lineo.bellini@ecal.ch"
+  },
+  {
+    "name": "Bellon Pablo",
+    "role": "Etudiant",
+    "desc": "  option Media &amp; Interaction Design",
+    "img": "/img/photo/BellonPablo0035.jpg",
+    "email": "pablo.bellon@ecal.ch"
+  },
+  {
+    "name": "Belossi Giovanna",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Arts visuels",
+    "img": "/img/photo/BELOSSIGIOVANNA.jpg",
+    "email": "giovanna.belossi@ecal.ch"
+  },
+  {
+    "name": "Benedetto Angelo",
+    "role": "Professeur",
+    "desc": "Responsable du Bachelor Design Graphique  CVdg",
+    "img": "/img/photo/BenedettoAngelo.jpg",
+    "email": "angelo.benedetto@ecal.ch"
+  },
+  {
+    "name": "Benhadj Sami",
+    "role": "Intervenant",
+    "desc": "Chargé de cours en Bachelor Communication Visuelle  PP",
+    "img": "/img/photo/BenhadjSami.jpg",
+    "email": "sami.benhadj@ecal.ch"
+  },
+  {
+    "name": "Benoit Anaïs",
+    "role": "Assistant",
+    "desc": "Assistante en Bachelor Design Industriel  DI",
+    "img": "/img/photo/BenoitDignacAnais.jpg",
+    "email": "anais.benoit_dignac@ecal.ch"
+  },
+  {
+    "name": "Benoit Pierre",
+    "role": "Collaborateur",
+    "desc": "Graphiste - Assistant communication  COM",
+    "img": "/img/photo/BenoitPierre.jpg",
+    "email": "pierre.benoit@ecal.ch"
+  },
+  {
+    "name": "Bergeron Luc",
+    "role": "Professeur",
+    "desc": "Professeur en Bachelor Design Industriel  RAD",
+    "img": "/img/photo/BergeronLuc.jpg",
+    "email": "luc.bergeron@ecal.ch"
+  },
+  {
+    "name": "Bernasconi Lisa",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/BernasconiLisa.jpg",
+    "email": "lisa.bernasconi@ecal.ch"
+  },
+  {
+    "name": "Berthod Borcard Anaïs T. A.",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/BerthodAnais.jpg",
+    "email": "anais.berthod@ecal.ch"
+  },
+  {
+    "name": "Berthod Borcard Anaïs T. A.",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/BerthodAnais.jpg",
+    "email": "anais.berthod@ecal.ch"
+  },
+  {
+    "name": "Berthod Jonas Théo Orient",
+    "role": "Intervenant",
+    "desc": "Chargé de cours de Théorie en Bachelor Design graphique  CVdg",
+    "img": "/img/photo/BerthodJonasTheoOrient.jpg",
+    "email": "jonas.berthod@ecal.ch"
+  },
+  {
+    "name": "Bertoncini Anne",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/BertonciniAnne.jpg",
+    "email": "anne.bertoncini@ecal.ch"
+  },
+  {
+    "name": "Bettua Clelia",
+    "role": "Professeur",
+    "desc": "Professeur en Année Propédeutique  PP",
+    "img": "/img/photo/BettuaClelia.jpg",
+    "email": "clelia.bettua@ecal.ch"
+  },
+  {
+    "name": "Beytrison Brandon",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Cinéma",
+    "img": "/img/photo/BEYTRISONBrandon.jpg",
+    "email": "brandon.beytrison@ecal.ch"
+  },
+  {
+    "name": "Bezençon Johanne",
+    "role": "Etudiant",
+    "desc": "  option Arts visuels",
+    "img": "/img/photo/BezençonJohanne.jpg",
+    "email": "johanne.bezencon@ecal.ch"
+  },
+  {
+    "name": "Bigler Marina",
+    "role": "Collaborateur",
+    "desc": "Assistante de direction  SEC",
+    "img": "/img/photo/BiglerMarina.jpg",
+    "email": "marina.bigler@ecal.ch"
+  },
+  {
+    "name": "Bisseck Iyo",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/BisseckIyo.jpg",
+    "email": "iyo.bisseck@ecal.ch"
+  },
+  {
+    "name": "Björndahl Vilhelm",
+    "role": "Etudiant",
+    "desc": " 2e année Master Art Direction",
+    "img": "/img/photo/BjorndahlVilhelm.jpg",
+    "email": "vilhelm.bjorndahl@ecal.ch"
+  },
+  {
+    "name": "Blanc Mélanie",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design graphique",
+    "img": "/img/photo/BlancMelanie.jpg",
+    "email": "melanie.blanc@ecal.ch"
+  },
+  {
+    "name": "Blanc Tamara",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design graphique",
+    "img": "/img/photo/BLANCTAMARA.jpg",
+    "email": "tamara.blanc@ecal.ch"
+  },
+  {
+    "name": "Blaschke Estelle",
+    "role": "Intervenant",
+    "desc": "Chargée de cours de Théorie en Bachelor Photographie  UT",
+    "email": "estelle.blaschke@ecal.ch"
+  },
+  {
+    "name": "Blin Camille",
+    "role": "Professeur",
+    "desc": "Professeur en Bachelor Design Industriel  MAdp",
+    "img": "/img/photo/BlinCamille.jpg",
+    "email": "camille.blin@ecal.ch"
+  },
+  {
+    "name": "Bloch Harry",
+    "role": "Professeur",
+    "desc": "Professeur en Bachelor Design Graphique  CVdg",
+    "img": "/img/photo/BlochHarry.jpg",
+    "email": "harry.bloch@ecal.ch"
+  },
+  {
+    "name": "Bolzoni Alessandro",
+    "role": "Collaborateur",
+    "desc": "Responsable de l&apos;Atelier Maquette  MAQ",
+    "email": "sandro.bolzoni@ecal.ch"
+  },
+  {
+    "name": "Bonaglia Myriam",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Photographie",
+    "img": "/img/photo/BONAGLIAMYRIAM.jpg",
+    "email": "myriam.bonaglia@ecal.ch"
+  },
+  {
+    "name": "Bonami Aurore",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Photographie",
+    "img": "/img/photo/BonamiAurore.jpg",
+    "email": "aurore.bonami@ecal.ch"
+  },
+  {
+    "name": "Bonini Daniele",
+    "role": "Etudiant",
+    "desc": " 1re année Master Arts visuels  - European Art Ensemble",
+    "img": "/img/photo/BoniniDaniele.jpg",
+    "email": "daniele.bonini@ecal.ch"
+  },
+  {
+    "name": "Bonnaz Martin",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Arts visuels",
+    "img": "/img/photo/BonnazMartin.jpg",
+    "email": "martin.bonnaz@ecal.ch"
+  },
+  {
+    "name": "Bontognali Diego",
+    "role": "Professeur",
+    "desc": "Professeur en Bachelor Design Graphique  CVdg",
+    "img": "/img/photo/BontognaliDiego.jpg",
+    "email": "diego.bontognali@ecal.ch"
+  },
+  {
+    "name": "Bonvallat Léa",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/BonvallatLea.jpg",
+    "email": "lea.bonvallat@ecal.ch"
+  },
+  {
+    "name": "Bonvin Laurence",
+    "role": "Professeur",
+    "desc": "Professeur en Bachelor Photographie  CVph",
+    "img": "/img/photo/BonvinLaurence.jpg",
+    "email": "laurence.bonvin@ecal.ch"
+  },
+  {
+    "name": "Bonvin Michel",
+    "role": "Intervenant",
+    "desc": "Chargé de cours de photographie en Bachelor Design Industriel  CV",
+    "img": "/img/photo/BonvinMIchel.jpg",
+    "email": "michel.bonvin@ecal.ch"
+  },
+  {
+    "name": "Borgeaud Nathalie",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/BorgeaudNathalie.jpg",
+    "email": "nathalie.borgeaud@ecal.ch"
+  },
+  {
+    "name": "Bornhauser Victoire",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design graphique",
+    "img": "/img/photo/BornhauserVictoire.jpg",
+    "email": "victoire.bornhauser@ecal.ch"
+  },
+  {
+    "name": "Bota Leal Catarina",
+    "role": "Etudiant",
+    "desc": " 2e année Master Arts visuels  - European Art Ensemble",
+    "img": "/img/photo/BotaLealCatarina.jpg",
+    "email": "catarina.bota_leal@ecal.ch"
+  },
+  {
+    "name": "Bouchet Emilie",
+    "role": "Etudiant",
+    "desc": "  option Design graphique",
+    "img": "/img/photo/BouchetEmilie.jpg",
+    "email": "emilie.bouchet@ecal.ch"
+  },
+  {
+    "name": "Boulaert Jules",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design graphique",
+    "img": "/img/photo/BoulaertJules.jpg",
+    "email": "jules.boulaert@ecal.ch"
+  },
+  {
+    "name": "Boulenaz Jonathan",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/BoulenazJonathan.jpg",
+    "email": "jonathan.boulenaz@ecal.ch"
+  },
+  {
+    "name": "Bourcelot Maëwenn",
+    "role": "Etudiant",
+    "desc": "  option Photographie",
+    "img": "/img/photo/BourcelotMaewenn.jpg",
+    "email": "maewenn.bourcelot@ecal.ch"
+  },
+  {
+    "name": "Bourgeois Charlotte",
+    "role": "Etudiant",
+    "desc": " 2e année Master Arts visuels  - European Art Ensemble",
+    "img": "/img/photo/BourgeoisCharlotte.jpg",
+    "email": "charlotte.bourgeois@ecal.ch"
+  },
+  {
+    "name": "Bourgeois Nicolas",
+    "role": "Professeur",
+    "desc": "Professeur en Bachelor Design Industriel  DI",
+    "img": "/img/photo/BourgeoisNicolas.jpg",
+    "email": "nicolas.bourgeois@ecal.ch"
+  },
+  {
+    "name": "Bouroullec Ronan",
+    "role": "Intervenant",
+    "desc": "Chargé de cours en Bachelor Design Industriel  DI",
+    "email": "ronan.bouroullec@ecal.ch"
+  },
+  {
+    "name": "Bourrassé Claire",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Photographie",
+    "img": "/img/photo/BourrasseClaire.jpg",
+    "email": "claire.bourrasse@ecal.ch"
+  },
+  {
+    "name": "Bovet Fanny-Laure",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Photographie",
+    "img": "/img/photo/BovetFannyLaure.jpg",
+    "email": "fanny-laure.bovet@ecal.ch"
+  },
+  {
+    "name": "Bovier François",
+    "role": "Professeur",
+    "desc": "Professeur en Bachelor Cinéma  CVci",
+    "img": "/img/photo/BovierFrancois.jpg",
+    "email": "francois.bovier@ecal.ch"
+  },
+  {
+    "name": "Bredikhina Ludmila",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Type Design",
+    "img": "/img/photo/BredikhinaLudmila.jpg",
+    "email": "ludmila.bredikhina@ecal.ch"
+  },
+  {
+    "name": "Bredstrup Malte Bentzen",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Type Design",
+    "img": "/img/photo/BredstrupMalte.jpg",
+    "email": "malte.bredstrup@ecal.ch"
+  },
+  {
+    "name": "Breithaupt Kevin",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/BREITHAUPTKEVIN.jpg",
+    "email": "kevin.breithaupt@ecal.ch"
+  },
+  {
+    "name": "Brianza Michele",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design graphique",
+    "img": "/img/photo/BRIANZAMICHELE.jpg",
+    "email": "michele.brianza@ecal.ch"
+  },
+  {
+    "name": "Brocart Pauline",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design graphique",
+    "img": "/img/photo/BrocartPauline.jpg",
+    "email": "pauline.brocart@ecal.ch"
+  },
+  {
+    "name": "Broccard Charlotte",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/BroccardCharlotte.jpg",
+    "email": "charlotte.broccard@ecal.ch"
+  },
+  {
+    "name": "Brun Benoît",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design graphique",
+    "img": "/img/photo/BrunBenoit.jpg",
+    "email": "benoit.brun@ecal.ch"
+  },
+  {
+    "name": "Brun Jacques-Aurélien",
+    "role": "Assistant",
+    "desc": "Assistant en Bachelor Photographie  CVph",
+    "img": "/img/photo/BrunJacques-Aurelien.jpg",
+    "email": "jacques-aurelien.brun@ecal.ch"
+  },
+  {
+    "name": "Brunner Thilo Alex",
+    "role": "Professeur",
+    "desc": "Responsable du Master Design de Produit  MAdp",
+    "email": "thiloalex.brunner@ecal.ch"
+  },
+  {
+    "name": "Brunner Tobias",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/BRUNNERTOBIAS.jpg",
+    "email": "tobias.brunner@ecal.ch"
+  },
+  {
+    "name": "Bruyère Jean-Baptiste",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/BruyereJeanBaptiste.jpg",
+    "email": "jean-baptiste.bruyere@ecal.ch"
+  },
+  {
+    "name": "Bucher Benjamin",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Cinéma",
+    "img": "/img/photo/BUCHERBENJAMIN.jpg",
+    "email": "benjamin.bucher@ecal.ch"
+  },
+  {
+    "name": "Bulliard Mathias",
+    "role": "Etudiant",
+    "desc": " 1re année Master Arts visuels  - European Art Ensemble",
+    "img": "/img/photo/BulliardMathias.jpg",
+    "email": "mathias.bulliard@ecal.ch"
+  },
+  {
+    "name": "Bussioz Bérengère",
+    "role": "Etudiant",
+    "desc": "  option Design industriel",
+    "img": "/img/photo/BussiozBerengere.jpg",
+    "email": "berengere.bussioz@ecal.ch"
+  },
+  {
+    "name": "Báchor Ondrej",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Type Design",
+    "img": "/img/photo/BachorOndrej.jpg",
+    "email": "ondrej.bachor@ecal.ch"
+  },
+  {
+    "name": "Båtevik Arve",
+    "role": "Etudiant",
+    "desc": " 2e année Master Art Direction",
+    "img": "/img/photo/BaatevikArve.jpg",
+    "email": "arve.baatevik@ecal.ch"
+  },
+  {
+    "name": "Béguin Jonas",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/BeguinJonas.jpg",
+    "email": "jonas.beguin@ecal.ch"
+  },
+  {
+    "name": "Bétin Louis",
+    "role": "Etudiant",
+    "desc": "  option Design industriel",
+    "img": "/img/photo/BetinLous.jpg",
+    "email": "louis.betin@ecal.ch"
+  },
+  {
+    "name": "Cabitza Moreno",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Cinéma",
+    "img": "/img/photo/CabitzaMoreno.jpg",
+    "email": "moreno.cabitza@ecal.ch"
+  },
+  {
+    "name": "Cadena Jorge",
+    "role": "Etudiant",
+    "desc": " 1re année Master cinéma",
+    "img": "/img/photo/CadenaJorge.jpg",
+    "email": "jorge.cadena@ecal.ch"
+  },
+  {
+    "name": "Caillault Juliette",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design graphique",
+    "img": "/img/photo/caillaultjuliette.jpg",
+    "email": "juliette.caillault@ecal.ch"
+  },
+  {
+    "name": "Calixto Helder",
+    "role": "Collaborateur",
+    "desc": "Administrateur outils système et réseaux  SI",
+    "img": "/img/photo/CalixtoHelder.jpg",
+    "email": "helder.calixto@ecal.ch"
+  },
+  {
+    "name": "Callewaert Jenna",
+    "role": "Etudiant",
+    "desc": "  option Photographie",
+    "img": "/img/photo/CallewaertJenna.jpg",
+    "email": "jenna.callewaert@ecal.ch"
+  },
+  {
+    "name": "Camponovo Marc",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Arts visuels",
+    "img": "/img/photo/CamponovoMarc.jpg",
+    "email": "marc.camponovo@ecal.ch"
+  },
+  {
+    "name": "Camporota Gianni",
+    "role": "Assistant",
+    "desc": "Assistant en Bachelor Communication visuelle  CV",
+    "img": "/img/photo/CamporotaGianni.jpg",
+    "email": "gianni.camporota@ecal.ch"
+  },
+  {
+    "name": "Carballo Idoia",
+    "role": "Etudiant",
+    "desc": "  option Design graphique",
+    "img": "/img/photo/CarballoIdoia.jpg",
+    "email": "idoia.carballo@ecal.ch"
+  },
+  {
+    "name": "Cardinaux Luana",
+    "role": "Etudiant",
+    "desc": "  option Arts visuels",
+    "img": "/img/photo/CardinauxLuana.jpg",
+    "email": "luana.cardinaux@ecal.ch"
+  },
+  {
+    "name": "Carlier Loucia",
+    "role": "Etudiant",
+    "desc": " 2e année Master Arts visuels  - European Art Ensemble",
+    "img": "/img/photo/CarlierLoucia.jpg",
+    "email": "loucia.carlier@ecal.ch"
+  },
+  {
+    "name": "Caron Julia",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/CaronJulia.jpg",
+    "email": "julia.caron@ecal.ch"
+  },
+  {
+    "name": "Carrié Valentin",
+    "role": "Etudiant",
+    "desc": " 1re année Master Arts visuels  - European Art Ensemble",
+    "img": "/img/photo/CarrieValentin.jpg",
+    "email": "valentin.carrie@ecal.ch"
+  },
+  {
+    "name": "Carron Valentin",
+    "role": "Professeur",
+    "desc": "Professeur en Master Arts Visuels  AV",
+    "img": "/img/photo/CarronValentin.jpg",
+    "email": "valentin.carron@ecal.ch"
+  },
+  {
+    "name": "Casasnovas Dylan",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/CasasnovasDylan.jpg",
+    "email": "dylan.casasnovas@ecal.ch"
+  },
+  {
+    "name": "Cauville Claudia",
+    "role": "Etudiant",
+    "desc": " 1re année MAS in Design for Luxury &amp; Craftsmanship",
+    "img": "/img/photo/CauvilleClaudia.jpg",
+    "email": "claudia.cauville@ecal.ch"
+  },
+  {
+    "name": "Cavicchioli Sara",
+    "role": "Etudiant",
+    "desc": " 1re année Master Arts visuels  - European Art Ensemble",
+    "img": "/img/photo/CavicchioliSara.jpg",
+    "email": "sara.cavicchioli@ecal.ch"
+  },
+  {
+    "name": "Cazier Romain",
+    "role": "Assistant",
+    "desc": "Assistant en Bachelor Design Graphique et Media &amp; interaction Design  CVdg",
+    "img": "/img/photo/CazierRomain.jpg",
+    "email": "romain.cazier@ecal.ch"
+  },
+  {
+    "name": "Celikovic Jasmina",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/CELIKOVICJASMINA.jpg",
+    "email": "jasmina.celikovic@ecal.ch"
+  },
+  {
+    "name": "Cermeno Paula",
+    "role": "Etudiant",
+    "desc": " 2e année Master Design en Design de Produit",
+    "img": "/img/photo/CermenoPaula.jpg",
+    "email": "paula.cermeno@ecal.ch"
+  },
+  {
+    "name": "Chabloz Christian",
+    "role": "Professeur",
+    "desc": "Professeur en Bachelor Design Industriel  DI",
+    "img": "/img/photo/ChablozChristian.jpg",
+    "email": "christian.chabloz@ecal.ch"
+  },
+  {
+    "name": "Chaffiotte Hugo",
+    "role": "Etudiant",
+    "desc": " 2e année Master Design en Design de Produit",
+    "img": "/img/photo/ChaffiotteHugo.jpg",
+    "email": "hugo.chaffiotte@ecal.ch"
+  },
+  {
+    "name": "Chaintreau Julien",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/CHAINTREAUJULIEN.jpg",
+    "email": "julien.chaintreau@ecal.ch"
+  },
+  {
+    "name": "Chambers Audrey",
+    "role": "Collaborateur",
+    "desc": "Collaboratrice administrative  SEC",
+    "img": "/img/photo/ChambersAudrey.jpg",
+    "email": "audrey.chambers@ecal.ch"
+  },
+  {
+    "name": "Chatriot Salomé",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/Chatriotsalome.jpg",
+    "email": "salome.chatriot@ecal.ch"
+  },
+  {
+    "name": "Chauvet Alix",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design graphique",
+    "img": "/img/photo/CHAUVETALIX.jpg",
+    "email": "alix.chauvet@ecal.ch"
+  },
+  {
+    "name": "Chauvin Antoine",
+    "role": "Etudiant",
+    "desc": " 2e année Master Design en Design de Produit",
+    "img": "/img/photo/ChauvinAntoine.jpg",
+    "email": "antoine.chauvin@ecal.ch"
+  },
+  {
+    "name": "Chenaux Maëlle",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/ChenauxMaelle.jpg",
+    "email": "maelle.chenaux@ecal.ch"
+  },
+  {
+    "name": "Chestopaloff Ivan",
+    "role": "Etudiant",
+    "desc": "  option Media &amp; Interaction Design",
+    "img": "/img/photo/ChestopaloffIvan.jpg",
+    "email": "ivan.chestopaloff@ecal.ch"
+  },
+  {
+    "name": "Chevalley Line",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Arts visuels",
+    "img": "/img/photo/CHEVALLEYLINE.jpg",
+    "email": "line.chevalley@ecal.ch"
+  },
+  {
+    "name": "Chevrier Bastien",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Design de Produit",
+    "img": "/img/photo/ChevrierBastien.jpg",
+    "email": "bastien.chevrier@ecal.ch"
+  },
+  {
+    "name": "Christe Lison",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/ChristeLison.jpg",
+    "email": "lison.christe@ecal.ch"
+  },
+  {
+    "name": "Chu Yen-Hao",
+    "role": "Etudiant",
+    "desc": " 2e année Master Design en Design de Produit",
+    "img": "/img/photo/ChuYenHao.jpg",
+    "email": "yen-hao.chu@ecal.ch"
+  },
+  {
+    "name": "Chytil Zoé",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design graphique",
+    "img": "/img/photo/ChytilZoe.jpg",
+    "email": "zoe.chytil@ecal.ch"
+  },
+  {
+    "name": "Claessens Bastien",
+    "role": "Etudiant",
+    "desc": "  option Media &amp; Interaction Design",
+    "img": "/img/photo/ClaessensBastien.jpg",
+    "email": "bastien.claessens@ecal.ch"
+  },
+  {
+    "name": "Claret Arnaud",
+    "role": "Etudiant",
+    "desc": "  option Design graphique",
+    "img": "/img/photo/ClaretArnaud.jpg",
+    "email": "arnaud.claret@ecal.ch"
+  },
+  {
+    "name": "Claudin Célestine",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design graphique",
+    "img": "/img/photo/ClaudinCelestine.jpg",
+    "email": "celestine.claudin@ecal.ch"
+  },
+  {
+    "name": "Clozza Danaé",
+    "role": "Etudiant",
+    "desc": "  option Photographie",
+    "img": "/img/photo/ClozzaDanae.jpg",
+    "email": "danae.clozza@ecal.ch"
+  },
+  {
+    "name": "Collin Juliette",
+    "role": "Etudiant",
+    "desc": " 2e année Master Art Direction",
+    "img": "/img/photo/CollinJuliette.jpg",
+    "email": "juliette.collin@ecal.ch"
+  },
+  {
+    "name": "Colson Mathilde",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/COLSONMATHILDE.jpg",
+    "email": "mathilde.colson@ecal.ch"
+  },
+  {
+    "name": "Comar Thaddé",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Photographie",
+    "img": "/img/photo/ComarThadde.jpg",
+    "email": "thadde.comar@ecal.ch"
+  },
+  {
+    "name": "Comte Hugo",
+    "role": "Etudiant",
+    "desc": "  option Photographie",
+    "img": "/img/photo/ComteHugo.jpg",
+    "email": "hugo.comte@ecal.ch"
+  },
+  {
+    "name": "Confort Coline",
+    "role": "Etudiant",
+    "desc": "  option Cinéma",
+    "img": "/img/photo/ConfortColine.jpg",
+    "email": "coline.confort@ecal.ch"
+  },
+  {
+    "name": "Connor Elise",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design graphique",
+    "img": "/img/photo/ConnorElise.jpg",
+    "email": "elise.connor@ecal.ch"
+  },
+  {
+    "name": "Constantin Raphaël",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/ConstantinRaphael.jpg",
+    "email": "raphael.constantin@ecal.ch"
+  },
+  {
+    "name": "Conte Luna",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Photographie",
+    "img": "/img/photo/ConteLuna.jpg",
+    "email": "luna.conte@ecal.ch"
+  },
+  {
+    "name": "Conus Sophie",
+    "role": "Etudiant",
+    "desc": "  option Arts visuels",
+    "img": "/img/photo/ConusSophie.jpg",
+    "email": "sophie.conus@ecal.ch"
+  },
+  {
+    "name": "Coppet Sarah",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Photographie",
+    "img": "/img/photo/CoppetSarah.jpg",
+    "email": "sarah.coppet@ecal.ch"
+  },
+  {
+    "name": "Coquelle Camille",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/COQUELLECAMILLE.jpg",
+    "email": "camille.coquelle@ecal.ch"
+  },
+  {
+    "name": "Corboz Gaël",
+    "role": "Etudiant",
+    "desc": "  option Photographie",
+    "img": "/img/photo/CorbozGael.jpg",
+    "email": "gael.corboz@ecal.ch"
+  },
+  {
+    "name": "Corda Margaux",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Photographie",
+    "img": "/img/photo/CORDAMARGAUX.jpg",
+    "email": "margaux.corda@ecal.ch"
+  },
+  {
+    "name": "Corday Julie",
+    "role": "Etudiant",
+    "desc": "  option Design industriel",
+    "img": "/img/photo/CordayJulie.jpg",
+    "email": "julie.corday@ecal.ch"
+  },
+  {
+    "name": "Cornelius Zoé",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Arts visuels",
+    "img": "/img/photo/CorneliusZoe.jpg",
+    "email": "zoe.cornelius@ecal.ch"
+  },
+  {
+    "name": "Cornil Marie",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/CornilMarie.jpg",
+    "email": "marie.cornil@ecal.ch"
+  },
+  {
+    "name": "Corpataux Elise",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Arts visuels",
+    "img": "/img/photo/CORPATAUXELISE.jpg",
+    "email": "elise.corpataux@ecal.ch"
+  },
+  {
+    "name": "Correvon Marion",
+    "role": "Collaborateur",
+    "desc": "Assistante RH  RH",
+    "img": "/img/photo/CorrevonMarion.jpg",
+    "email": "marion.correvon@ecal.ch"
+  },
+  {
+    "name": "Cortat Matthieu",
+    "role": "Professeur",
+    "desc": "Responsable du Master Type Design  MAad",
+    "email": "matthieu.cortat@ecal.ch"
+  },
+  {
+    "name": "Cottenceau Geoffrey",
+    "role": "Professeur",
+    "desc": "Professeur en Bachelor Arts Visuels  AV",
+    "img": "/img/photo/CottenceauGeoffrey.jpg",
+    "email": "geoffrey.cottenceau@ecal.ch"
+  },
+  {
+    "name": "Cotter Noé",
+    "role": "Etudiant",
+    "desc": "  option Photographie",
+    "img": "/img/photo/CotterNoe.jpg",
+    "email": "noe.cotter@ecal.ch"
+  },
+  {
+    "name": "Courtinat Mélanie",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/CourtinatMelanie.jpg",
+    "email": "melanie.courtinat@ecal.ch"
+  },
+  {
+    "name": "Crettex Nathan",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/CrettexNathan.jpg",
+    "email": "nathan.crettex@ecal.ch"
+  },
+  {
+    "name": "Croci-Torti Sylvain",
+    "role": "Collaborateur",
+    "desc": "Artisan en sérigraphie  IMP",
+    "img": "/img/photo/CrociTortiSylvain.jpg",
+    "email": "sylvain.croci-torti@ecal.ch"
+  },
+  {
+    "name": "Cugulliere Adrien",
+    "role": "Etudiant",
+    "desc": " 2e année Master Design en Design de Produit",
+    "img": "/img/photo/CugulliereAdrien.jpg",
+    "email": "adrien.cugulliere@ecal.ch"
+  },
+  {
+    "name": "Da Cas Tommaso",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Arts visuels",
+    "img": "/img/photo/DaCasTommaso.jpg",
+    "email": "tommaso.da_cas@ecal.ch"
+  },
+  {
+    "name": "Dafflon Stéphane",
+    "role": "Professeur",
+    "desc": "Professeur en Bachelor Arts Visuels  AV",
+    "img": "/img/photo/DafflonStephane.jpg",
+    "email": "stephane.dafflon@ecal.ch"
+  },
+  {
+    "name": "Daguet Marina",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/DaguetMarina.jpg",
+    "email": "marina.daguet@ecal.ch"
+  },
+  {
+    "name": "Dall&apos;Omo Olivia",
+    "role": "Etudiant",
+    "desc": "  option Design industriel",
+    "img": "/img/photo/DallOmoOlivia.jpg",
+    "email": "olivia.dallomo@ecal.ch"
+  },
+  {
+    "name": "Dalla Libera Nadia",
+    "role": "Collaborateur",
+    "desc": "Collaboratrice administrative  SEC",
+    "img": "/img/photo/Dalla Libera Nadia.jpg",
+    "email": "nadia.dalla_libera@ecal.ch"
+  },
+  {
+    "name": "Davila Sebastian",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design graphique",
+    "img": "/img/photo/DavilaSebastian.jpg",
+    "email": "sebastian.davila@ecal.ch"
+  },
+  {
+    "name": "De Crecy Athime",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/deCrecyAthime.jpg",
+    "email": "athime.de_crecy@ecal.ch"
+  },
+  {
+    "name": "De La Torre Mathias",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Arts visuels",
+    "img": "/img/photo/DeLaTorreMathias.jpg",
+    "email": "mathias.de_la_torre@ecal.ch"
+  },
+  {
+    "name": "De Nicola Caterina",
+    "role": "Etudiant",
+    "desc": " 1re année Master Arts visuels  - European Art Ensemble",
+    "img": "/img/photo/DeNicolaCaterina.jpg",
+    "email": "caterina.de_nicola@ecal.ch"
+  },
+  {
+    "name": "Deceroi Julien",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Photographie",
+    "img": "/img/photo/DeceroiJulien.jpg",
+    "email": "julien.deceroi@ecal.ch"
+  },
+  {
+    "name": "Decrauzat Philippe",
+    "role": "Professeur",
+    "desc": "Professeur en Bachelor Arts Visuels  AV",
+    "img": "/img/photo/DecrauzatPhilippe.jpg",
+    "email": "philippe.decrauzat@ecal.ch"
+  },
+  {
+    "name": "Degen Noémie",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Arts visuels",
+    "img": "/img/photo/DegenNoemie.jpg",
+    "email": "noemie.degen@ecal.ch"
+  },
+  {
+    "name": "Degrandi Natasha",
+    "role": "Etudiant",
+    "desc": "  option Cinéma",
+    "img": "/img/photo/DegrandiNatasha.jpg",
+    "email": "natasha.degrandi@ecal.ch"
+  },
+  {
+    "name": "Dela Céleste",
+    "role": "Etudiant",
+    "desc": "  option Cinéma",
+    "img": "/img/photo/DelaCeleste.jpg",
+    "email": "celeste.dela@ecal.ch"
+  },
+  {
+    "name": "Delahaye Ariane",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design graphique",
+    "img": "/img/photo/DelahayeAriane.jpg",
+    "email": "ariane.delahaye@ecal.ch"
+  },
+  {
+    "name": "Della Casa Fabio",
+    "role": "Collaborateur",
+    "desc": "Mécanicien  MAQ",
+    "img": "/img/photo/DellaCasaFabio.jpeg",
+    "email": "fabio.della_casa@ecal.ch"
+  },
+  {
+    "name": "Dellova Anjesa",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Arts visuels",
+    "img": "/img/photo/DellovaAnjesa.jpg",
+    "email": "anjesa.dellova@ecal.ch"
+  },
+  {
+    "name": "Delseth Anne",
+    "role": "Professeur",
+    "desc": "Coordinatrice du Master Cinéma  MAci",
+    "img": "/img/photo/DelsethAnne.png",
+    "email": "anne.delseth@ecal.ch"
+  },
+  {
+    "name": "Deluz Lucie",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Photographie",
+    "img": "/img/photo/DeluzLucie.jpg",
+    "email": "lucie.deluz@ecal.ch"
+  },
+  {
+    "name": "Demay Amélie",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/DemayAmélie.jpg",
+    "email": "amelie.demay@ecal.ch"
+  },
+  {
+    "name": "Denic Mersad",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design graphique",
+    "img": "/img/photo/DenicMersad.jpg",
+    "email": "mersad.denic@ecal.ch"
+  },
+  {
+    "name": "Deutsch Pauline",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Cinéma",
+    "img": "/img/photo/DeutschPauline.jpg",
+    "email": "pauline.deutsch@ecal.ch"
+  },
+  {
+    "name": "Dewarrat Margaux",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Arts visuels",
+    "img": "/img/photo/DEWARRATMARGAUX.jpg",
+    "email": "margaux.dewarrat@ecal.ch"
+  },
+  {
+    "name": "Di Domenico Tiffany",
+    "role": "Collaborateur",
+    "desc": "Stagiaire Informatique  SI",
+    "email": "tiffany.didomenico@ecal.ch"
+  },
+  {
+    "name": "Di Santo Alessia",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/DiSantoAlessia.jpg",
+    "email": "alessia.di_santo@ecal.ch"
+  },
+  {
+    "name": "Di Venosa Sarah",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design graphique",
+    "img": "/img/photo/DiVenosaSarah.jpg",
+    "email": "sarah.di_venosa@ecal.ch"
+  },
+  {
+    "name": "Diagne Cyril",
+    "role": "Professeur",
+    "desc": "Responsable du Bachelor Media &amp; Interaction Design  CVnm",
+    "img": "/img/photo/DiagneCyril.jpg",
+    "email": "cyril.diagne@ecal.ch"
+  },
+  {
+    "name": "Dizami Kevin",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/DizamiKevin.jpg",
+    "email": "kevin.dizami@ecal.ch"
+  },
+  {
+    "name": "Dloussky Sophie",
+    "role": "Etudiant",
+    "desc": " 1re année Master cinéma",
+    "img": "/img/photo/DlousskiSophie.jpg",
+    "email": "sophie.dloussky@ecal.ch"
+  },
+  {
+    "name": "Dondénaz Céline",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Cinéma",
+    "img": "/img/photo/DondenazCeline.jpg",
+    "email": "celine.dondenaz@ecal.ch"
+  },
+  {
+    "name": "Donias Camille",
+    "role": "Etudiant",
+    "desc": "  option Design industriel",
+    "img": "/img/photo/DoniasCamille.jpg",
+    "email": "camille.donias@ecal.ch"
+  },
+  {
+    "name": "Donnet-Descartes Jenny",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design graphique",
+    "img": "/img/photo/DONNETDESCARTESJENNY.jpg",
+    "email": "jenny.donnet-descartes@ecal.ch"
+  },
+  {
+    "name": "Doucet Salomé",
+    "role": "Etudiant",
+    "desc": "  option Design industriel",
+    "img": "/img/photo/DoucetSalome.jpg",
+    "email": "salome.doucet@ecal.ch"
+  },
+  {
+    "name": "Douglas Calum",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Photographie",
+    "img": "/img/photo/DouglasCalum.jpg",
+    "email": "calum.douglas@ecal.ch"
+  },
+  {
+    "name": "Douma Salim",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/DoumaSalim.jpg",
+    "email": "salim.douma@ecal.ch"
+  },
+  {
+    "name": "Droz Daniela",
+    "role": "Intervenant",
+    "desc": "Chargée de cours en Année Propédeutique  PP",
+    "img": "/img/photo/DrozDaniela.jpg",
+    "email": "daniela.droz@ecal.ch"
+  },
+  {
+    "name": "DuPasquier Alan",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Cinéma",
+    "img": "/img/photo/DuPasquierAlan.jpg",
+    "email": "alan.dupasquier@ecal.ch"
+  },
+  {
+    "name": "Dubois Marc",
+    "role": "Assistant",
+    "desc": "Assistant en Bachelor Media &amp; Interaction Design  CVmid",
+    "img": "/img/photo/Dubois Marc.jpg",
+    "email": "marc.dubois@ecal.ch"
+  },
+  {
+    "name": "Duchoud Xavier",
+    "role": "Collaborateur",
+    "desc": "Directeur adjoint académique  DIR",
+    "email": "xavier.duchoud@ecal.ch"
+  },
+  {
+    "name": "Duchêne Cédric",
+    "role": "Intervenant",
+    "desc": "Chargé de cours en Bachelor Media &amp; Interaction Design  CVnm",
+    "email": "cedric.duchene@ecal.ch"
+  },
+  {
+    "name": "Dupasquier Loïc",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design graphique",
+    "img": "/img/photo/DupasquierLoic.jpg",
+    "email": "loic.dupasquier@ecal.ch"
+  },
+  {
+    "name": "Dupraz Lucile",
+    "role": "Intervenant",
+    "desc": "Assistante Ra&amp;D  RAD",
+    "img": "/img/photo/DuprazLucile.jpg",
+    "email": "lucile.dupraz@ecal.ch"
+  },
+  {
+    "name": "Dupuy Laureline",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Arts visuels",
+    "img": "/img/photo/DupuyLaureline.jpg",
+    "email": "laureline.dupuy@ecal.ch"
+  },
+  {
+    "name": "Durand Astrid",
+    "role": "Etudiant",
+    "desc": "  option Design graphique",
+    "img": "/img/photo/DurandAstrid.jpg",
+    "email": "astrid.durand@ecal.ch"
+  },
+  {
+    "name": "Durussel Déborah",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Arts visuels",
+    "img": "/img/photo/DurusselDeborah.jpg",
+    "email": "deborah.durussel@ecal.ch"
+  },
+  {
+    "name": "Dutoit  Robert",
+    "role": "Collaborateur",
+    "desc": "Responsable du Service Audiovisuel  SA",
+    "email": "robert.dutoit@ecal.ch"
+  },
+  {
+    "name": "Décoppet César",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design graphique",
+    "img": "/img/photo/DecoppetCesar.jpg",
+    "email": "cesar.decoppet@ecal.ch"
+  },
+  {
+    "name": "D’Esposito Martino",
+    "role": "Professeur",
+    "desc": "Professeur en Année Propédeutique (option DI)  DI",
+    "img": "/img/photo/D&apos;EspositoMartino.jpg",
+    "email": "martino.d-esposito@ecal.ch"
+  },
+  {
+    "name": "Ekstam Cecilia",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Arts visuels",
+    "img": "/img/photo/EkstamCecilia.jpg",
+    "email": "cecilia.ekstam@ecal.ch"
+  },
+  {
+    "name": "El Kadiri Nicolas",
+    "role": "Etudiant",
+    "desc": "  option Design industriel",
+    "img": "/img/photo/ElKadiriNicolas.jpg",
+    "email": "nicolas.el_kadiri@ecal.ch"
+  },
+  {
+    "name": "Enz Simon",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/EnzSimon.jpg",
+    "email": "simon.enz@ecal.ch"
+  },
+  {
+    "name": "Estrada Leon Oscar",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Design de Produit",
+    "img": "/img/photo/EstradaOscar.jpg",
+    "email": "oscar.estrada_leon@ecal.ch"
+  },
+  {
+    "name": "Fachini Massimiliano",
+    "role": "Etudiant",
+    "desc": "  option Design industriel",
+    "img": "/img/photo/FachiniMassimiliano.jpg",
+    "email": "massimiliano.fachini@ecal.ch"
+  },
+  {
+    "name": "Fardel Swann",
+    "role": "Etudiant",
+    "desc": "  option Design industriel",
+    "img": "/img/photo/FardelSwann.jpg",
+    "email": "swann.fardel@ecal.ch"
+  },
+  {
+    "name": "Farhan Selma",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design graphique",
+    "img": "/img/photo/FarhanSelma.jpg",
+    "email": "selma.farhan@ecal.ch"
+  },
+  {
+    "name": "Farra Leila",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/FarraLeila.jpg",
+    "email": "leila.farra@ecal.ch"
+  },
+  {
+    "name": "Faucheux Thomas",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/FaucheuxThomas.jpg",
+    "email": "thomas.faucheux@ecal.ch"
+  },
+  {
+    "name": "Faure Gaël",
+    "role": "Intervenant",
+    "desc": "Chargé de cours en Année Propédeutique  PP",
+    "img": "/img/photo/FaureGael.jpg",
+    "email": "gael.faure@ecal.ch"
+  },
+  {
+    "name": "Favez Laurence",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design graphique",
+    "img": "/img/photo/FavezLaurence.jpg",
+    "email": "laurence.favez@ecal.ch"
+  },
+  {
+    "name": "Favre Bastien",
+    "role": "Collaborateur",
+    "desc": "Artisan  MAQ",
+    "img": "/img/photo/FavreBastien.jpg",
+    "email": "bastien.favre@ecal.ch"
+  },
+  {
+    "name": "Favre Jeanne",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Photographie",
+    "img": "/img/photo/FavreJeanne.jpg",
+    "email": "jeanne.favre@ecal.ch"
+  },
+  {
+    "name": "Fazel Elie",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/FazelElie.jpg",
+    "email": "elie.fazel@ecal.ch"
+  },
+  {
+    "name": "Fedrigo Gaël",
+    "role": "Etudiant",
+    "desc": "  option Arts visuels",
+    "img": "/img/photo/FedrigoGael.jpg",
+    "email": "gael.fedrigo@ecal.ch"
+  },
+  {
+    "name": "Ferla Giulia",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design graphique",
+    "img": "/img/photo/FerlaGiulia.jpg",
+    "email": "giulia.ferla@ecal.ch"
+  },
+  {
+    "name": "Fernandez Boris",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design graphique",
+    "img": "/img/photo/FernandezBoris.jpg",
+    "email": "boris.fernandez@ecal.ch"
+  },
+  {
+    "name": "Figueirinha Francisco",
+    "role": "Collaborateur",
+    "desc": "Intendant  LOG",
+    "email": "francisco.figueirinha@ecal.ch"
+  },
+  {
+    "name": "Findji Cyane",
+    "role": "Etudiant",
+    "desc": "  option Arts visuels",
+    "img": "/img/photo/FindjiCyane.jpg",
+    "email": "cyane.findji@ecal.ch"
+  },
+  {
+    "name": "Fiorentino Laurent",
+    "role": "Etudiant",
+    "desc": "  option Photographie",
+    "img": "/img/photo/FiorentinoLaurent.jpg",
+    "email": "laurent.fiorentino@ecal.ch"
+  },
+  {
+    "name": "Flahaut Antoine",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Cinéma",
+    "img": "/img/photo/FlahautAntoine.jpg",
+    "email": "antoine.flahaut@ecal.ch"
+  },
+  {
+    "name": "Flückiger Kimyan",
+    "role": "Etudiant",
+    "desc": "  option Cinéma",
+    "img": "/img/photo/FluckigerKimyan.jpg",
+    "email": "kimyan.fluckiger@ecal.ch"
+  },
+  {
+    "name": "Follonier Gabriel",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/FollonierGabriel.jpg",
+    "email": "gabriel.follonier@ecal.ch"
+  },
+  {
+    "name": "Fornari Davide",
+    "role": "Professeur",
+    "desc": "Responsable Ra&amp;D  RAD",
+    "email": "davide.fornari@ecal.ch"
+  },
+  {
+    "name": "Fosse Arthur",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/FosseArthur.jpg",
+    "email": "arthur.fosse@ecal.ch"
+  },
+  {
+    "name": "Fouqueron Johanne",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/FOUQUERONJOHANNE.jpg",
+    "email": "johanne.fouqueron@ecal.ch"
+  },
+  {
+    "name": "Fourteau Angèle",
+    "role": "Etudiant",
+    "desc": " 1re année MAS in Design for Luxury &amp; Craftsmanship",
+    "img": "/img/photo/FourteauAngele.jpg",
+    "email": "angele.fourteau@ecal.ch"
+  },
+  {
+    "name": "Fovanna Ivo",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Photographie",
+    "img": "/img/photo/FovannaIvo.jpg",
+    "email": "ivo.fovanna@ecal.ch"
+  },
+  {
+    "name": "Frager Alexandre",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Cinéma",
+    "img": "/img/photo/FragerAlexandre.jpg",
+    "email": "alexandre.frager@ecal.ch"
+  },
+  {
+    "name": "Fragnière Philippe",
+    "role": "Intervenant",
+    "desc": "Chargé de cours en Année Propédeutique (option PH)  CVdg",
+    "img": "/img/photo/FragnierePhilippe.jpg",
+    "email": "philippe.fragniere@ecal.ch"
+  },
+  {
+    "name": "Franchetti Alice",
+    "role": "Assistant",
+    "desc": "Assistante en Bachelor Design Graphique  CVdg",
+    "img": "/img/photo/FranchettiAlice.jpg",
+    "email": "alice.franchetti@ecal.ch"
+  },
+  {
+    "name": "Frichet Quentin",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/FrichetQuentin.jpg",
+    "email": "quentin.frichet@ecal.ch"
+  },
+  {
+    "name": "Froger Magdalena",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Cinéma",
+    "img": "/img/photo/FrogerMagdalena.jpg",
+    "email": "magdalena.froger@ecal.ch"
+  },
+  {
+    "name": "Fumero Gabriele",
+    "role": "Etudiant",
+    "desc": " 2e année Master Art Direction",
+    "img": "/img/photo/FumeroGabriele.jpg",
+    "email": "gabriele.fumero@ecal.ch"
+  },
+  {
+    "name": "Gabriel Tina",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design graphique",
+    "img": "/img/photo/GABRIELTINA.jpg",
+    "email": "tina.gabriel@ecal.ch"
+  },
+  {
+    "name": "Gachet Ernest",
+    "role": "Etudiant",
+    "desc": "  option Arts visuels",
+    "img": "/img/photo/GachetErnest.jpg",
+    "email": "ernest.gachet@ecal.ch"
+  },
+  {
+    "name": "Gafsou Matthieu",
+    "role": "Intervenant",
+    "desc": "Chargé de cours en Année Propédeutique (option PH)  PP",
+    "email": "matthieu.gafsou@ecal.ch"
+  },
+  {
+    "name": "Gagliardi Louisa",
+    "role": "Intervenant",
+    "desc": "Chargée de cours en Année Propédeutique  CVdg",
+    "img": "/img/photo/GagliardiLouisa.jpg",
+    "email": "louisa.gagliardi@ecal.ch"
+  },
+  {
+    "name": "Gaillard Alexandre",
+    "role": "Professeur",
+    "desc": "Professeur en Bachelor Design Industriel   DI",
+    "img": "/img/photo/GaillardAlexandre.jpg",
+    "email": "alexandre.gaillard@ecal.ch"
+  },
+  {
+    "name": "Gameiro Guillaume",
+    "role": "Collaborateur",
+    "desc": "Typographiste / assistant pré-presse  IMP",
+    "email": "guillaume.gameiro@ecal.ch"
+  },
+  {
+    "name": "Garavaglia Gabriele",
+    "role": "Etudiant",
+    "desc": " 2e année Master Arts visuels  - European Art Ensemble",
+    "img": "/img/photo/GaravagliaGabriele.jpg",
+    "email": "gabriele.garavaglia@ecal.ch"
+  },
+  {
+    "name": "Garcia Argos Isabel",
+    "role": "Etudiant",
+    "desc": "  option Design graphique",
+    "img": "/img/photo/Garcia ArgosIsabel.jpg",
+    "email": "isabel.garcia_argos@ecal.ch"
+  },
+  {
+    "name": "Garcia Rennó Pereira Eduardo",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Type Design",
+    "img": "/img/photo/GarciaEduardo.jpg",
+    "email": "eduardo.garcia@ecal.ch"
+  },
+  {
+    "name": "Garcia Tristan",
+    "role": "Intervenant",
+    "desc": "Chargé de cours en Bachelor et Master Arts Visuels  MAav",
+    "img": "/img/photo/GarciaTristan.jpg",
+    "email": "tristan.garcia@ecal.ch"
+  },
+  {
+    "name": "Gashi Ilirjana",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Arts visuels",
+    "img": "/img/photo/GashiIlirjana.jpg",
+    "email": "ilirjana.gashi@ecal.ch"
+  },
+  {
+    "name": "Gassmann Stefania",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design graphique",
+    "img": "/img/photo/GassmannStefania.jpg",
+    "email": "stefania.gassmann@ecal.ch"
+  },
+  {
+    "name": "Gatti Loana",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design graphique",
+    "img": "/img/photo/GattiLoana.jpg",
+    "email": "loana.gatti@ecal.ch"
+  },
+  {
+    "name": "Gatto Samy",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design graphique",
+    "img": "/img/photo/GattoSamy.jpg",
+    "email": "samy.gatto@ecal.ch"
+  },
+  {
+    "name": "Gaugué Mathilde",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Arts visuels",
+    "img": "/img/photo/GaugueMathilde.jpg",
+    "email": "mathilde.gaugue@ecal.ch"
+  },
+  {
+    "name": "Gavillet Gilles",
+    "role": "Professeur",
+    "desc": "Professeur en Bachelor Design Graphique  CVdg",
+    "img": "/img/photo/GavilletGilles.jpg",
+    "email": "gilles.gavillet@ecal.ch"
+  },
+  {
+    "name": "Gay Charlie",
+    "role": "Etudiant",
+    "desc": " 1re année Master Arts visuels  - European Art Ensemble",
+    "img": "/img/photo/GayCharlie.jpg",
+    "email": "charlie.gay@ecal.ch"
+  },
+  {
+    "name": "Gazic Sandi",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design graphique",
+    "img": "/img/photo/GazicSandi.jpg",
+    "email": "sandi.gazic@ecal.ch"
+  },
+  {
+    "name": "Geiser Aloïs",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/GeiserAlois.jpg",
+    "email": "alois.geiser@ecal.ch"
+  },
+  {
+    "name": "Georgacopoulos Alexis",
+    "role": "Collaborateur",
+    "desc": "Directeur  DIR",
+    "email": "alexis.georgacopoulos@ecal.ch"
+  },
+  {
+    "name": "Gex Alizée",
+    "role": "Etudiant",
+    "desc": "  option Photographie",
+    "img": "/img/photo/GexAlizee.jpg",
+    "email": "alizee.gex@ecal.ch"
+  },
+  {
+    "name": "Ghanmi Souhaïb",
+    "role": "Etudiant",
+    "desc": "  option Design industriel",
+    "img": "/img/photo/GhanmiSouhaib.jpg",
+    "email": "souhaib.ghanmi@ecal.ch"
+  },
+  {
+    "name": "Ghazale Serge",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Arts visuels",
+    "img": "/img/photo/GHAZALESERGE.jpg",
+    "email": "serge.ghazale@ecal.ch"
+  },
+  {
+    "name": "Ghio Chiara",
+    "role": "Etudiant",
+    "desc": " 1re année Master cinéma",
+    "img": "/img/photo/GhioChiara.jpg",
+    "email": "chiara.ghio@ecal.ch"
+  },
+  {
+    "name": "Gicquel Clément",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design graphique",
+    "img": "/img/photo/GicquelClement.jpg",
+    "email": "clement.gicquel@ecal.ch"
+  },
+  {
+    "name": "Giglio Théa",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Photographie",
+    "img": "/img/photo/GiglioThea.jpg",
+    "email": "thea.giglio@ecal.ch"
+  },
+  {
+    "name": "Gini Amandine",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/GiniAmandine.jpg",
+    "email": "amandine.gini@ecal.ch"
+  },
+  {
+    "name": "Giordano Lucas",
+    "role": "Etudiant",
+    "desc": "  option Cinéma",
+    "img": "/img/photo/GiordanoLucas.jpg",
+    "email": "lucas.giordano@ecal.ch"
+  },
+  {
+    "name": "Giraudo Marine",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design graphique",
+    "img": "/img/photo/GiraudoMarine.jpg",
+    "email": "marine.giraudo@ecal.ch"
+  },
+  {
+    "name": "Gomboso Loris",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/GOMBOSOLORIS.jpg",
+    "email": "loris.gomboso@ecal.ch"
+  },
+  {
+    "name": "Gomez Bastien",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Photographie",
+    "img": "/img/photo/GomezBastien.jpg",
+    "email": "bastien.gomez@ecal.ch"
+  },
+  {
+    "name": "Gonin Yasmina",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Photographie",
+    "img": "/img/photo/GONINYASMINA.jpg",
+    "email": "yasmina.gonin@ecal.ch"
+  },
+  {
+    "name": "González Arjona Miguel Ángel",
+    "role": "Etudiant",
+    "desc": " 1re année MAS in Design for Luxury &amp; Craftsmanship",
+    "img": "/img/photo/GonzalezMiguel.jpg",
+    "email": "miguel.gonzalez_arjona@ecal.ch"
+  },
+  {
+    "name": "Gossweiler Julien",
+    "role": "Collaborateur",
+    "desc": "Assistant technique  SA",
+    "img": "/img/photo/GossweilerJulien.jpg",
+    "email": "julien.gossweiler@ecal.ch"
+  },
+  {
+    "name": "Gramage Nathan",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/GRAMAGENATHAN.jpg",
+    "email": "nathan.gramage@ecal.ch"
+  },
+  {
+    "name": "Grange Carmen",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Photographie",
+    "img": "/img/photo/GrangeCarmen.jpg",
+    "email": "carmen.grange@ecal.ch"
+  },
+  {
+    "name": "Gras Marie-Camille",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/GrasMarieCamille.jpg",
+    "email": "marie-camille.gras@ecal.ch"
+  },
+  {
+    "name": "Greco Laurie",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/GRECOLAURIE.jpg",
+    "email": "laurie.greco@ecal.ch"
+  },
+  {
+    "name": "Gross Sébastian",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design graphique",
+    "img": "/img/photo/GrossSebastian.jpg",
+    "email": "sebastia.gross@ecal.ch"
+  },
+  {
+    "name": "Grunewald Eliott",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Type Design",
+    "img": "/img/photo/GrunewaldEliott.jpg",
+    "email": "eliott.grunewald@ecal.ch"
+  },
+  {
+    "name": "Guberan Christophe",
+    "role": "Intervenant",
+    "desc": "Chargé de cours en Bachelor Design Industriel  DI",
+    "img": "/img/photo/GuberanChristophe.jpg",
+    "email": "christophe.guberan@ecal.ch"
+  },
+  {
+    "name": "Guetta Iskander",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/GUETTAISKANDER.jpg",
+    "email": "iskander.guetta@ecal.ch"
+  },
+  {
+    "name": "Guex Anthony",
+    "role": "Assistant",
+    "desc": "Assistant en Master Design de Produit  MAdp",
+    "img": "/img/photo/GuexAnthony.jpg",
+    "email": "anthony.guex@ecal.ch"
+  },
+  {
+    "name": "Guignard Christophe",
+    "role": "Professeur",
+    "desc": "Professeur en Année Propédeutique et Bachelor Media &amp; Interaction Design  CVnm",
+    "img": "/img/photo/GuignardChristophe.jpg",
+    "email": "christophe.guignard@ecal.ch"
+  },
+  {
+    "name": "Guillaume Géraldine",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/GuillaumeGeraldine.jpg",
+    "email": "geraldine.guillaume@ecal.ch"
+  },
+  {
+    "name": "Guittet Victor",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/GuittetVictor.jpg",
+    "email": "victor.guittet@ecal.ch"
+  },
+  {
+    "name": "Gunti Claus",
+    "role": "Professeur",
+    "desc": "Professeur de Théorie en Année Propédeutique, Bachelor et Master Design  UT",
+    "img": "/img/photo/GuntiClaus.jpg",
+    "email": "claus.gunti@ecal.ch"
+  },
+  {
+    "name": "Guyon Maxime",
+    "role": "Assistant",
+    "desc": "Assistant en Master Photographie  MAad",
+    "img": "/img/photo/GuyonMaxime.jpg",
+    "email": "maxime.guyon@ecal.ch"
+  },
+  {
+    "name": "Gün Solène",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Photographie",
+    "img": "/img/photo/GunSolene.jpg",
+    "email": "solene.gun@ecal.ch"
+  },
+  {
+    "name": "Hadjigeorgiou Clio",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design graphique",
+    "img": "/img/photo/HadjigeorgiouClio.jpg",
+    "email": "clio.hadjigeorgiou@ecal.ch"
+  },
+  {
+    "name": "Halmaï-Voisard Stéphane",
+    "role": "Professeur",
+    "desc": "Responsable du Bachelor Design Industriel  DI",
+    "email": "stephane.halmai@ecal.ch"
+  },
+  {
+    "name": "Hammouti Nora",
+    "role": "Etudiant",
+    "desc": " 1re année MAS in Design for Luxury &amp; Craftsmanship",
+    "img": "/img/photo/HammoutiNora.jpg",
+    "email": "nora.hammouti@ecal.ch"
+  },
+  {
+    "name": "Hamon Amaury",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design graphique",
+    "img": "/img/photo/HAMONAMAURY.jpg",
+    "email": "amaury.hamon@ecal.ch"
+  },
+  {
+    "name": "Hans-Moëvi Louis",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Cinéma",
+    "img": "/img/photo/HansMoeviLouis.jpg",
+    "email": "louis.hans-moevi@ecal.ch"
+  },
+  {
+    "name": "Haussener Lucas",
+    "role": "Etudiant",
+    "desc": "  option Design graphique",
+    "img": "/img/photo/HaussenerLucas.jpg",
+    "email": "lucas.haussener@ecal.ch"
+  },
+  {
+    "name": "Hayat Dora",
+    "role": "Etudiant",
+    "desc": "  option Design industriel",
+    "img": "/img/photo/HayatDora.jpg",
+    "email": "dora.hayat@ecal.ch"
+  },
+  {
+    "name": "Heeb Catherine",
+    "role": "Etudiant",
+    "desc": " 1re année Master Arts visuels  - European Art Ensemble",
+    "img": "/img/photo/HeebCatherine.jpg",
+    "email": "catherine.heeb@ecal.ch"
+  },
+  {
+    "name": "Henz Linn",
+    "role": "Etudiant",
+    "desc": "  option Cinéma",
+    "img": "/img/photo/HenzLin.jpg",
+    "email": "linn.henz@ecal.ch"
+  },
+  {
+    "name": "Herrera Emeline",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Arts visuels",
+    "img": "/img/photo/HERRERAEMELINE.jpg",
+    "email": "emeline.herrera@ecal.ch"
+  },
+  {
+    "name": "Heymoz Pierre",
+    "role": "Collaborateur",
+    "desc": "Electricien  LOG",
+    "img": "/img/photo/HeymozPierre.jpg",
+    "email": "pierre.heymoz@ecal.ch"
+  },
+  {
+    "name": "Hilpertshauser Mégane",
+    "role": "Etudiant",
+    "desc": "  option Design industriel",
+    "img": "/img/photo/HilpertshauserMegane.jpg",
+    "email": "megane.hilpertshauser@ecal.ch"
+  },
+  {
+    "name": "Hiraldo Voleau Karla",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Photographie",
+    "img": "/img/photo/HiraldoVoleauKarla.jpg",
+    "email": "karla.hiraldo_voleau@ecal.ch"
+  },
+  {
+    "name": "Ho Norida",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Photographie",
+    "img": "/img/photo/HoNorida.jpg",
+    "email": "norida.ho@ecal.ch"
+  },
+  {
+    "name": "Holweck Christian",
+    "role": "Etudiant",
+    "desc": " 2e année Master Design en Design de Produit",
+    "img": "/img/photo/HolweckChristian.jpg",
+    "email": "christian.holweck@ecal.ch"
+  },
+  {
+    "name": "Holzner  Svetlana",
+    "role": "Etudiant",
+    "desc": "  option Design industriel",
+    "img": "/img/photo/SvetlanaHolzner.jpg",
+    "email": "svetlana.holzner@ecal.ch"
+  },
+  {
+    "name": "Huber Robert",
+    "role": "Intervenant",
+    "desc": "Chargé de cours en Bachelor Design Graphique  CVdg",
+    "img": "/img/photo/HuberRobert.jpg",
+    "email": "robert.huber@ecal.ch"
+  },
+  {
+    "name": "Hugo Gaël",
+    "role": "Professeur",
+    "desc": "Professeur en Bachelor Media &amp; Interaction Design  CVnm",
+    "img": "/img/photo/HugoGael.jpg",
+    "email": "gael.hugo@ecal.ch"
+  },
+  {
+    "name": "Hurni Benjamin",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Photographie",
+    "img": "/img/photo/HurniBenjamin.jpg",
+    "email": "benjamin.hurni@ecal.ch"
+  },
+  {
+    "name": "Husi Baptiste",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/HusiBaptiste.jpg",
+    "email": "baptiste.husi@ecal.ch"
+  },
+  {
+    "name": "Iso Nelson",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Cinéma",
+    "img": "/img/photo/IsoNelson.jpg",
+    "email": "nelson.iso@ecal.ch"
+  },
+  {
+    "name": "Isoz Jean-Michel",
+    "role": "Collaborateur",
+    "desc": "RH et adjoint financier  SF",
+    "email": "jean-michel.isoz@ecal.ch"
+  },
+  {
+    "name": "Ito Mariko",
+    "role": "Etudiant",
+    "desc": "  option Design industriel",
+    "img": "/img/photo/ItoMariko.jpg",
+    "email": "mariko.ito@ecal.ch"
+  },
+  {
+    "name": "Jacquard Victor",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/JacquardVictor.jpg",
+    "email": "victor.jacquard@ecal.ch"
+  },
+  {
+    "name": "Jacquat Antoine",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/JacquatAntoine.jpg",
+    "email": "antoine.jacquat@ecal.ch"
+  },
+  {
+    "name": "Jacquier Vincent",
+    "role": "Professeur",
+    "desc": "Responsable du Bachelor Communication Visuelle  CVnm",
+    "email": "vincent.jacquier@ecal.ch"
+  },
+  {
+    "name": "Jambers Marie",
+    "role": "Etudiant",
+    "desc": " 1re année Master Arts visuels  - European Art Ensemble",
+    "img": "/img/photo/JambersMarie.jpg",
+    "email": "marie.jambers@ecal.ch"
+  },
+  {
+    "name": "Jang Yesul",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Design de Produit",
+    "img": "/img/photo/JangYesul.jpg",
+    "email": "yesul.jang@ecal.ch"
+  },
+  {
+    "name": "Janjic Sarah Abigail",
+    "role": "Etudiant",
+    "desc": " 2e année Master Arts visuels  - European Art Ensemble",
+    "img": "/img/photo/JanjicSarahAbigail.jpg",
+    "email": "sahra_abigail.janjic@ecal.ch"
+  },
+  {
+    "name": "Jaquillard Pierry",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/JAQUILLARDPIERRY.jpg",
+    "email": "pierry.jaquillard@ecal.ch"
+  },
+  {
+    "name": "Jarrigeon Philippe",
+    "role": "Intervenant",
+    "desc": "Chargé de cours en Bachelor Photographie  CVph",
+    "email": "philippe.jarrigeon@ecal.ch"
+  },
+  {
+    "name": "Jashari Pierre-Kastriot",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Photographie",
+    "img": "/img/photo/JASHARIPIERREKASTRIOT.jpg",
+    "email": "pierre-kastriot.jashari@ecal.ch"
+  },
+  {
+    "name": "Jaton Simon",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Arts visuels",
+    "img": "/img/photo/JatonSimon.jpg",
+    "email": "simon.jaton@ecal.ch"
+  },
+  {
+    "name": "Jaury Emilien",
+    "role": "Etudiant",
+    "desc": " 1re année MAS in Design for Luxury &amp; Craftsmanship",
+    "img": "/img/photo/JauryEmilien.jpg",
+    "email": "emilien.jaury@ecal.ch"
+  },
+  {
+    "name": "Jean-Mairet Guillaume",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Type Design",
+    "img": "/img/photo/JeanMairetGuillaume.jpg",
+    "email": "guillaume.jean-mairet@ecal.ch"
+  },
+  {
+    "name": "Jeanbourquin Pauline",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Cinéma",
+    "img": "/img/photo/JeanbourquinPauline.jpg",
+    "email": "pauline.jeanbourquin@ecal.ch"
+  },
+  {
+    "name": "Jeanmonod Grégoire",
+    "role": "Professeur",
+    "desc": "Professeur en Année Propédeutique (option DI)  DI",
+    "img": "/img/photo/JeanmonodGregoire.jpg",
+    "email": "gregoire.jeanmonod@ecal.ch"
+  },
+  {
+    "name": "Jeanneret Alessandra",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Cinéma",
+    "img": "/img/photo/JEANNERETALESSANDRA.jpg",
+    "email": "alessandra.jeanneret@ecal.ch"
+  },
+  {
+    "name": "Jeong Youjung",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Design de Produit",
+    "img": "/img/photo/JeongYoujung.jpg",
+    "email": "youjung.jeong@ecal.ch"
+  },
+  {
+    "name": "Jolliet Bruno",
+    "role": "Etudiant",
+    "desc": "  option Design graphique",
+    "img": "/img/photo/JollietBruno.jpg",
+    "email": "bruno.jolliet@ecal.ch"
+  },
+  {
+    "name": "Jouve Jeanne",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design graphique",
+    "img": "/img/photo/JOUVEJEANNE.jpg",
+    "email": "jeanne.jouve@ecal.ch"
+  },
+  {
+    "name": "Jovicic Eva",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Arts visuels",
+    "img": "/img/photo/JovicicEva.jpg",
+    "email": "eva.jovicic@ecal.ch"
+  },
+  {
+    "name": "Junod Isabelle",
+    "role": "Collaborateur",
+    "desc": "Assistante financière  SF",
+    "img": "/img/photo/JunodIsabelle.jpg",
+    "email": "isabelle.junod@ecal.ch"
+  },
+  {
+    "name": "Kabel Chris",
+    "role": "Intervenant",
+    "desc": "Chargé de cours en Bachelor Design Industriel  DI",
+    "email": "chris.kabel@ecal.ch"
+  },
+  {
+    "name": "Kaeser Adrien",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/KAESERADRIEN.jpg",
+    "email": "adrien.kaeser@ecal.ch"
+  },
+  {
+    "name": "Kahla Christelle",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Arts visuels",
+    "img": "/img/photo/KahlaChristelle.jpg",
+    "email": "christelle.kahla@ecal.ch"
+  },
+  {
+    "name": "Kaiser Valentin",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design graphique",
+    "img": "/img/photo/KaiserValentin.jpg",
+    "email": "valentin.kaiser@ecal.ch"
+  },
+  {
+    "name": "Kalt Dshamilja",
+    "role": "Etudiant",
+    "desc": "  option Photographie",
+    "img": "/img/photo/KaltDshamilja.jpg",
+    "email": "dshamilja.kalt@ecal.ch"
+  },
+  {
+    "name": "Kao Mu-Hau",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Design de Produit",
+    "img": "/img/photo/KaoMuHau.jpg",
+    "email": "mu-hau.kao@ecal.ch"
+  },
+  {
+    "name": "Karrer Roman",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design graphique",
+    "img": "/img/photo/KarrerRoman.jpg",
+    "email": "roman.karrer@ecal.ch"
+  },
+  {
+    "name": "Kasper Luca",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/KASPERLUCA.jpg",
+    "email": "luca.kasper@ecal.ch"
+  },
+  {
+    "name": "Kaïmanovitch Eugène",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design graphique",
+    "img": "/img/photo/KaimanovitchEugene.jpg",
+    "email": "eugene.kaimanovitch@ecal.ch"
+  },
+  {
+    "name": "Keller Gohan",
+    "role": "Etudiant",
+    "desc": "  option Photographie",
+    "img": "/img/photo/KellerGohan.jpg",
+    "email": "gohan.keller@ecal.ch"
+  },
+  {
+    "name": "Keller Milo",
+    "role": "Professeur",
+    "desc": "Responsable des Bachelor et Master Photographie   CVph",
+    "email": "milo.keller@ecal.ch"
+  },
+  {
+    "name": "Keller Patrick",
+    "role": "Professeur",
+    "desc": "Professeur en Bachelor Media &amp; Interaction Design  CVnm",
+    "img": "/img/photo/KellerPatrick.jpg",
+    "email": "patrick.keller@ecal.ch"
+  },
+  {
+    "name": "Kerestedjian Clémentine",
+    "role": "Etudiant",
+    "desc": "  option Photographie",
+    "img": "/img/photo/KerestedjianClementine.jpg",
+    "email": "clementine.kerestedjian@ecal.ch"
+  },
+  {
+    "name": "Kern Ann",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design graphique",
+    "img": "/img/photo/KernAnn.jpg",
+    "email": "ann.kern@ecal.ch"
+  },
+  {
+    "name": "Kessler Jann",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Cinéma",
+    "img": "/img/photo/KesslerJann.jpg",
+    "email": "jann.kessler@ecal.ch"
+  },
+  {
+    "name": "Kessler Sereina",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design graphique",
+    "img": "/img/photo/KESSLERSEREINA.jpg",
+    "email": "sereina.kessler@ecal.ch"
+  },
+  {
+    "name": "Kettiger Romy",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Arts visuels",
+    "img": "/img/photo/KettigerRomy.jpg",
+    "email": "romy.kettiger@ecal.ch"
+  },
+  {
+    "name": "Khan Yuliya",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Photographie",
+    "img": "/img/photo/KhanYuliya.jpg",
+    "email": "yuliya.khan@ecal.ch"
+  },
+  {
+    "name": "Khurewathanakul Kanya-On",
+    "role": "Etudiant",
+    "desc": "  option Design graphique",
+    "img": "/img/photo/KhurewathanakulKanyaOn.jpg",
+    "email": "kanya-on.khurewathanakul@ecal.ch"
+  },
+  {
+    "name": "Kim Dongwoo",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/KimDongwoo.jpg",
+    "email": "dongwoo.kim@ecal.ch"
+  },
+  {
+    "name": "Kim Hansaem",
+    "role": "Etudiant",
+    "desc": " 1re année Master cinéma",
+    "img": "/img/photo/KimHansaem.jpg",
+    "email": "hansaem.kim@ecal.ch"
+  },
+  {
+    "name": "Kim Hyeshin",
+    "role": "Etudiant",
+    "desc": " 1re année MAS in Design for Luxury &amp; Craftsmanship",
+    "img": "/img/photo/KimHyeshin.jpg",
+    "email": "hyeshin.kim@ecal.ch"
+  },
+  {
+    "name": "Kim Yeeun",
+    "role": "Etudiant",
+    "desc": "  option Arts visuels",
+    "img": "/img/photo/KimYeeun.jpg",
+    "email": "yeeun.kim@ecal.ch"
+  },
+  {
+    "name": "Kishtoo Lisa",
+    "role": "Etudiant",
+    "desc": "  option Media &amp; Interaction Design",
+    "img": "/img/photo/KishtooLisa.jpg",
+    "email": "lisa.kishtoo@ecal.ch"
+  },
+  {
+    "name": "Klein Sarah",
+    "role": "Intervenant",
+    "desc": "Assistante Ra&amp;D  RAD",
+    "img": "/img/photo/KleinSarah.jpg",
+    "email": "sarah.klein@ecal.ch"
+  },
+  {
+    "name": "Klouche Younès",
+    "role": "Collaborateur",
+    "desc": "Photographe - Assistant de communication  COM",
+    "img": "/img/photo/KloucheYounes.jpg",
+    "email": "younes.klouche@ecal.ch"
+  },
+  {
+    "name": "Knuchel Aurélie",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Photographie",
+    "img": "/img/photo/KnuchelAurelie.jpg",
+    "email": "aurelie.knuchel@ecal.ch"
+  },
+  {
+    "name": "Kocagöncü Lara",
+    "role": "Etudiant",
+    "desc": "  option Design industriel",
+    "img": "/img/photo/KocagoncuLara.jpg",
+    "email": "lara.kocagoncu@ecal.ch"
+  },
+  {
+    "name": "Kohler François",
+    "role": "Collaborateur",
+    "desc": "Préparateur pré-presse  IMP",
+    "img": "/img/photo/KohlerFrancois.jpg",
+    "email": "francois.kohler@ecal.ch"
+  },
+  {
+    "name": "Koivu Anniina",
+    "role": "Professeur",
+    "desc": "Responsable de la Théorie en Master Design  UT",
+    "img": "/img/photo/KoivuAnniina.jpg",
+    "email": "anniina.koivu@ecal.ch"
+  },
+  {
+    "name": "Kojima Kohei",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Design de Produit",
+    "img": "/img/photo/KojimaKohei.jpg",
+    "email": "kohei.kojima@ecal.ch"
+  },
+  {
+    "name": "Korbel Julietta",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Cinéma",
+    "img": "/img/photo/KorbelJulietta.jpg",
+    "email": "julietta.korbel@ecal.ch"
+  },
+  {
+    "name": "Kort Samy",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Arts visuels",
+    "img": "/img/photo/KORTSAMY.jpg",
+    "email": "samy.kort@ecal.ch"
+  },
+  {
+    "name": "Kottler Tanya",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Photographie",
+    "img": "/img/photo/KottlerTanya.jpg",
+    "email": "tanya.kottler@ecal.ch"
+  },
+  {
+    "name": "Krayenbühl Laure",
+    "role": "Intervenant",
+    "desc": "Chargée de cours en Bachelor Design industriel  DI",
+    "img": "/img/photo/KrayenbuhlLaure.jpg",
+    "email": "laure.krayenbuhl@ecal.ch"
+  },
+  {
+    "name": "Krieger Charlotte",
+    "role": "Intervenant",
+    "desc": "Chargée de cours en Communication visuelle  CVph",
+    "img": "/img/photo/KriegerCharlotte.jpg",
+    "email": "charlotte.krieger@ecal.ch"
+  },
+  {
+    "name": "Kropf Stéphane",
+    "role": "Professeur",
+    "desc": "Responsable du Bachelor Arts Visuels  AV",
+    "email": "stephane.kropf@ecal.ch"
+  },
+  {
+    "name": "Kryvosheiev Mykyta",
+    "role": "Collaborateur",
+    "desc": "Assistant postproduction  CVci",
+    "img": "/img/photo/KryvosheievMykyta.jpg",
+    "email": "mykyta.kryvosheiev@ecal.ch"
+  },
+  {
+    "name": "Král Tomás",
+    "role": "Professeur",
+    "desc": "Responsable Cours SHS, Professeur en Bachelor Design Industriel et MAS in Design for Luxury and Craftsmanship  MAdp",
+    "img": "/img/photo/KralTomas.jpg",
+    "email": "tomas.kral@ecal.ch"
+  },
+  {
+    "name": "Kwok Ho Man",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Photographie &amp; Année Propédeutique",
+    "img": "/img/photo/KwokHoMan_2.jpg",
+    "email": "ho.kwok@ecal.ch"
+  },
+  {
+    "name": "Lacombe Quentin",
+    "role": "Assistant",
+    "desc": "Assistant en Bachelor Photographie  CVph",
+    "img": "/img/photo/LacombeQuentin.jpg",
+    "email": "quentin.lacombe@ecal.ch"
+  },
+  {
+    "name": "Lamarre Guillaume",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Photographie",
+    "img": "/img/photo/LamarreGuillaume.jpg",
+    "email": "guillaume.lamarre@ecal.ch"
+  },
+  {
+    "name": "Lambelet Clément",
+    "role": "Assistant",
+    "desc": "Assistant en Bachelor Photographie  CVph",
+    "img": "/img/photo/LambeletClement.jpg",
+    "email": "clement.lambelet@ecal.ch"
+  },
+  {
+    "name": "Lang Mathieu",
+    "role": "Assistant",
+    "desc": "Assistant en Bachelor Design Industriel  DI",
+    "img": "/img/photo/LangMathieu.jpg",
+    "email": "mathieu.lang@ecal.ch"
+  },
+  {
+    "name": "Langlais Lucas",
+    "role": "Etudiant",
+    "desc": "  option Media &amp; Interaction Design",
+    "img": "/img/photo/LanglaisLucas.jpg",
+    "email": "lucas.langlais@ecal.ch"
+  },
+  {
+    "name": "Langton Lucien",
+    "role": "Intervenant",
+    "desc": "Assistant Ra&amp;D  RAD",
+    "img": "/img/photo/LangtonLucien.jpg",
+    "email": "lucien.langton@ecal.ch"
+  },
+  {
+    "name": "Lanz Sylvan",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design graphique",
+    "img": "/img/photo/LANZSYLVAN.jpg",
+    "email": "sylvan.lanz@ecal.ch"
+  },
+  {
+    "name": "Laplante Achille",
+    "role": "Etudiant",
+    "desc": "  option Photographie",
+    "img": "/img/photo/LaplanteAchille.jpg",
+    "email": "achille.laplante@ecal.ch"
+  },
+  {
+    "name": "Laucella Laura",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Arts visuels",
+    "img": "/img/photo/LaucellaLaura.jpg",
+    "email": "laura.laucella@ecal.ch"
+  },
+  {
+    "name": "Lavoyer Tristan",
+    "role": "Assistant",
+    "desc": "Assistant en Master Arts Visuels  AV",
+    "img": "/img/photo/LavoyerTristan.jpg",
+    "email": "tristan.lavoyer@ecal.ch"
+  },
+  {
+    "name": "Lazaridis Savvas",
+    "role": "Etudiant",
+    "desc": " 1re année MAS in Design for Luxury &amp; Craftsmanship",
+    "img": "/img/photo/LazaridisSavvas.jpg",
+    "email": "savvas.lazaridis@ecal.ch"
+  },
+  {
+    "name": "Le Baron Philomène",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Arts visuels",
+    "img": "/img/photo/LeBaronPhilomene.jpg",
+    "email": "philomene.le_baron@ecal.ch"
+  },
+  {
+    "name": "Le Moigne Nicolas",
+    "role": "Professeur",
+    "desc": "Responsable du MAS in Design for Luxury and Craftsmanship  MASlu",
+    "email": "nicolas.le_moigne@ecal.ch"
+  },
+  {
+    "name": "Le Provost Thomas",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design graphique",
+    "img": "/img/photo/LEPROVOSTTHOMAS.jpg",
+    "email": "thomas.le_provost@ecal.ch"
+  },
+  {
+    "name": "Leal Heidi",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design graphique",
+    "img": "/img/photo/LealHeidi.jpg",
+    "email": "heidi.leal@ecal.ch"
+  },
+  {
+    "name": "Lecanu Baptiste",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design graphique",
+    "img": "/img/photo/LecanuBaptiste.jpg",
+    "email": "baptiste.lecanu@ecal.ch"
+  },
+  {
+    "name": "Lee Dayeon",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design graphique",
+    "img": "/img/photo/LeeDayeon.jpg",
+    "email": "dayeon.lee@ecal.ch"
+  },
+  {
+    "name": "Lefebure Laura",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/LefebureLaura.jpg",
+    "email": "laura.lefebure@ecal.ch"
+  },
+  {
+    "name": "Lefebvre Victorine",
+    "role": "Etudiant",
+    "desc": "  option Design industriel",
+    "img": "/img/photo/LefebvreVictorine.jpg",
+    "email": "victorine.lefebvre@ecal.ch"
+  },
+  {
+    "name": "Lehmann Arthur",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Photographie",
+    "img": "/img/photo/LehmannArthur.jpg",
+    "email": "arthur.lehmann@ecal.ch"
+  },
+  {
+    "name": "Lehmann Kaj",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Type Design",
+    "img": "/img/photo/LehmannKaj.jpg",
+    "email": "kaj.lehmann@ecal.ch"
+  },
+  {
+    "name": "Lepoutre Sélène",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/LepoutreSelene.jpg",
+    "email": "selene.lepoutre@ecal.ch"
+  },
+  {
+    "name": "Leroux Corentin",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Photographie",
+    "img": "/img/photo/LerouxCorentin.jpg",
+    "email": "corentin.leroux@ecal.ch"
+  },
+  {
+    "name": "Lesueur Natacha",
+    "role": "Professeur",
+    "desc": "Professeur en Bachelor Photographie  CVph",
+    "img": "/img/photo/LesueurNatacha.jpg",
+    "email": "natacha.lesueur@ecal.ch"
+  },
+  {
+    "name": "Leu  Anaïs",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Photographie",
+    "img": "/img/photo/LeuAnais.jpg",
+    "email": "anais.leu@ecal.ch"
+  },
+  {
+    "name": "Leuvrey Marvin",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Photographie",
+    "img": "/img/photo/LeuvreyMarvin.jpg",
+    "email": "marvin.leuvrey@ecal.ch"
+  },
+  {
+    "name": "Levrat Vincent",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Photographie",
+    "img": "/img/photo/LevratVincent.jpg",
+    "email": "vincent.levrat@ecal.ch"
+  },
+  {
+    "name": "Li Lisa",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/LiLisa.jpg",
+    "email": "lisa.li@ecal.ch"
+  },
+  {
+    "name": "Li Peilian",
+    "role": "Etudiant",
+    "desc": "  option Arts visuels",
+    "img": "/img/photo/LiPeilian.jpg",
+    "email": "peilian.li@ecal.ch"
+  },
+  {
+    "name": "Lippert Jana Marlene",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Design de Produit",
+    "img": "/img/photo/LippertJanaMarlene.jpg",
+    "email": "jana.lippert@ecal.ch"
+  },
+  {
+    "name": "Longhi Lorenza",
+    "role": "Etudiant",
+    "desc": " 1re année Master Arts visuels  - European Art Ensemble",
+    "img": "/img/photo/LonghiLorenza.jpg",
+    "email": "lorenza.longhi@ecal.ch"
+  },
+  {
+    "name": "Louda Paul",
+    "role": "Etudiant",
+    "desc": " 2e année Master Design en Design de Produit",
+    "img": "/img/photo/LoudaPaul.jpg",
+    "email": "paul.louda@ecal.ch"
+  },
+  {
+    "name": "Loy David",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design graphique",
+    "img": "/img/photo/LoyDavid.jpg",
+    "email": "david.loy@ecal.ch"
+  },
+  {
+    "name": "Luna Ernesto",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design graphique",
+    "img": "/img/photo/LunaErnesto.jpg",
+    "email": "ernesto.luna@ecal.ch"
+  },
+  {
+    "name": "Lusa Marie",
+    "role": "Intervenant",
+    "desc": "Chargée de cours en Master Art Direction  MAad",
+    "email": "marie.lusa@ecal.ch"
+  },
+  {
+    "name": "Luvisotto Theo",
+    "role": "Etudiant",
+    "desc": "  option Design industriel",
+    "img": "/img/photo/LuvisottoTheo.jpg",
+    "email": "theo.luvisotto@ecal.ch"
+  },
+  {
+    "name": "Làposi Agnese",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Cinéma",
+    "img": "/img/photo/LaposiAgnese.jpg",
+    "email": "agnese.laposi@ecal.ch"
+  },
+  {
+    "name": "López Vargas Sebastian",
+    "role": "Intervenant",
+    "desc": "Chargé de cours en Année Propédeutique  PP",
+    "img": "/img/photo/LopezVargasSebastian.jpg",
+    "email": "sebastian.lopez_vargas@ecal.ch"
+  },
+  {
+    "name": "Lüthi Lara",
+    "role": "Etudiant",
+    "desc": "  option Design industriel",
+    "img": "/img/photo/LuthiLara.jpg",
+    "email": "lara.luthi@ecal.ch"
+  },
+  {
+    "name": "Mac Sweeney Victoria",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/MacSweeneyVictoria.jpg",
+    "email": "victoria.mac_sweeney@ecal.ch"
+  },
+  {
+    "name": "MacDougall Tennessee",
+    "role": "Etudiant",
+    "desc": "  option Arts visuels",
+    "img": "/img/photo/MacDougallTennessee.jpg",
+    "email": "tennessee.macdougall@ecal.ch"
+  },
+  {
+    "name": "Maertens Maximilian",
+    "role": "Etudiant",
+    "desc": " 1re année MAS in Design for Luxury &amp; Craftsmanship",
+    "img": "/img/photo/MaertensMaximilian.jpg",
+    "email": "maximilian.maertens@ecal.ch"
+  },
+  {
+    "name": "Mager Simon",
+    "role": "Assistant",
+    "desc": "Assistant en Master Type Design  MAtd",
+    "img": "/img/photo/MagerSimon.jpg",
+    "email": "simon.mager@ecal.ch"
+  },
+  {
+    "name": "Magnúsdóttir Una Björg",
+    "role": "Etudiant",
+    "desc": " 1re année Master Arts visuels  - European Art Ensemble",
+    "img": "/img/photo/MagnusdottirUnaBjorg.jpg",
+    "email": "una.magnusdottir@ecal.ch"
+  },
+  {
+    "name": "Mahieu Calypso",
+    "role": "Collaborateur",
+    "desc": "Stagiaire (Bibliothèque)  BIB",
+    "img": "/img/photo/MahieuCalypso.jpg",
+    "email": "calypso.mahieu@ecal.ch"
+  },
+  {
+    "name": "Mahler-Andersen Frederik",
+    "role": "Assistant",
+    "desc": "Assistant en Master Art Direction  MAad",
+    "img": "/img/photo/Mahler-AndersenFrederik.jpg",
+    "email": "frederik.mahler-andersen@ecal.ch"
+  },
+  {
+    "name": "Mailh Vincent",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/MailhVincent.jpg",
+    "email": "vincent.mailh@ecal.ch"
+  },
+  {
+    "name": "Maissen Kelian",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/MaissenKelian.jpg",
+    "email": "kelian.maissen@ecal.ch"
+  },
+  {
+    "name": "Maluska Sebastian",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Design de Produit",
+    "img": "/img/photo/MaluskaSebastian.jpg",
+    "email": "sebastian.maluska@ecal.ch"
+  },
+  {
+    "name": "Mantri Sumegha",
+    "role": "Etudiant",
+    "desc": " 2e année Master Design en Design de Produit",
+    "img": "/img/photo/MantriSumegha.jpg",
+    "email": "sumegha.mantri@ecal.ch"
+  },
+  {
+    "name": "Maquelin Jérôme",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Arts visuels",
+    "img": "/img/photo/MaquelinJerome.jpg",
+    "email": "jerome.maquelin@ecal.ch"
+  },
+  {
+    "name": "Marchand Amélie",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/MarchandAmelie.jpg",
+    "email": "amelie.marchand@ecal.ch"
+  },
+  {
+    "name": "Marcuccio Emanuele",
+    "role": "Assistant",
+    "desc": "Assistant en Bachelor Arts Visuels et Master Arts Visuels  MAav",
+    "img": "/img/photo/MarcuccioEmanuele.jpg",
+    "email": "emanuele.marcuccio@ecal.ch"
+  },
+  {
+    "name": "Marielle Théo",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design graphique",
+    "img": "/img/photo/MarielleTheo.jpg",
+    "email": "theo.marielle@ecal.ch"
+  },
+  {
+    "name": "Marmier Zoé",
+    "role": "Etudiant",
+    "desc": "  option Photographie",
+    "img": "/img/photo/MarmierZoe.jpg",
+    "email": "zoe.marmier@ecal.ch"
+  },
+  {
+    "name": "Martel Ulysse",
+    "role": "Assistant",
+    "desc": "Assistant en MAS in Design for Luxury and Craftsmanship  MASlu",
+    "img": "/img/photo/MartelUlysse.jpg",
+    "email": "ulysse.martel@ecal.ch"
+  },
+  {
+    "name": "Marthins Erika",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/MarthinsErika.jpg",
+    "email": "erika.marthins@ecal.ch"
+  },
+  {
+    "name": "Marti Fabian",
+    "role": "Intervenant",
+    "desc": "Chargé de cours en Master Arts Visuels  MAav",
+    "img": "/img/photo/MartiFabian.jpg",
+    "email": "fabian.marti@ecal.ch"
+  },
+  {
+    "name": "Martinez Lucia",
+    "role": "Etudiant",
+    "desc": " 1re année Master cinéma",
+    "img": "/img/photo/martinezlucia.jpg",
+    "email": "lucia.martinez@ecal.ch"
+  },
+  {
+    "name": "Martinez Santiago",
+    "role": "Etudiant",
+    "desc": "  option Photographie",
+    "img": "/img/photo/MartinezSantiago.jpg",
+    "email": "santiago.martinez@ecal.ch"
+  },
+  {
+    "name": "Mas Jules",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/MasJules.jpg",
+    "email": "jules.mas@ecal.ch"
+  },
+  {
+    "name": "Massa Gaetano",
+    "role": "",
+    "desc": "  ",
+    "email": "gaetano.massa@ecal.ch"
+  },
+  {
+    "name": "Massara David",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design graphique",
+    "img": "/img/photo/MassaraDavid.jpg",
+    "email": "david.massara@ecal.ch"
+  },
+  {
+    "name": "Mateos Vidal",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design graphique",
+    "img": "/img/photo/MateosVidal.jpg",
+    "email": "vidal.mateos@ecal.ch"
+  },
+  {
+    "name": "Matos Sébastien",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/MatosSebastien.jpg",
+    "email": "sebastien.matos@ecal.ch"
+  },
+  {
+    "name": "Matthey Assadour",
+    "role": "Etudiant",
+    "desc": "  option Arts visuels",
+    "img": "/img/photo/MattheyAssadour.jpg",
+    "email": "assadour.matthey@ecal.ch"
+  },
+  {
+    "name": "Maupu Anouk",
+    "role": "Etudiant",
+    "desc": "  option Photographie",
+    "img": "/img/photo/MaupuAnouk.jpg",
+    "email": "anouk.maupu@ecal.ch"
+  },
+  {
+    "name": "Mayor Pauline",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design graphique",
+    "img": "/img/photo/MAYORPAULINE.jpg",
+    "email": "pauline.mayor@ecal.ch"
+  },
+  {
+    "name": "Meha Ardita",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Photographie",
+    "img": "/img/photo/MEHAARDITA.jpg",
+    "email": "ardita.meha@ecal.ch"
+  },
+  {
+    "name": "Meldem Guy",
+    "role": "Professeur",
+    "desc": "Professeur en Année Propédeutique (option DG) et Bachelor Design Graphique  CVdg",
+    "img": "/img/photo/MeldemGuy.jpg",
+    "email": "guy.meldem@ecal.ch"
+  },
+  {
+    "name": "Membrez Manon",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/MembrezManon.jpg",
+    "email": "manon.membrez@ecal.ch"
+  },
+  {
+    "name": "Menthonnex Juliette",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Cinéma",
+    "img": "/img/photo/MENTHONNEXJULIETTE.jpg",
+    "email": "juliette.menthonnex@ecal.ch"
+  },
+  {
+    "name": "Menthonnex Théodora",
+    "role": "Etudiant",
+    "desc": "  option Cinéma",
+    "img": "/img/photo/MenthonnexTheodora.jpg",
+    "email": "theodora.menthonnex@ecal.ch"
+  },
+  {
+    "name": "Mercier Jeanne",
+    "role": "Etudiant",
+    "desc": "  option Design industriel",
+    "img": "/img/photo/MercierJeanne.jpg",
+    "email": "jeanne.mercier@ecal.ch"
+  },
+  {
+    "name": "Merino Ignacio",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Design de Produit",
+    "img": "/img/photo/MerinoIgnacio.jpg",
+    "email": "ignacio.merino@ecal.ch"
+  },
+  {
+    "name": "Mersmann Fanny",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Arts visuels",
+    "img": "/img/photo/MersmannFanny.jpg",
+    "email": "fanny.mersmann@ecal.ch"
+  },
+  {
+    "name": "Meunier Florence",
+    "role": "Etudiant",
+    "desc": " 2e année Master Art Direction",
+    "img": "/img/photo/MeunierFlorence.jpg",
+    "email": "florence.meunier@ecal.ch"
+  },
+  {
+    "name": "Meyer Myriam",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/MeyerMyriam.jpg",
+    "email": "myriam.meyer@ecal.ch"
+  },
+  {
+    "name": "Meyner Vinzenz",
+    "role": "Etudiant",
+    "desc": " 2e année Master Arts visuels  - European Art Ensemble",
+    "img": "/img/photo/MeynerVinzenz.jpg",
+    "email": "vinzenz.meyner@ecal.ch"
+  },
+  {
+    "name": "Migraine Elise",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/MigraineElise.jpg",
+    "email": "elise.migraine@ecal.ch"
+  },
+  {
+    "name": "Minguet Matthieu",
+    "role": "Intervenant",
+    "desc": "Chargé de cours en Année Propédeutique  PP",
+    "img": "/img/photo/MinguetMatthieu.jpg",
+    "email": "matthieu.minguet@ecal.ch"
+  },
+  {
+    "name": "Missé Thomas",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Design de Produit",
+    "img": "/img/photo/MisseThomas.jpg",
+    "email": "thomas.misse@ecal.ch"
+  },
+  {
+    "name": "Mityukova Anastasia",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Photographie",
+    "img": "/img/photo/MITYUKOVAANASTASIA.jpg",
+    "email": "anastasia.mityukova@ecal.ch"
+  },
+  {
+    "name": "Mizuno Sayaka",
+    "role": "Etudiant",
+    "desc": " 1re année Master cinéma",
+    "img": "/img/photo/MizunoSayaka.jpg",
+    "email": "sayaka.mizuno@ecal.ch"
+  },
+  {
+    "name": "Mognetti Robin",
+    "role": "Etudiant",
+    "desc": " 1re année Master cinéma",
+    "img": "/img/photo/MognettiRobin.jpg",
+    "email": "robin.mognetti@ecal.ch"
+  },
+  {
+    "name": "Mohammed Forster Sherian",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Arts visuels",
+    "img": "/img/photo/MOHAMMEDFORSTERSHERIAN.jpg",
+    "email": "sherian.mohammed_forster@ecal.ch"
+  },
+  {
+    "name": "Moisdon Stéphanie",
+    "role": "Professeur",
+    "desc": "Responsable du Master Arts Visuels  MAav",
+    "email": "stephanie.moisdon@ecal.ch"
+  },
+  {
+    "name": "Mollet Tara",
+    "role": "Etudiant",
+    "desc": " 1re année Master cinéma",
+    "img": "/img/photo/MolletTara.jpg",
+    "email": "tara.mollet@ecal.ch"
+  },
+  {
+    "name": "Monnerat Gregory",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Photographie",
+    "img": "/img/photo/MonneratGregory.jpg",
+    "email": "gregory.monnerat@ecal.ch"
+  },
+  {
+    "name": "Monnet David",
+    "role": "Professeur",
+    "desc": "Responsable de l’Année Propédeutique  PP",
+    "email": "david.monnet@ecal.ch"
+  },
+  {
+    "name": "Monnier Patrick",
+    "role": "Professeur",
+    "desc": "Professeur en Année Propédeutique et Bachelor Design Industriel  DI",
+    "img": "/img/photo/MonnierPatrick.jpg",
+    "email": "patrick.monnier@ecal.ch"
+  },
+  {
+    "name": "Morinaga Yasunori",
+    "role": "Etudiant",
+    "desc": " 2e année Master Design en Design de Produit",
+    "img": "/img/photo/MORINAGAYASUNORI.jpg",
+    "email": "yasunori.morinaga@ecal.ch"
+  },
+  {
+    "name": "Morita Hiroyuki",
+    "role": "Etudiant",
+    "desc": " 2e année Master Design en Design de Produit",
+    "img": "/img/photo/MoritaHiroyuki.jpg",
+    "email": "hiroyuki.morita@ecal.ch"
+  },
+  {
+    "name": "Moscatelli Arthur",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/MoscatelliArthur.jpg",
+    "email": "arthur.moscatelli@ecal.ch"
+  },
+  {
+    "name": "Mota Martinho Mauro",
+    "role": "Etudiant",
+    "desc": " 1re année MAS in Design for Luxury &amp; Craftsmanship",
+    "img": "/img/photo/MotaMartinhoMauro.jpg",
+    "email": "mauro.mota_martinho@ecal.ch"
+  },
+  {
+    "name": "Mottini Flora",
+    "role": "Assistant",
+    "desc": "Assistante en Bachelor Arts Visuels  AV",
+    "img": "/img/photo/MottiniFlora.jpg",
+    "email": "flora.mottini@ecal.ch"
+  },
+  {
+    "name": "Mougin Claudia",
+    "role": "Etudiant",
+    "desc": " 2e année Master Arts visuels  - European Art Ensemble",
+    "img": "/img/photo/MouginClaudia.jpg",
+    "email": "claudia.mougin@ecal.ch"
+  },
+  {
+    "name": "Mouralinho Antonio",
+    "role": "Collaborateur",
+    "desc": "Gestionnaire du stock et du prêt  SA",
+    "email": "antonio.mouralinho@ecal.ch"
+  },
+  {
+    "name": "Mousset Mélodie",
+    "role": "Intervenant",
+    "desc": "Chargée de cours en Bachelor Arts visuels  AV",
+    "email": "melodie.mousset@ecal.ch"
+  },
+  {
+    "name": "Mouthon Bastien",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/MOUTHONBASTIEN.jpg",
+    "email": "bastien.mouthon@ecal.ch"
+  },
+  {
+    "name": "Moynier Victor",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Design de Produit",
+    "img": "/img/photo/MoynierVictor.jpg",
+    "email": "victor.moynier@ecal.ch"
+  },
+  {
+    "name": "Munoz Rodrigo",
+    "role": "Etudiant",
+    "desc": "  option Cinéma",
+    "img": "/img/photo/MunozRodrigo.jpg",
+    "email": "rodrigo.munoz@ecal.ch"
+  },
+  {
+    "name": "Mure-Ravaud Lora",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Cinéma",
+    "img": "/img/photo/MURERAVAUDLORA.jpg",
+    "email": "lora.mure-ravaud@ecal.ch"
+  },
+  {
+    "name": "Muroni Patrick",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Cinéma",
+    "img": "/img/photo/MuroniPatrick.jpg",
+    "email": "patrick.muroni@ecal.ch"
+  },
+  {
+    "name": "Muselier Fanélie",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design graphique",
+    "img": "/img/photo/MuselierFanelie.jpg",
+    "email": "fanelie.muselier@ecal.ch"
+  },
+  {
+    "name": "Mustaki Léa",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Arts visuels",
+    "img": "/img/photo/MustakiLea.jpg",
+    "email": "lea.mustaki@ecal.ch"
+  },
+  {
+    "name": "Mégevand Tatiana",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Photographie",
+    "img": "/img/photo/MegevandTatiana.jpg",
+    "email": "tatiana.megevand@ecal.ch"
+  },
+  {
+    "name": "Ménès François",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/MenesFrancois.jpg",
+    "email": "francois.menes@ecal.ch"
+  },
+  {
+    "name": "Mönnich Michael",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Photographie",
+    "img": "/img/photo/MonnichMichael.jpg",
+    "email": "michael.monnich@ecal.ch"
+  },
+  {
+    "name": "Nagy Gregory",
+    "role": "Collaborateur",
+    "desc": "Directeur adjoint financier et administratif  SF",
+    "email": "gregory.nagy@ecal.ch"
+  },
+  {
+    "name": "Nam Eunwook",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Photographie",
+    "img": "/img/photo/NamEunwook.jpg",
+    "email": "eunwook.nam@ecal.ch"
+  },
+  {
+    "name": "Nassisi Dimitri",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/NASSISIDIMITRI.jpg",
+    "email": "dimitri.nassisi@ecal.ch"
+  },
+  {
+    "name": "Nguyen Dac Hanh",
+    "role": "Etudiant",
+    "desc": "  option Arts visuels",
+    "img": "/img/photo/NguyenDacHanh.jpg",
+    "email": "dac_hanh.nguyen@ecal.ch"
+  },
+  {
+    "name": "Nguyen David",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/NGUYENDAVID.jpg",
+    "email": "david.nguyen@ecal.ch"
+  },
+  {
+    "name": "Nguyen Quang Vinh",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/NguyenQuangVinh.jpg",
+    "email": "quang_vinh.nguyen@ecal.ch"
+  },
+  {
+    "name": "Nguyen Zoé",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/NguyenZoe.jpg",
+    "email": "zoe.nguyen@ecal.ch"
+  },
+  {
+    "name": "Nicolao Federico",
+    "role": "Intervenant",
+    "desc": "Chargé de cours de Théorie en Bachelor Arts Visuels  UT",
+    "email": "federico.nicolao@ecal.ch"
+  },
+  {
+    "name": "Niebling Carolien",
+    "role": "Assistant",
+    "desc": "Assistante en Master Design de Produit  MAdp",
+    "img": "/img/photo/NieblingCarolien.jpg",
+    "email": "carolien.niebling@ecal.ch"
+  },
+  {
+    "name": "Niederberger Leila",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Arts visuels",
+    "img": "/img/photo/NiederbergerLeila.jpg",
+    "email": "leila.niederberger@ecal.ch"
+  },
+  {
+    "name": "Nimier Alice",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/NimierAlice.jpg",
+    "email": "alice.nimier@ecal.ch"
+  },
+  {
+    "name": "Noh Miji",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Design de Produit",
+    "img": "/img/photo/NohMiji.jpg",
+    "email": "miji.noh@ecal.ch"
+  },
+  {
+    "name": "Normand Vincent",
+    "role": "Intervenant",
+    "desc": "Chargé de cours en Master Arts Visuels  MAav",
+    "img": "/img/photo/NormandVincent.jpg",
+    "email": "vincent.normand@ecal.ch"
+  },
+  {
+    "name": "Nougou Lynne",
+    "role": "Etudiant",
+    "desc": "  option Design graphique",
+    "img": "/img/photo/NougouLynne.jpg",
+    "email": "lynne.nougou@ecal.ch"
+  },
+  {
+    "name": "Noureldin Karim",
+    "role": "Professeur",
+    "desc": "Professeur en Bachelor Arts Visuels  AV",
+    "img": "/img/photo/NoureldinKarim.jpg",
+    "email": "karim.noureldin@ecal.ch"
+  },
+  {
+    "name": "Noël Paul",
+    "role": "Etudiant",
+    "desc": "  option Media &amp; Interaction Design",
+    "img": "/img/photo/NoelPaul.jpg",
+    "email": "paul.noel@ecal.ch"
+  },
+  {
+    "name": "Noël Rachel",
+    "role": "Professeur",
+    "desc": "Adjointe et Professeur en Bachelor Cinéma  CVci",
+    "img": "/img/photo/NoelRachel.jpg",
+    "email": "rachel.noel@ecal.ch"
+  },
+  {
+    "name": "Nägele Dimitri",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design graphique",
+    "img": "/img/photo/NageleDimitri.jpg",
+    "email": "dimitri.nagele@ecal.ch"
+  },
+  {
+    "name": "Ospelt Pascal",
+    "role": "Collaborateur",
+    "desc": "Bijoutier  MAQ",
+    "img": "/img/photo/OspeltPascal.jpg",
+    "email": "pascal.ospelt@ecal.ch"
+  },
+  {
+    "name": "Ottiger Tancrède",
+    "role": "Assistant",
+    "desc": "Assistant en Bachelor Design Graphique  CVdg",
+    "img": "/img/photo/OttigerTancrede.jpg",
+    "email": "tancrede.ottiger@ecal.ch"
+  },
+  {
+    "name": "Paccaud Simon",
+    "role": "Collaborateur",
+    "desc": "Artisan en lithographie  IMP",
+    "img": "/img/photo/Paccaud Simon.jpg",
+    "email": "simon.paccaud@ecal.ch"
+  },
+  {
+    "name": "Pacheco Catarina",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Design de Produit",
+    "img": "/img/photo/PachecoCatarina.jpg",
+    "email": "catarina.pacheco@ecal.ch"
+  },
+  {
+    "name": "Pahud Christian",
+    "role": "Professeur",
+    "desc": "Professeur en Année Propédeutique et Bachelor Arts Visuels  PP",
+    "img": "/img/photo/PahudChristian.jpg",
+    "email": "christian.pahud@ecal.ch"
+  },
+  {
+    "name": "Paillard Samuel",
+    "role": "Etudiant",
+    "desc": "  option Arts visuels",
+    "img": "/img/photo/PaillardSamuel.jpg",
+    "email": "samuel.paillard@ecal.ch"
+  },
+  {
+    "name": "Palauqui Mathieu",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/PalauquiMathieu.jpg",
+    "email": "mathieu.palauqui@ecal.ch"
+  },
+  {
+    "name": "Panchot Emma",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Photographie",
+    "img": "/img/photo/PANCHOTEMMA.jpg",
+    "email": "emma.panchot@ecal.ch"
+  },
+  {
+    "name": "Panterotto Stefano",
+    "role": "Assistant",
+    "desc": "Assistant en MAS in Design for Luxury and Craftsmanship  MASlu",
+    "img": "/img/photo/PanterottoStefano.jpg",
+    "email": "stefano.panterotto@ecal.ch"
+  },
+  {
+    "name": "Papaloïzos Lou-Théa",
+    "role": "Etudiant",
+    "desc": "  option Cinéma",
+    "img": "/img/photo/PapaloizosLouThea.jpg",
+    "email": "lou-thea.papaloizos@ecal.ch"
+  },
+  {
+    "name": "Park Ji Hong",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Design de Produit",
+    "img": "/img/photo/ParkJiHong.jpg",
+    "email": "ji_hong.park@ecal.ch"
+  },
+  {
+    "name": "Park Shin Young",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Photographie",
+    "img": "/img/photo/ParkShinYoung.jpg",
+    "email": "shin_young.park@ecal.ch"
+  },
+  {
+    "name": "Park Taeman",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Design de Produit",
+    "img": "/img/photo/ParkTaeman.jpg",
+    "email": "taeman.park@ecal.ch"
+  },
+  {
+    "name": "Park Yeyeon",
+    "role": "Etudiant",
+    "desc": " 2e année Master Design en Design de Produit",
+    "img": "/img/photo/ParkYeyeon.jpg",
+    "email": "yeyeon.park@ecal.ch"
+  },
+  {
+    "name": "Paulot Thomas",
+    "role": "Etudiant",
+    "desc": " 1re année Master cinéma",
+    "img": "/img/photo/PaulotThomas.jpg",
+    "email": "thomas.paulot@ecal.ch"
+  },
+  {
+    "name": "Paviani Federico",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Type Design",
+    "img": "/img/photo/PavianiFederico.jpg",
+    "email": "federico.paviani@ecal.ch"
+  },
+  {
+    "name": "Pavlík Yan",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Arts visuels",
+    "img": "/img/photo/PavlikYan.jpg",
+    "email": "yan.pavlik@ecal.ch"
+  },
+  {
+    "name": "Pedrazzi Aline",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Type Design",
+    "img": "/img/photo/PedrazziAline.jpg",
+    "email": "aline.pedrazzi@ecal.ch"
+  },
+  {
+    "name": "Pellandini Naomi",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/PellandiniNaomi.jpg",
+    "email": "naomi.pellandini@ecal.ch"
+  },
+  {
+    "name": "Pellegrini Aurélien",
+    "role": "Etudiant",
+    "desc": "  option Media &amp; Interaction Design",
+    "img": "/img/photo/PellegriniAurelien.jpg",
+    "email": "aurelien.pellegrini@ecal.ch"
+  },
+  {
+    "name": "Pellegrini Maximilien",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design graphique",
+    "img": "/img/photo/PELLEGRINIMAXIMILIEN.jpg",
+    "email": "maximilien.pellegrini@ecal.ch"
+  },
+  {
+    "name": "Pereyre Léa",
+    "role": "Intervenant",
+    "desc": "\u000b  RAD",
+    "img": "/img/photo/PereyreLea.jpg",
+    "email": "lea.pereyre@ecal.ch"
+  },
+  {
+    "name": "Perhirin Samuel",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/PerhirinSamuel.jpg",
+    "email": "samuel.perhirin@ecal.ch"
+  },
+  {
+    "name": "Perrault Iseult",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Arts visuels",
+    "img": "/img/photo/PerraultIseult.jpg",
+    "email": "iseult.perrault@ecal.ch"
+  },
+  {
+    "name": "Perrenoud Laura",
+    "role": "Assistant",
+    "desc": "Assistante en Bachelor Media &amp; Interaction Design  CVnm",
+    "img": "/img/photo/PerrenoudLaura.jpg",
+    "email": "laura.perrenoud@ecal.ch"
+  },
+  {
+    "name": "Perrenoud Xavier",
+    "role": "Professeur",
+    "desc": "Professeur en MAS in Design for Luxury and Craftsmanship  MASlu",
+    "img": "/img/photo/PerrenoudXavier.jpg",
+    "email": "xavier.perrenoud@ecal.ch"
+  },
+  {
+    "name": "Perret Pauline",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design graphique",
+    "img": "/img/photo/PerretPauline.jpg",
+    "email": "pauline.perret@ecal.ch"
+  },
+  {
+    "name": "Perriard Lorraine",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Cinéma",
+    "img": "/img/photo/PerriardLorraine.jpg",
+    "email": "lorraine.perriard@ecal.ch"
+  },
+  {
+    "name": "Perrot Lydia",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design graphique",
+    "img": "/img/photo/PerrotLydia.jpg",
+    "email": "lydia.perrot@ecal.ch"
+  },
+  {
+    "name": "Petit Elric",
+    "role": "Professeur",
+    "desc": "Professeur en Bachelor Design Industriel  DI",
+    "img": "/img/photo/PetitElric.jpg",
+    "email": "elric.petit@ecal.ch"
+  },
+  {
+    "name": "Petit Maxime",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design graphique",
+    "img": "/img/photo/PETITMAXIME.jpg",
+    "email": "maxime.petit@ecal.ch"
+  },
+  {
+    "name": "Pezin Ferdinand",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/PEZINFERDINAND.jpg",
+    "email": "ferdinand.pezin@ecal.ch"
+  },
+  {
+    "name": "Piasek Anna",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/PiasekAnna.jpg",
+    "email": "anna.piasek@ecal.ch"
+  },
+  {
+    "name": "Piau Charlotte",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/PiauCharlotte.jpg",
+    "email": "charlotte.piau@ecal.ch"
+  },
+  {
+    "name": "Pica Michael",
+    "role": "Etudiant",
+    "desc": "  option Media &amp; Interaction Design",
+    "img": "/img/photo/PicaMichael.jpg",
+    "email": "michael.pica@ecal.ch"
+  },
+  {
+    "name": "Picciotto Alexandre",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Design de Produit",
+    "img": "/img/photo/PicciottoAlexandre.jpg",
+    "email": "alexandre.picciotto@ecal.ch"
+  },
+  {
+    "name": "Piedfort Andreas",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/PiedfortAndreas.jpg",
+    "email": "andreas.piedfort@ecal.ch"
+  },
+  {
+    "name": "Piedigrossi Aurore",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/PiedigrossiAurore.jpg",
+    "email": "aurore.piedigrossi@ecal.ch"
+  },
+  {
+    "name": "Pietra Enrico",
+    "role": "Etudiant",
+    "desc": " 1re année MAS in Design for Luxury &amp; Craftsmanship",
+    "img": "/img/photo/PietraEnrico.jpg",
+    "email": "enrico.pietra@ecal.ch"
+  },
+  {
+    "name": "Pietrini Luisa",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/PietriniLuisa.jpg",
+    "email": "luisa.pietrini@ecal.ch"
+  },
+  {
+    "name": "Piette Margaux",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Photographie",
+    "img": "/img/photo/PIETTEMARGAUX.jpg",
+    "email": "margaux.piette@ecal.ch"
+  },
+  {
+    "name": "Pilato Olivia",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Arts visuels",
+    "img": "/img/photo/PILATOOLIVIA.jpg",
+    "email": "olivia.pilato@ecal.ch"
+  },
+  {
+    "name": "Pinto Antonio",
+    "role": "Collaborateur",
+    "desc": "Concierge  LOG",
+    "img": "/img/photo/PintoAntonio.jpg",
+    "email": "antonio.pinto@ecal.ch"
+  },
+  {
+    "name": "Pisoni Karen",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/PisoniKaren.jpg",
+    "email": "karen.pisoni@ecal.ch"
+  },
+  {
+    "name": "Pitisongswat Naroot",
+    "role": "Etudiant",
+    "desc": " 1re année MAS in Design for Luxury &amp; Craftsmanship",
+    "img": "/img/photo/PitisongswatNaroot.jpg",
+    "email": "naroot.pitisongswat@ecal.ch"
+  },
+  {
+    "name": "Pittaluga Imanol",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Cinéma",
+    "img": "/img/photo/PittalugaImanol.jpg",
+    "email": "imanol.pittaluga@ecal.ch"
+  },
+  {
+    "name": "Pittet Joséphine",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Cinéma",
+    "img": "/img/photo/PittetJosephine.jpg",
+    "email": "josephine.pittet@ecal.ch"
+  },
+  {
+    "name": "Plagnard Hugo",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Photographie",
+    "img": "/img/photo/PLAGNARDHUGO.jpg",
+    "email": "hugo.plagnard@ecal.ch"
+  },
+  {
+    "name": "Planes Martinez Sandra",
+    "role": "Etudiant",
+    "desc": " 1re année MAS in Design for Luxury &amp; Craftsmanship",
+    "img": "/img/photo/PlanesSandra.jpg",
+    "email": "sandra.planes_martinez@ecal.ch"
+  },
+  {
+    "name": "Plantier Benjamin",
+    "role": "Collaborateur",
+    "desc": "Imprimeur  IMP",
+    "email": "benjamin.plantier@ecal.ch"
+  },
+  {
+    "name": "Polito Cécile",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Arts visuels",
+    "img": "/img/photo/PolitoCecile.jpg",
+    "email": "cecile.polito@ecal.ch"
+  },
+  {
+    "name": "Polli Nicolas",
+    "role": "Assistant",
+    "desc": "Assistant en Master Photographie  MAP",
+    "img": "/img/photo/PolliNicolas.jpg",
+    "email": "nicolas.polli@ecal.ch"
+  },
+  {
+    "name": "Polo Carrard Alice",
+    "role": "Etudiant",
+    "desc": "  option Design graphique",
+    "img": "/img/photo/PoloCarrardAlice.jpg",
+    "email": "alice.polo_carrard@ecal.ch"
+  },
+  {
+    "name": "Poloni Carlo Marco",
+    "role": "Professeur",
+    "desc": "Professeur en Bachelor Photographie et Arts Visuels  CVph",
+    "img": "/img/photo/PoloniMarco.jpg",
+    "email": "marco.poloni@ecal.ch"
+  },
+  {
+    "name": "Pomati Matteo",
+    "role": "Etudiant",
+    "desc": " 2e année Master Arts visuels  - European Art Ensemble",
+    "img": "/img/photo/PomatiMatteo.jpg",
+    "email": "matteo.pomati@ecal.ch"
+  },
+  {
+    "name": "Ponant Pierre",
+    "role": "Intervenant",
+    "desc": "Chargé de cours de Théorie en Année Propédeutique et en Bachelor  CV",
+    "email": "pierre.ponant@ecal.ch"
+  },
+  {
+    "name": "Pont Violène",
+    "role": "Professeur",
+    "desc": "Professeur en Année Propédeutique (option CV), Bachelor Design Graphique et Bachelor Design Industriel  DI",
+    "img": "/img/photo/PontViolene.jpg",
+    "email": "violene.pont@ecal.ch"
+  },
+  {
+    "name": "Portier Hélène",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/PortierHelene.jpg",
+    "email": "helene.portier@ecal.ch"
+  },
+  {
+    "name": "Pouillot Maxime",
+    "role": "Etudiant",
+    "desc": "  option Media &amp; Interaction Design",
+    "img": "/img/photo/PouillotMaxime.jpg",
+    "email": "maxime.pouillot@ecal.ch"
+  },
+  {
+    "name": "Poupon Cécilia",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Photographie",
+    "img": "/img/photo/PouponCecilia.jpg",
+    "email": "cecilia.poupon@ecal.ch"
+  },
+  {
+    "name": "Pourchet Jules",
+    "role": "Etudiant",
+    "desc": " 1re année Master cinéma",
+    "img": "/img/photo/PourchetJules.jpg",
+    "email": "jules.pourchet@ecal.ch"
+  },
+  {
+    "name": "Pricam Johan",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/PricamJoham.jpg",
+    "email": "johan.pricam@ecal.ch"
+  },
+  {
+    "name": "Proenza Gina",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Arts visuels",
+    "img": "/img/photo/ProenzaGina.jpg",
+    "email": "gina.proenza@ecal.ch"
+  },
+  {
+    "name": "Prost Thomas",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design graphique",
+    "img": "/img/photo/ProstThomas.jpg",
+    "email": "thomas.prost@ecal.ch"
+  },
+  {
+    "name": "Proton Noé",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design graphique",
+    "img": "/img/photo/ProtonNoe.jpg",
+    "email": "noe.proton@ecal.ch"
+  },
+  {
+    "name": "Pupille Rodolphe",
+    "role": "Etudiant",
+    "desc": "  option Design industriel",
+    "img": "/img/photo/PupilleRodolphe.jpg",
+    "email": "rodolphe.pupille@ecal.ch"
+  },
+  {
+    "name": "Pérez Salomón",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Cinéma",
+    "img": "/img/photo/PerezSalomon.jpg",
+    "email": "salomon.perez@ecal.ch"
+  },
+  {
+    "name": "Péry Aurore",
+    "role": "Etudiant",
+    "desc": "  option Design graphique",
+    "img": "/img/photo/PeryAurore.jpg",
+    "email": "aurore.pery@ecal.ch"
+  },
+  {
+    "name": "Racelis Maldia Arleen",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Cinéma",
+    "img": "/img/photo/RacelisArleen.jpg",
+    "email": "arleen.racelismaldia@ecal.ch"
+  },
+  {
+    "name": "Rambert-Preiss Lou",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Cinéma",
+    "img": "/img/photo/RambertPreissLou.jpg",
+    "email": "lou.rambert-preiss@ecal.ch"
+  },
+  {
+    "name": "Ramirez Aburto Andrea",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/RamirezAburtoAndrea.jpg",
+    "email": "andrea.ramirez_aburto@ecal.ch"
+  },
+  {
+    "name": "Rappo François",
+    "role": "Professeur",
+    "desc": "Professeur en Bachelor Communication Visuelle et Master Type Design  MAad",
+    "img": "/img/photo/RappoFrancois.jpg",
+    "email": "francois.rappo@ecal.ch"
+  },
+  {
+    "name": "Rashid Hanieh",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/RASHIDHANIEH.jpg",
+    "email": "hanieh.rashid@ecal.ch"
+  },
+  {
+    "name": "Rebeca Lisa",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design graphique",
+    "img": "/img/photo/RebecaLisa.jpg",
+    "email": "lisa.rebeca@ecal.ch"
+  },
+  {
+    "name": "Reboul Elie",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/ReboulElie.jpg",
+    "email": "elie.reboul@ecal.ch"
+  },
+  {
+    "name": "Regal Sara",
+    "role": "Etudiant",
+    "desc": " 2e année Master Design en Design de Produit",
+    "img": "/img/photo/RegalSara.jpg",
+    "email": "sara.regal@ecal.ch"
+  },
+  {
+    "name": "Reis Jorge",
+    "role": "Etudiant",
+    "desc": "  option Media &amp; Interaction Design",
+    "img": "/img/photo/ReisJorge.jpg",
+    "email": "jorge.reis@ecal.ch"
+  },
+  {
+    "name": "Reuter Jakob",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Design de Produit",
+    "img": "/img/photo/ReuterJakob.jpg",
+    "email": "jakob.reuter@ecal.ch"
+  },
+  {
+    "name": "Rey Raphaèle",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Photographie",
+    "img": "/img/photo/ReyRaphaele.jpg",
+    "email": "raphaele.rey@ecal.ch"
+  },
+  {
+    "name": "Reymond Margot",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/ReymondMargot.jpg",
+    "email": "margot.reymond@ecal.ch"
+  },
+  {
+    "name": "Reynaud Fanny",
+    "role": "Etudiant",
+    "desc": "  option Cinéma",
+    "img": "/img/photo/ReynaudFanny.jpg",
+    "email": "fanny.reynaud@ecal.ch"
+  },
+  {
+    "name": "Reynaud Jean",
+    "role": "Etudiant",
+    "desc": "  option Media &amp; Interaction Design",
+    "img": "/img/photo/ReynaudJean.jpg",
+    "email": "jean.reynaud@ecal.ch"
+  },
+  {
+    "name": "Ribeiro Elisa",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Photographie",
+    "img": "/img/photo/RibeiroElisa.jpg",
+    "email": "elisa.ribeiro@ecal.ch"
+  },
+  {
+    "name": "Ribeiro da Costa Sonia",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Arts visuels",
+    "img": "/img/photo/RibeiroDaCostaSonia.jpg",
+    "email": "sonia.ribeiro_da_costa@ecal.ch"
+  },
+  {
+    "name": "Rieckhoff Yohanna",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/RIECKHOFFYOHANNA.jpg",
+    "email": "yohanna.rieckhoff@ecal.ch"
+  },
+  {
+    "name": "Rieder Justine",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/RiederJustine.jpg",
+    "email": "justine.rieder@ecal.ch"
+  },
+  {
+    "name": "Rihs Tatiana",
+    "role": "Professeur",
+    "desc": "Professeur en Année Propédeutique (option CV) et Bachelor Arts Visuels  PP",
+    "img": "/img/photo/RihsTatiana.jpg",
+    "email": "tatiana.rihs@ecal.ch"
+  },
+  {
+    "name": "Rochat Korlei",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Cinéma",
+    "img": "/img/photo/RochatKorlei.jpg",
+    "email": "korlei.rochat@ecal.ch"
+  },
+  {
+    "name": "Rochereau Hanna",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Arts visuels",
+    "img": "/img/photo/ROCHEREAUHANNA.jpg",
+    "email": "hanna.rochereau@ecal.ch"
+  },
+  {
+    "name": "Ross Callum",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/ROSSCALLUM.jpg",
+    "email": "callum.ross@ecal.ch"
+  },
+  {
+    "name": "Rossel Benoît",
+    "role": "Professeur",
+    "desc": "Professeur en Bachelor Cinéma  CVci",
+    "img": "/img/photo/RosselBenoit.jpg",
+    "email": "benoit.rossel@ecal.ch"
+  },
+  {
+    "name": "Roucoules Romain",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Photographie",
+    "img": "/img/photo/RoucoulesRomain.jpg",
+    "email": "romain.roucoules@ecal.ch"
+  },
+  {
+    "name": "Rougerie Estelle",
+    "role": "Etudiant",
+    "desc": "  option Design industriel",
+    "img": "/img/photo/RougerieEstelle.jpg",
+    "email": "estelle.rougerie@ecal.ch"
+  },
+  {
+    "name": "Rousseau Félicien",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/RousseauFelicien.jpg",
+    "email": "felicien.rousseau@ecal.ch"
+  },
+  {
+    "name": "Rousset Clémentine",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design graphique",
+    "img": "/img/photo/RoussetClementine.jpg",
+    "email": "clementine.rousset@ecal.ch"
+  },
+  {
+    "name": "Rovero Adrien",
+    "role": "Professeur",
+    "desc": "Professeur en Bachelor Design Industriel  DI",
+    "img": "/img/photo/RoveroAdrien.jpg",
+    "email": "adrien.rovero@ecal.ch"
+  },
+  {
+    "name": "Roversi Paolo",
+    "role": "Intervenant",
+    "desc": "Chargé de cours en Bachelor Photographie  CV",
+    "email": "paolo.roversi@ecal.ch"
+  },
+  {
+    "name": "Roy Cantu Yatoni",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Cinéma",
+    "img": "/img/photo/RoyCantuYatoni.jpg",
+    "email": "yatoni.roy_cantu@ecal.ch"
+  },
+  {
+    "name": "Rubini Colombe",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Cinéma",
+    "img": "/img/photo/RubiniColombe.jpg",
+    "email": "colombe.rubini@ecal.ch"
+  },
+  {
+    "name": "Rudaz Jodie",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Arts visuels",
+    "img": "/img/photo/RudazJodie.jpg",
+    "email": "jodie.rudaz@ecal.ch"
+  },
+  {
+    "name": "Rutz Noelani",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/RutzNoelani.jpg",
+    "email": "noelani.rutz@ecal.ch"
+  },
+  {
+    "name": "Sack Aurèle",
+    "role": "Professeur",
+    "desc": "Professeur en Bachelor Design Graphique  CVdg",
+    "img": "/img/photo/SackAurele.jpg",
+    "email": "aurele.sack@ecal.ch"
+  },
+  {
+    "name": "Sage Joana",
+    "role": "Etudiant",
+    "desc": "  option Design graphique",
+    "img": "/img/photo/SageJoana.jpg",
+    "email": "joana.sage@ecal.ch"
+  },
+  {
+    "name": "Saglio Pauline",
+    "role": "Professeur",
+    "desc": "Adjointe artistique en Bachelor Communication Visuelle  CVnm",
+    "img": "/img/photo/SaglioPauline.jpg",
+    "email": "pauline.saglio@ecal.ch"
+  },
+  {
+    "name": "Sakashita Baku",
+    "role": "Etudiant",
+    "desc": " 1re année MAS in Design for Luxury &amp; Craftsmanship",
+    "img": "/img/photo/SakashitaBaku.jpg",
+    "email": "baku.sakashita@ecal.ch"
+  },
+  {
+    "name": "Saleh Kenza",
+    "role": "Etudiant",
+    "desc": "  option Design graphique",
+    "img": "/img/photo/SalehKenza.jpg",
+    "email": "kenza.saleh@ecal.ch"
+  },
+  {
+    "name": "Sandahl Simone",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Photographie",
+    "img": "/img/photo/JensenSimoneSandahl.jpg",
+    "email": "simone.sandahl@ecal.ch"
+  },
+  {
+    "name": "Santolin Anthony",
+    "role": "Collaborateur",
+    "desc": "Technicien Informatique  SI",
+    "img": "/img/photo/SantolinAnthony.jpg",
+    "email": "anthony.santolin@ecal.ch"
+  },
+  {
+    "name": "Sassoli De Bianchi Luca",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/SassoliDeBianchiLuca.jpg",
+    "email": "luca.sassoli_de_bianchi@ecal.ch"
+  },
+  {
+    "name": "Savary Denis",
+    "role": "Professeur",
+    "desc": "Professeur en Année Propédeutique (option AV) et Bachelor Arts Visuels  AV",
+    "img": "/img/photo/SavaryDenis.jpg",
+    "email": "denis.savary@ecal.ch"
+  },
+  {
+    "name": "Schaer Julie",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Arts visuels",
+    "img": "/img/photo/SCHAERJULIE.jpg",
+    "email": "julie.schaer@ecal.ch"
+  },
+  {
+    "name": "Schalcher Fabienne",
+    "role": "Collaborateur",
+    "desc": "Assistante du directeur adjoint académique  SEC",
+    "img": "/img/photo/SchalcherFabienne.jpg",
+    "email": "fabienne.schalcher@ecal.ch"
+  },
+  {
+    "name": "Schaub Nadine",
+    "role": "Assistant",
+    "desc": "Assistante en Bachelor Design Industriel  DI",
+    "img": "/img/photo/SCHAUBNADINE.jpg",
+    "email": "nadine.schaub@ecal.ch"
+  },
+  {
+    "name": "Schenker Olivia",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Photographie",
+    "img": "/img/photo/SCHENKEROLIVIA.jpg",
+    "email": "olivia.schenker@ecal.ch"
+  },
+  {
+    "name": "Schertenleib Andréa",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/SchertenleibAndrea.jpg",
+    "email": "andrea.schertenleib@ecal.ch"
+  },
+  {
+    "name": "Schiefelbein Christian",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/SchiefelbeinChristian.jpg",
+    "email": "christian.schiefelbein@ecal.ch"
+  },
+  {
+    "name": "Schlögel Dominic",
+    "role": "Assistant",
+    "desc": "Assistant en Master Design de Produit  MAdp",
+    "img": "/img/photo/SchlogelDominic.jpg",
+    "email": "dominic.schlogel@ecal.ch"
+  },
+  {
+    "name": "Schmitt Philippa",
+    "role": "Etudiant",
+    "desc": "  option Design graphique",
+    "img": "/img/photo/SchmittPhilippa.jpg",
+    "email": "philippa.schmitt@ecal.ch"
+  },
+  {
+    "name": "Schmutz Joanne Sarah",
+    "role": "Etudiant",
+    "desc": " 1re année Master cinéma",
+    "img": "/img/photo/SchmutzJoanneSarah.jpg",
+    "email": "joanne.schmutz@ecal.ch"
+  },
+  {
+    "name": "Schneider Anouk",
+    "role": "Professeur",
+    "desc": "Professeur en Bachelor Communication Visuelle  CVph",
+    "email": "anouk.schneider@ecal.ch"
+  },
+  {
+    "name": "Schneider Pauline",
+    "role": "Etudiant",
+    "desc": " 1re année Master cinéma",
+    "img": "/img/photo/SchneiderPauline.jpg",
+    "email": "pauline.schneider@ecal.ch"
+  },
+  {
+    "name": "Schulz Christian",
+    "role": "Etudiant",
+    "desc": "  option Arts visuels",
+    "img": "/img/photo/SchulzChristian.jpg",
+    "email": "christian.schulz@ecal.ch"
+  },
+  {
+    "name": "Scott de Martinville Augustin",
+    "role": "Professeur",
+    "desc": "Professeur en Master Design de Produit  MAdp",
+    "img": "/img/photo/ScottdeMartinvilleAugustin.jpg",
+    "email": "augustin.scott@ecal.ch"
+  },
+  {
+    "name": "Sebei Bilal",
+    "role": "Etudiant",
+    "desc": " 2e année Master Art Direction",
+    "img": "/img/photo/SebeiBilal.jpg",
+    "email": "bilal.sebei@ecal.ch"
+  },
+  {
+    "name": "Sgandurra Adrien",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Photographie",
+    "img": "/img/photo/SgandurraAdrien.jpg",
+    "email": "adrien.sgandurra@ecal.ch"
+  },
+  {
+    "name": "Sieber Valentin",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/SieberValentin.jpg",
+    "email": "valentin.sieber@ecal.ch"
+  },
+  {
+    "name": "Sieger Séléna",
+    "role": "Etudiant",
+    "desc": " 1re année MAS in Design for Luxury &amp; Craftsmanship",
+    "img": "/img/photo/SiegerSelena.jpg",
+    "email": "selena.sieger@ecal.ch"
+  },
+  {
+    "name": "Siffert Jeanne",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/SiffertJeanne.jpg",
+    "email": "jeanne.siffert@ecal.ch"
+  },
+  {
+    "name": "Sigurdarson Brynjar",
+    "role": "Intervenant",
+    "desc": "Chargé de cours en Master Design de produit  MAdp",
+    "img": "/img/photo/SigurdarsonBrynjar.jpg",
+    "email": "brynjar.sigurdarson@ecal.ch"
+  },
+  {
+    "name": "Simeon Eugénie",
+    "role": "Etudiant",
+    "desc": "  option Design graphique",
+    "img": "/img/photo/SimeonEugenie.jpg",
+    "email": "eugenie.simeon@ecal.ch"
+  },
+  {
+    "name": "Simmen Guillaume",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/SimmenGuillaume.jpg",
+    "email": "guillaume.simmen@ecal.ch"
+  },
+  {
+    "name": "Simond Senta",
+    "role": "Etudiant",
+    "desc": " 2e année Master Art Direction",
+    "img": "/img/photo/SimondSenta.jpg",
+    "email": "senta.simond@ecal.ch"
+  },
+  {
+    "name": "Sinclair Léonard",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Cinéma",
+    "img": "/img/photo/SinclairLeonard.jpg",
+    "email": "leonard.sinclair@ecal.ch"
+  },
+  {
+    "name": "Sirtl Maximilian",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/SirtlMaximilian.jpg",
+    "email": "maximilian.sirtl@ecal.ch"
+  },
+  {
+    "name": "Smith Nora",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Photographie",
+    "img": "/img/photo/SMITHNORA.jpg",
+    "email": "nora.smith@ecal.ch"
+  },
+  {
+    "name": "Soavelo Fabiola",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/SOAVELOFABIOLA.jpg",
+    "email": "fabiola.soavelo@ecal.ch"
+  },
+  {
+    "name": "Sobrero Camila Ianka",
+    "role": "Etudiant",
+    "desc": "  option Arts visuels",
+    "img": "/img/photo/SobreroCamilaIanka.jpg",
+    "email": "camila.sobrero@ecal.ch"
+  },
+  {
+    "name": "Sohn Donghoon",
+    "role": "Etudiant",
+    "desc": " 1re année MAS in Design for Luxury &amp; Craftsmanship",
+    "img": "/img/photo/SohnDonghoon.jpg",
+    "email": "donghoon.sohn@ecal.ch"
+  },
+  {
+    "name": "Soldini Laurent",
+    "role": "Professeur",
+    "desc": "Chef de projets (Ra&amp;D)  RAD",
+    "img": "/img/photo/SoldiniLaurent.jpg",
+    "email": "laurent.soldini@ecal.ch"
+  },
+  {
+    "name": "Sonnier Jean-Guillaume",
+    "role": "Collaborateur",
+    "desc": "Assistant production et diffusion  CVci",
+    "img": "/img/photo/SonnierJeanGuillaume.jpg",
+    "email": "jean_guillaume.sonnier@ecal.ch"
+  },
+  {
+    "name": "Soules Marion",
+    "role": "Etudiant",
+    "desc": "  option Design industriel",
+    "img": "/img/photo/SoulesMarion.jpg",
+    "email": "marion.soules@ecal.ch"
+  },
+  {
+    "name": "Soulié Sophie",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design graphique",
+    "img": "/img/photo/SoulieSophie.jpg",
+    "email": "sophie.soulie@ecal.ch"
+  },
+  {
+    "name": "Spahni Tomas",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Cinéma",
+    "img": "/img/photo/SpahniTomas.jpg",
+    "email": "tomas.spahni@ecal.ch"
+  },
+  {
+    "name": "Sparkes Margot",
+    "role": "Etudiant",
+    "desc": "  option Photographie",
+    "img": "/img/photo/SparkesMargot.jpg",
+    "email": "margot.sparkes@ecal.ch"
+  },
+  {
+    "name": "Speziali Stella",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/SpezialiStella.jpg",
+    "email": "stella.speziali@ecal.ch"
+  },
+  {
+    "name": "Stauffer Isabelle",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Photographie",
+    "img": "/img/photo/STAUFFERISABELLE.jpg",
+    "email": "isabelle.stauffer@ecal.ch"
+  },
+  {
+    "name": "Steffen  Yoo-Mi",
+    "role": "Collaborateur",
+    "desc": "Bibliothécaire  BIB",
+    "email": "yoo-mi.steffen@ecal.ch"
+  },
+  {
+    "name": "Stehli Angélique",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Photographie",
+    "img": "/img/photo/StehliAngelique.jpg",
+    "email": "angelique.stehli@ecal.ch"
+  },
+  {
+    "name": "Steinmetz Célia",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/SteinmetzCelia.jpg",
+    "email": "celia.steinmetz@ecal.ch"
+  },
+  {
+    "name": "Stephan Matthieu",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Arts visuels",
+    "img": "/img/photo/StephanMatthieu.jpg",
+    "email": "matthieu.stephan@ecal.ch"
+  },
+  {
+    "name": "Streit Lukas",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/StreitLukas.jpg",
+    "email": "lukas.streit@ecal.ch"
+  },
+  {
+    "name": "Stricker Martin",
+    "role": "Etudiant",
+    "desc": "  option Design industriel",
+    "img": "/img/photo/StrickerMartin.jpg",
+    "email": "martin.stricker@ecal.ch"
+  },
+  {
+    "name": "Studer Anna-Sophie",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/STUDERANNASOPHIE.jpg",
+    "email": "anna-sophie.studer@ecal.ch"
+  },
+  {
+    "name": "Swierczynski Robert",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Photographie",
+    "img": "/img/photo/SwierczynskiRobert.jpg",
+    "email": "robert.swierczynski@ecal.ch"
+  },
+  {
+    "name": "Szewc Aleksandra",
+    "role": "Etudiant",
+    "desc": " 2e année Master Design en Design de Produit",
+    "img": "/img/photo/SzewcAleksandra.jpg",
+    "email": "aleksandra.szewc@ecal.ch"
+  },
+  {
+    "name": "Szijártó Alix",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/SzijartoAlix.jpg",
+    "email": "alix.szijarto@ecal.ch"
+  },
+  {
+    "name": "Szotyori Richard",
+    "role": "Intervenant",
+    "desc": "Chargé de cours en Bachelor Cinéma  CVci",
+    "img": "/img/photo/SzotyoriRichard.jpg",
+    "email": "richard.szotyori@ecal.ch"
+  },
+  {
+    "name": "Tapia Gonzalez Carlos Alberto",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Cinéma",
+    "img": "/img/photo/TapiaCarlos.jpg",
+    "email": "carlos.tapia_gonzalez@ecal.ch"
+  },
+  {
+    "name": "Tardy Lionel",
+    "role": "Intervenant",
+    "desc": "Chargé de cours en Bachelor Media &amp; Interaction Design  CVnm",
+    "img": "/img/photo/TardyLionel.jpg",
+    "email": "lionel.tardy@ecal.ch"
+  },
+  {
+    "name": "Tasula Maria",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Photographie",
+    "img": "/img/photo/TasulaMari.jpg",
+    "email": "maria.tasula@ecal.ch"
+  },
+  {
+    "name": "Taylor Alexander",
+    "role": "Intervenant",
+    "desc": "Chargé de cours en Bachelor Design Industriel  DI",
+    "email": "alexander.taylor@ecal.ch"
+  },
+  {
+    "name": "Taylor Martin",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design graphique",
+    "img": "/img/photo/TaylorMartin.jpg",
+    "email": "martin.taylor@ecal.ch"
+  },
+  {
+    "name": "Teboul Arthur",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design graphique",
+    "img": "/img/photo/TeboulArthur.jpg",
+    "email": "arthur.teboul@ecal.ch"
+  },
+  {
+    "name": "Teixeira da Silva André",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design graphique",
+    "img": "/img/photo/TeixeiradaSilvaAndre.jpg",
+    "email": "andre.teixeira_da_silva@ecal.ch"
+  },
+  {
+    "name": "Tevaearai Deodaat",
+    "role": "Professeur",
+    "desc": "Responsable de la Théorie en Bachelor  UT",
+    "img": "/img/photo/TevaearaiDeodaat.jpg",
+    "email": "deodaat.tevaearai@ecal.ch"
+  },
+  {
+    "name": "Therond Clara",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Arts visuels",
+    "img": "/img/photo/THERONDCLARA.jpg",
+    "email": "clara.therond@ecal.ch"
+  },
+  {
+    "name": "Therond Mélanie",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Arts visuels",
+    "img": "/img/photo/TherondMelanie.jpg",
+    "email": "melanie.therond@ecal.ch"
+  },
+  {
+    "name": "Thouvenin Diane",
+    "role": "Etudiant",
+    "desc": "  option Media &amp; Interaction Design",
+    "img": "/img/photo/ThouveninDiane.jpg",
+    "email": "diane.thouvenin@ecal.ch"
+  },
+  {
+    "name": "Thórisdóttir Sunna",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Arts visuels",
+    "img": "/img/photo/ThorisdottirSunna.jpg",
+    "email": "sunna.thorisdottir@ecal.ch"
+  },
+  {
+    "name": "Tignol Marie",
+    "role": "Etudiant",
+    "desc": "  option Design graphique",
+    "img": "/img/photo/TignolMarie.jpg",
+    "email": "marie.tignol@ecal.ch"
+  },
+  {
+    "name": "Tissot Kelly",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Arts visuels",
+    "img": "/img/photo/TISSOTKELLY.jpg",
+    "email": "kelly.tissot@ecal.ch"
+  },
+  {
+    "name": "Tomatala Yul",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Photographie",
+    "img": "/img/photo/TomatalaYul.jpg",
+    "email": "yul.tomatala@ecal.ch"
+  },
+  {
+    "name": "Tomatis Davide",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Type Design",
+    "img": "/img/photo/TomatisDavide.jpg",
+    "email": "davide.tomatis@ecal.ch"
+  },
+  {
+    "name": "Toulotte Nicolas",
+    "role": "Etudiant",
+    "desc": " 2e année Master Art Direction",
+    "img": "/img/photo/ToulotteNicolas.jpg",
+    "email": "nicolas.toulotte@ecal.ch"
+  },
+  {
+    "name": "Tourron Alexis",
+    "role": "Assistant",
+    "desc": "Assistant en Bachelor Design Industriel  DI",
+    "img": "/img/photo/TourronAlexis.jpg",
+    "email": "alexis.tourron@ecal.ch"
+  },
+  {
+    "name": "Toussaint Anna",
+    "role": "Etudiant",
+    "desc": " 2e année Master Art Direction",
+    "img": "/img/photo/ToussaintAnna.jpg",
+    "email": "anna.toussaint@ecal.ch"
+  },
+  {
+    "name": "Tran Alex",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/TranAlex.jpg",
+    "email": "alex.tran@ecal.ch"
+  },
+  {
+    "name": "Tremblot de la Croix Clément",
+    "role": "Etudiant",
+    "desc": " 2e année Master Art Direction",
+    "img": "/img/photo/TremblotdelaCroixClement.jpg",
+    "email": "clement.tremblot_de_la_croix@ecal.ch"
+  },
+  {
+    "name": "Trieu Chi-Long",
+    "role": "Intervenant",
+    "desc": "Chargé de cours en MAS in Design for Luxury and Craftsmanship et en SHS  CVdg",
+    "img": "/img/photo/TrieuChiLong.jpg",
+    "email": "chi-long.trieu@ecal.ch"
+  },
+  {
+    "name": "Troilo Laetitia",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design graphique",
+    "img": "/img/photo/TroiloLaetitia.jpg",
+    "email": "laetitia.troilo@ecal.ch"
+  },
+  {
+    "name": "Tronchot Charlotte",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Photographie",
+    "img": "/img/photo/TRONCHOTCHARLOTTE.jpg",
+    "email": "charlotte.tronchot@ecal.ch"
+  },
+  {
+    "name": "Trotobas Alexandra",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Photographie",
+    "img": "/img/photo/TrotobasAlexandra.jpg",
+    "email": "alexandra.trotobas@ecal.ch"
+  },
+  {
+    "name": "Tschanz Anouk",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Arts visuels",
+    "img": "/img/photo/TSCHANZANOUK.jpg",
+    "email": "anouk.tschanz@ecal.ch"
+  },
+  {
+    "name": "Tschudi David",
+    "role": "Collaborateur",
+    "desc": "Responsable du Service Informatique  SI",
+    "email": "david.tschudi@ecal.ch"
+  },
+  {
+    "name": "Tusevo Laura-Issé",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design graphique",
+    "img": "/img/photo/TUSEVOLAURA.jpg",
+    "email": "laura.tusevo@ecal.ch"
+  },
+  {
+    "name": "Udry Nicole",
+    "role": "Professeur",
+    "desc": "Professeur en Bachelor Design Graphique  CVdg",
+    "img": "/img/photo/UdryNicole.jpg",
+    "email": "nicole.udry@ecal.ch"
+  },
+  {
+    "name": "Udvari Tibor",
+    "role": "Assistant",
+    "desc": "Assistant en Bachelor Media &amp; Interaction Design  CVnm",
+    "img": "/img/photo/UdvariTibor.jpg",
+    "email": "tibor.udvari@ecal.ch"
+  },
+  {
+    "name": "Ugarte Vallejos Remy",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Photographie",
+    "img": "/img/photo/UGARTEREMY.jpg",
+    "email": "remy.ugarte@ecal.ch"
+  },
+  {
+    "name": "Uldry Andréa",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design graphique",
+    "img": "/img/photo/UldryAndrea.jpg",
+    "email": "andrea.uldry@ecal.ch"
+  },
+  {
+    "name": "Ulmann Tara",
+    "role": "Etudiant",
+    "desc": "  option Photographie",
+    "img": "/img/photo/UlmannTara.jpg",
+    "email": "tara.ulmann@ecal.ch"
+  },
+  {
+    "name": "Ummel Gwendolyn",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design graphique",
+    "img": "/img/photo/UmmelGwendolyn.jpg",
+    "email": "gwendolyn.ummel@ecal.ch"
+  },
+  {
+    "name": "Vacheron Joël",
+    "role": "Professeur",
+    "desc": "Professeur de Théorie en Bachelor et Master  UT",
+    "img": "/img/photo/VacheronJoel.jpg",
+    "email": "joel.vacheron@ecal.ch"
+  },
+  {
+    "name": "Vachon Paul",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/VachonPaul.jpg",
+    "email": "paul.vachon@ecal.ch"
+  },
+  {
+    "name": "Vadi Pierre",
+    "role": "Professeur",
+    "desc": "Professeur en Bachelor Arts Visuels  AV",
+    "img": "/img/photo/VadiPierre.jpg",
+    "email": "pierre.vadi@ecal.ch"
+  },
+  {
+    "name": "Valladares Ralph Ethan",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/ValladaresEthan.jpg",
+    "email": "ethan.valladares@ecal.ch"
+  },
+  {
+    "name": "Vaney Johanna",
+    "role": "Collaborateur",
+    "desc": "Technicienne Informatique  SI",
+    "email": "johanna.vaney@ecal.ch"
+  },
+  {
+    "name": "Vanini Martina",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Arts visuels",
+    "img": "/img/photo/VaniniMartina.jpg",
+    "email": "martina.vanini@ecal.ch"
+  },
+  {
+    "name": "Vanuzzo Kylia",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Arts visuels",
+    "img": "/img/photo/VanuzzoKylia.jpg",
+    "email": "kylia.vanuzzo@ecal.ch"
+  },
+  {
+    "name": "Vauthey Antoine",
+    "role": "Collaborateur",
+    "desc": "Responsable des Expositions  DI",
+    "email": "antoine.vauthey@ecal.ch"
+  },
+  {
+    "name": "Vega Sabrina",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design graphique",
+    "img": "/img/photo/VegaSabrina.jpg",
+    "email": "sabrina.vega@ecal.ch"
+  },
+  {
+    "name": "Vernier Manon",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/VERNIERMANON.jpg",
+    "email": "manon.vernier@ecal.ch"
+  },
+  {
+    "name": "Vescan Andreea",
+    "role": "Etudiant",
+    "desc": " 1re année Master cinéma",
+    "img": "/img/photo/VescanAndreea.jpg",
+    "email": "andreea.vescan@ecal.ch"
+  },
+  {
+    "name": "Vienny Coralie",
+    "role": "Etudiant",
+    "desc": " 1re année Master cinéma",
+    "img": "/img/photo/ViennyCoralie.jpg",
+    "email": "coralie.vienny@ecal.ch"
+  },
+  {
+    "name": "Vignet Corentin",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/VignetCorentin.jpg",
+    "email": "corentin.vignet@ecal.ch"
+  },
+  {
+    "name": "Villars Eliott",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Photographie",
+    "img": "/img/photo/VillarsEliott.jpg",
+    "email": "eliott.villars@ecal.ch"
+  },
+  {
+    "name": "Vilutis Justinas",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Photographie",
+    "img": "/img/photo/VilutisJustinas.jpg",
+    "email": "justinas.vilutis@ecal.ch"
+  },
+  {
+    "name": "Vinci Ilaria",
+    "role": "Etudiant",
+    "desc": " 2e année Master Arts visuels  - European Art Ensemble",
+    "img": "/img/photo/VinciIlaria.jpg",
+    "email": "ilaria.vinci@ecal.ch"
+  },
+  {
+    "name": "Viriot Lucie",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Photographie",
+    "img": "/img/photo/ViriotLucie.jpg",
+    "email": "lucie.viriot@ecal.ch"
+  },
+  {
+    "name": "Virág Tamara",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/ViragTamara.jpg",
+    "email": "tamara.virag@ecal.ch"
+  },
+  {
+    "name": "Visentin Matthieu",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design graphique",
+    "img": "/img/photo/VisentinMatthieu.jpg",
+    "email": "mathieu.visentin@ecal.ch"
+  },
+  {
+    "name": "Vogel Nathan",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/VogelNathan.jpg",
+    "email": "nathan.vogel@ecal.ch"
+  },
+  {
+    "name": "Volkart Loïc",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design graphique",
+    "img": "/img/photo/VolkartLoic.jpg",
+    "email": "loic.volkart@ecal.ch"
+  },
+  {
+    "name": "Von Rickenbach Mario",
+    "role": "Intervenant",
+    "desc": "Chargé de cours en Bachelor Media &amp; Interaction Design  CVmid",
+    "img": "/img/photo/VonRickenbachMario..jpg",
+    "email": "mario.von_rickenbach@ecal.ch"
+  },
+  {
+    "name": "Vuilleumier Léonard",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Cinéma",
+    "img": "/img/photo/VuilleumierLéonard.jpg",
+    "email": "leonard.vuilleumier@ecal.ch"
+  },
+  {
+    "name": "Walcher Maëlle",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design industriel et de produits",
+    "img": "/img/photo/WalcherMaelle.jpg",
+    "email": "maelle.walcher@ecal.ch"
+  },
+  {
+    "name": "Wandeler Jonas",
+    "role": "Intervenant",
+    "desc": "Chargé de cours en Bachelor Design graphique  CVdg",
+    "email": "jonas.wandeler@ecal.ch"
+  },
+  {
+    "name": "Weber Selina",
+    "role": "Etudiant",
+    "desc": " 1re année Master cinéma",
+    "img": "/img/photo/WeberSelina.jpg",
+    "email": "selina.weber@ecal.ch"
+  },
+  {
+    "name": "Wegmüller Julien",
+    "role": "Professeur",
+    "desc": "Professeur en Bachelor Design Industriel et MAS in Design for Luxury and Craftsmanship  DI",
+    "img": "/img/photo/WegmullerJulien.jpg",
+    "email": "julien.wegmueller@ecal.ch"
+  },
+  {
+    "name": "Weibel Amélie",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Photographie",
+    "img": "/img/photo/WeibelAmelie.jpg",
+    "email": "amelie.weibel@ecal.ch"
+  },
+  {
+    "name": "Widmer Cédric",
+    "role": "Professeur",
+    "desc": "Professeur en Bachelor Design Industriel et MAS in Design for Luxury and Craftsmanship  CVph",
+    "img": "/img/photo/WidmerCedric.jpg",
+    "email": "cedric.widmer@ecal.ch"
+  },
+  {
+    "name": "Wiig Hansen Nicholai",
+    "role": "Intervenant",
+    "desc": "Chargé de cours en Bachelor Design industriel  DI",
+    "img": "/img/photo/WiigHansenNicholai .2.jpg",
+    "email": "nicholai.wiig_hansen@ecal.ch"
+  },
+  {
+    "name": "Williams Skylar",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Photographie",
+    "img": "/img/photo/WilliamsSkylar.jpg",
+    "email": "skylar.williams@ecal.ch"
+  },
+  {
+    "name": "Woeffray Valentin",
+    "role": "Etudiant",
+    "desc": "  option Photographie",
+    "img": "/img/photo/WoeffrayValentin.jpg",
+    "email": "valentin.woeffray@ecal.ch"
+  },
+  {
+    "name": "Wong Alan Wa Lun",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Design graphique &amp; Année Propédeutique",
+    "img": "/img/photo/WongAlan.02.jpg",
+    "email": "alan.wong@ecal.ch"
+  },
+  {
+    "name": "Woo Adrian",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/WOOADRIAN.jpg",
+    "email": "adrian.woo@ecal.ch"
+  },
+  {
+    "name": "Wuchner Max",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Cinéma",
+    "img": "/img/photo/WuchnerMax.jpg",
+    "email": "max.wuchner@ecal.ch"
+  },
+  {
+    "name": "Wéry Jeanne",
+    "role": "Etudiant",
+    "desc": " 2e année Master Arts visuels  - European Art Ensemble",
+    "img": "/img/photo/WeryJeanne.jpg",
+    "email": "jeanne.wery@ecal.ch"
+  },
+  {
+    "name": "Wünsche Olivia",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design graphique",
+    "img": "/img/photo/WunscheOlivia.jpg",
+    "email": "olivia.wunsche@ecal.ch"
+  },
+  {
+    "name": "Yayla Kerime",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design graphique",
+    "img": "/img/photo/YAYLAKERIME.jpg",
+    "email": "kerime.yayla@ecal.ch"
+  },
+  {
+    "name": "Ybarra Mateo",
+    "role": "Etudiant",
+    "desc": " 1re année Master cinéma",
+    "img": "/img/photo/YbarraMateo.jpg",
+    "email": "mateo.ybarra@ecal.ch"
+  },
+  {
+    "name": "Young Kieran",
+    "role": "Etudiant",
+    "desc": "  option Design industriel",
+    "img": "/img/photo/YoungKieran.jpg",
+    "email": "kieran.young@ecal.ch"
+  },
+  {
+    "name": "Yousefi Shirin",
+    "role": "Etudiant",
+    "desc": " 2e année Master Arts visuels  - European Art Ensemble",
+    "img": "/img/photo/YousefiShirin.jpg",
+    "email": "shirin.yousefi@ecal.ch"
+  },
+  {
+    "name": "Zhang Yihan",
+    "role": "Etudiant",
+    "desc": " 1re année MAS in Design for Luxury &amp; Craftsmanship",
+    "img": "/img/photo/ZhangYihan.jpg",
+    "email": "yihan.zhang@ecal.ch"
+  },
+  {
+    "name": "Zhao Jianxiong",
+    "role": "Etudiant",
+    "desc": " 1re année MAS in Design for Luxury &amp; Craftsmanship",
+    "img": "/img/photo/ZhaoJianxiong.jpg",
+    "email": "jianxiong.zhao@ecal.ch"
+  },
+  {
+    "name": "Zibaut Anouk",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/ZibautAnouk.jpg",
+    "email": "anouk.zibaut@ecal.ch"
+  },
+  {
+    "name": "Zoccarato Laura",
+    "role": "Etudiant",
+    "desc": " 2e année Master Art Direction",
+    "img": "/img/photo/ZoccaratoLaura.jpg",
+    "email": "laura.zoccarato@ecal.ch"
+  },
+  {
+    "name": "Zufferey Mélanie",
+    "role": "Etudiant",
+    "desc": " 3e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/ZuffereyMelanie.jpg",
+    "email": "melanie.zufferey@ecal.ch"
+  },
+  {
+    "name": "d&apapos;Armand de Chateauvieux Thibault",
+    "role": "Professeur",
+    "desc": "Professeur en Année Propédeutique (option CI)  PP",
+    "img": "/img/photo/dArmanddeChateauvieuxThibault.jpg",
+    "email": "thibault.de_chateauvieux@ecal.ch"
+  },
+  {
+    "name": "de Campos Sara",
+    "role": "Etudiant",
+    "desc": " 2e année Master Design en Design de Produit",
+    "img": "/img/photo/deCamposRodriguesSara.jpg",
+    "email": "sara.de_campos_rodrigues@ecal.ch"
+  },
+  {
+    "name": "de Jesus Danaë",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design graphique",
+    "img": "/img/photo/deJesusDanae.jpg",
+    "email": "danae.de_jesus@ecal.ch"
+  },
+  {
+    "name": "de Juan Alma",
+    "role": "Etudiant",
+    "desc": " 1re année Master Design en Type Design",
+    "img": "/img/photo/deJuanAlma.jpg",
+    "email": "alma.de_juan@ecal.ch"
+  },
+  {
+    "name": "de Lapaillone Ernest",
+    "role": "Etudiant",
+    "desc": " 1re année Bachelor Media &amp; Interaction Design",
+    "img": "/img/photo/deLapailloneErnest.jpg",
+    "email": "ernest.de_lapaillone@ecal.ch"
+  },
+  {
+    "name": "de Martino Lise",
+    "role": "Etudiant",
+    "desc": "  option Arts visuels",
+    "img": "/img/photo/deMartinoLise.jpg",
+    "email": "lise.de_martino@ecal.ch"
+  },
+  {
+    "name": "de Saint-Exupéry Marin",
+    "role": "Etudiant",
+    "desc": " 2e année Bachelor Design industriel et de produits",
+    "img": "/img/photo/deSaintExuperyMarin.jpg",
+    "email": "marin.de_saint-exupery@ecal.ch"
+  },
+  {
+    "name": "de Vismes Nicolas",
+    "role": "Etudiant",
+    "desc": " 2e année Master Design en Design de Produit",
+    "img": "/img/photo/deVismesNicolas.jpg",
+    "email": "nicolas.de_vismes@ecal.ch"
+  },
+  {
+    "name": "de Watteville Romane",
+    "role": "Etudiant",
+    "desc": "  option Arts visuels",
+    "img": "/img/photo/deWattevilleRomane.jpg",
+    "email": "romane.de_watteville@ecal.ch"
+  },
+  {
+    "name": "el-Hindi Nadia",
+    "role": "Etudiant",
+    "desc": "  option Design industriel",
+    "img": "/img/photo/elHindiNadia.jpg",
+    "email": "nadia.el-hindi@ecal.ch"
+  }
+]

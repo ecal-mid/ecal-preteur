@@ -1,0 +1,221 @@
+/*
+this file is incredibly ugly and messy
+proceed with caution
+*/
+
+:focus {
+  outline-color: transparent;
+  outline-style: none;
+}
+
+*, *:before, *:after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html, body {
+  /*margin: 0;*/
+  font-family: 'Roboto', 'Helvetica', sans-serif;
+  font-size: 0.95em;
+  height: 100%;
+  width:100%;
+  overflow: hidden;
+}
+h1, h2 {
+  font-weight: 100;
+}
+button {
+  font-size: 1.5em;
+  padding: 15px 50px;
+  cursor: pointer;
+  transition: all 0.1s linear;
+}
+
+button:hover {
+  background: black;
+  color: white;
+}
+
+button.disable {
+  cursor: default;
+  opacity: 0;
+}
+
+input, button {
+  border: 4px solid black;
+  font-weight: bold;
+  text-transform: uppercase;
+  background: white;
+  color: black;
+}
+
+.md-icon {
+  font-family: 'Material Icons';
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  font-style: normal;
+}
+
+.hidden {
+  display: none !important;
+}
+
+/* HEADER */
+header.header {
+  height: 45px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  vertical-align: middle;
+  z-index: 999;
+}
+header.header > * {
+  vertical-align: middle;
+  height: 100%;
+}
+header.header button {
+  margin-left: 0.5em;
+}
+header.header .logo {
+  max-width: 12em;
+  margin-left: 1.5em;
+}
+
+/* MAIN */
+
+section.app {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+main {
+  max-width: 720px;
+  flex: 1;
+  padding-bottom: 0.5em;
+  padding-right: 0.5em;
+  overflow-y: auto;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+main.deactivated {
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+button.send {
+  width: 100%;
+  text-align: center;
+}
+
+.info {
+  display: flex;
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-top: 10px;
+}
+.info p {
+  flex: 1;
+}
+
+/* CAPTURE */
+
+.photo {
+  position: relative;
+}
+
+.camera video, .camera img {
+  width: 100%;
+  /*height: 100%;*/
+}
+
+.photo-btn {
+  position: absolute;
+  bottom: 10px;
+  cursor: pointer;
+  height: 62px;
+}
+
+.camera-ui {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* STUDENT LIST */
+
+.student-finder {
+  margin-bottom: 5px;
+  position: relative;
+}
+
+.student-img {
+  position: absolute;
+  left: 6px;
+  top: 7px;
+  z-index: 999;
+}
+
+.clear-img {
+  position: absolute;
+  right: 13px;
+  top: 13px;
+  z-index: 999;
+  cursor: pointer;
+}
+
+.autocomplete-list {
+  position: relative;
+}
+
+.student-input {
+  font-size: 24px;
+  width: 100%;
+  padding: 12px;
+  padding-left: 45px;
+}
+
+ul.student-list {
+  width: 100%;
+  max-height: 300px;
+  overflow: scroll;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  z-index: 999;
+}
+
+ul.student-list li {
+  display: flex;
+  padding: 5px;
+  border-bottom: 4px solid black;
+  cursor: pointer;
+  font-size: 1.5em;
+}
+
+ul.student-list li:hover {
+  background-color: #fcfcfc;
+}
+
+ul.student-list img {
+  margin-right: 10px;
+}
+
+/* LOANS LIST */
+ul.loans-list {
+  overflow: scroll;
+  height: 100%;
+}
+
+ul.loans-list li {
+  display: inline-block;
+}
+
+ul.loans-list img {
+  width: 200px;
+}

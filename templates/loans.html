@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+
+{% block main %}
+
+<ul class="loans-list">
+{% for f in files %}
+  <li><img src="https://storage.googleapis.com{{ f.filename }}"></li>
+{% endfor %}
+</ul>
+
+{% endblock %}
+
+
+{% block scripts %}
+{{ super () }}
+<!-- third parties -->
+<script src="{{ url_for('static', filename='libs/ejs.min.js') }}"></script>
+<script src="{{ url_for('static', filename='libs/qwest.min.js') }}"></script>
+<!-- scripts -->
+{% if admin %}
+<script src="{{ url_for('static', filename='js/admin.js') }}"></script>
+{% endif %}
+
+{% if detail %}
+<script>
+  var detail = "{{ detail_json }}";
+  detail = detail.replace(/&#39;/g, '"');
+  detail = detail.replace(/None/g, 'null');
+  detail = detail.replace(/True/g, 'true');
+  detail = detail.replace(/False/g, 'false');
+  detail = detail.replace(/&amp;/g, '&');
+  detail = JSON.parse(detail);
+  updateStaffPanel(detail);
+</script>
+{% endif %}
+
+{% endblock %}

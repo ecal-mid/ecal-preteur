@@ -1,0 +1,68 @@
+{% extends "base.html" %}
+
+{% block main %}
+
+<section id="app" class="app">
+  <!-- <header class="header">
+      {% block header %}
+      <button id="toggle-menu">☰</button>
+      <img class="logo" src="{{ url_for('static', filename='res/logo.svg') }}">
+      {% endblock %}
+  </header> -->
+  <main>
+
+    <div class="student-finder">
+      <img class="student-img" src="/static/res/user.svg" height="46px" />
+      <img class="clear-img" style="opacity:0" src="/static/res/close.svg" height="36px" />
+      <div class="autocomplete-list">
+        <input class="student-input" type="text"></input>
+        <ul class="student-list" style="display:none;"></ul>
+      </div>
+    </div>
+
+    <div class="photo">
+      <div class="camera">
+        <video autoplay></video>
+      </div>
+      <div class="camera-ui">
+        <svg class="photo-btn take-photo" viewBox="0 0 24 24"><path d="M4,4H7L9,2H15L17,4H20A2,2 0 0,1 22,6V18A2,2 0 0,1 20,20H4A2,2 0 0,1 2,18V6A2,2 0 0,1 4,4M12,7A5,5 0 0,0 7,12A5,5 0 0,0 12,17A5,5 0 0,0 17,12A5,5 0 0,0 12,7M12,9A3,3 0 0,1 15,12A3,3 0 0,1 12,15A3,3 0 0,1 9,12A3,3 0 0,1 12,9Z" /></svg>
+        <svg class="photo-btn live-view" viewBox="0 0 24 24"><path fill="#000000" d="M12,6V9L16,5L12,1V4A8,8 0 0,0 4,12C4,13.57 4.46,15.03 5.24,16.26L6.7,14.8C6.25,13.97 6,13 6,12A6,6 0 0,1 12,6M18.76,7.74L17.3,9.2C17.74,10.04 18,11 18,12A6,6 0 0,1 12,18V15L8,19L12,23V20A8,8 0 0,0 20,12C20,10.43 19.54,8.97 18.76,7.74Z" /></svg>
+      </div>
+    </div>
+
+    <button class="send disable">Save</button>
+
+  </main>
+</section>
+
+<!-- <div class="info">
+<p>1 - select loaner</p>
+<p>2 - take photo</p>
+</div> -->
+
+{% endblock %}
+
+
+{% block scripts %}
+{{ super () }}
+<script type="text/template" id="user-card-tpl">
+    <% if (typeof(img) !== 'undefined') { %>
+    <img src="http://intranet.ecal.ch<%= img %>" height="46px"/>
+    <% } else { %>
+    <div style="width:50px; height:40px;"></div>
+    <% } %>
+    <p><%= name %></p>
+</script>
+<!-- third parties -->
+<script src="{{ url_for('static', filename='libs/ejs.min.js') }}"></script>
+<script src="{{ url_for('static', filename='libs/qwest.min.js') }}"></script>
+<!-- scripts -->
+{% if admin %}
+<script src="{{ url_for('static', filename='js/admin.js') }}"></script>
+{% endif %}
+<script src="{{ url_for('static', filename='js/camera-grabber.js') }}"></script>
+<script src="{{ url_for('static', filename='js/student-finder.js') }}"></script>
+<script src="{{ url_for('static', filename='js/main.js') }}"></script>
+
+
+{% endblock %}

@@ -1,2 +1,5 @@
 data/*
 !data/parse.js
+lib
+.DS_Store
+*.pyc
