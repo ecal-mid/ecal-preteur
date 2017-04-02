@@ -8,6 +8,8 @@ handlers:
 # loans
 - url: /loans
   script: src.main.app
+- url: /loans/validate/.*
+  script: src.main.app
 # admin frontend
 - url: /admin
   script: src.main.app

@@ -16,6 +16,8 @@ function onSendClicked(evt) {
         showLive();
         resetFinder();
         main.classList.remove('deactivated');
+        let iframe = document.querySelector('iframe.loans');
+        iframe.src = iframe.src;
       })
       .catch(function(e) { console.error(e); });
 }

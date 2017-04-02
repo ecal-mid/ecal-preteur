@@ -3,8 +3,11 @@
 {% block main %}
 
 <ul class="loans-list">
-{% for f in files %}
-  <li><img src="https://storage.googleapis.com{{ f.filename }}"></li>
+{% for loan in loans %}
+  <li id="l{{ loan.key.id() }}" data-loaner="{{ loan.loaner }}" data-datein="{{ loan.date_in.strftime('%Y-%m-%d  %H:%M') }}">
+    <img class="loan-photo" src="{{ prefix + loan.photo }}">
+    <div class="meta"></div>
+  </li>
 {% endfor %}
 </ul>
 
@@ -13,6 +16,17 @@
 
 {% block scripts %}
 {{ super () }}
+<script type="text/template" id="loan-meta-tpl">
+  <% if (typeof(loaner.img) !== 'undefined') { %>
+  <img src="http://intranet.ecal.ch<%= loaner.img %>" height="46px"/>
+  <% } else { %>
+  <div style="width:50px; height:40px;"></div>
+  <% } %>
+  <p><%= loaner.name %><br><span><%= loan.dateIn %></span></p>
+  <svg data-id="<%= loan.id %>" class="validate" viewBox="0 0 24 24">
+    <path fill="#000000" d="M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2M11,16.5L18,9.5L16.59,8.09L11,13.67L7.91,10.59L6.5,12L11,16.5Z" />
+  </svg>
+</script>
 <!-- third parties -->
 <script src="{{ url_for('static', filename='libs/ejs.min.js') }}"></script>
 <script src="{{ url_for('static', filename='libs/qwest.min.js') }}"></script>
@@ -20,18 +34,6 @@
 {% if admin %}
 <script src="{{ url_for('static', filename='js/admin.js') }}"></script>
 {% endif %}
-
-{% if detail %}
-<script>
-  var detail = "{{ detail_json }}";
-  detail = detail.replace(/&#39;/g, '"');
-  detail = detail.replace(/None/g, 'null');
-  detail = detail.replace(/True/g, 'true');
-  detail = detail.replace(/False/g, 'false');
-  detail = detail.replace(/&amp;/g, '&');
-  detail = JSON.parse(detail);
-  updateStaffPanel(detail);
-</script>
-{% endif %}
+<script src="{{ url_for('static', filename='js/loans-list.js') }}"></script>
 
 {% endblock %}
