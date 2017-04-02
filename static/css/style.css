@@ -131,6 +131,10 @@ button.send {
   flex: 1;
 }
 
+iframe.loans {
+  width: 100%;
+}
+
 /* CAPTURE */
 
 .photo {

@@ -1,7 +1,13 @@
 'use strict';
 
 let sendBtn = document.querySelector('.send');
+let iframe = document.querySelector('iframe.loans');
 sendBtn.addEventListener('click', onSendClicked);
+
+function resizeIframe() {
+  iframe.style.height =
+      iframe.contentWindow.document.body.scrollHeight + 200 + 'px';
+}
 
 function onSendClicked(evt) {
   if (!currLoaner || !imageData) {
@@ -16,7 +22,6 @@ function onSendClicked(evt) {
         showLive();
         resetFinder();
         main.classList.remove('deactivated');
-        let iframe = document.querySelector('iframe.loans');
         iframe.src = iframe.src;
       })
       .catch(function(e) { console.error(e); });
@@ -29,5 +34,7 @@ function update() {
     sendBtn.classList.add('disable');
   }
 }
+
+document.addEventListener('resize', setTimeout(resizeIframe, 1000));
 
 setupCamera();
