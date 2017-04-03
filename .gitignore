@@ -3,3 +3,4 @@ data/*
 lib
 .DS_Store
 *.pyc
+*.psd
