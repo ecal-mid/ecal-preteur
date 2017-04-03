@@ -101,7 +101,7 @@ section.app {
 }
 
 main {
-  max-width: 720px;
+  max-width: 640px;
   flex: 1;
   padding-bottom: 0.5em;
   padding-right: 0.5em;
@@ -189,7 +189,7 @@ iframe.loans {
   font-size: 24px;
   width: 100%;
   padding: 12px;
-  padding-left: 45px;
+  padding-left: 55px;
 }
 
 ul.student-list {
@@ -199,14 +199,18 @@ ul.student-list {
   background-color: white;
   position: absolute;
   z-index: 999;
+  box-shadow: 2px 2px 3px 0px rgba(0, 0, 0, 0.19);
+
 }
 
 ul.student-list li {
   display: flex;
   padding: 5px;
-  border-bottom: 3px solid black;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   cursor: pointer;
   font-size: 1.5em;
+  font-weight: 100;
+  align-items: center;
 }
 
 ul.student-list li:hover {
@@ -224,6 +228,7 @@ ul.loans-list {
   overflow: scroll;
   height: 100%;
   margin: 5px;
+  text-align: center;
 }
 
 ul.loans-list li {
