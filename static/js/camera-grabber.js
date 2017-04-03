@@ -12,6 +12,9 @@ let canvas;
 
 let imageData = null;
 
+var getUserMedia = navigator.getUserMedia || navigator.webkitGetUserMedia ||
+                   navigator.mozGetUserMedia;
+
 /**
  *  show video
  */
@@ -62,18 +65,19 @@ function takeSnapshot() {
 */
 function startLive() {
   // access the web cam
-  navigator.mediaDevices
-      .getUserMedia({video : true})
-      // permission granted:
-      .then(function(stream) {
-        video.src = window.URL.createObjectURL(stream);
-        takePhotoBtn.style.display = 'block';
-      })
-      // permission denied:
-      .catch(function(error) {
-        document.body.textContent =
-            'Could not access the camera. Error: ' + error.name;
-      });
+  getUserMedia.call(navigator, {video : true},
+                    function(stream) {
+                      if (window.webkitURL) {
+                        video.src = window.webkitURL.createObjectURL(stream);
+                      } else {
+                        video.src = stream;
+                      }
+                      takePhotoBtn.style.display = 'block';
+                    },
+                    function(error) {
+                      document.body.textContent =
+                          'Could not access the camera. Error: ' + error.name;
+                    });
 }
 
 function setupCamera() {
