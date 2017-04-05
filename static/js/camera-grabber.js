@@ -65,7 +65,7 @@ function takeSnapshot() {
 */
 function startLive() {
   // access the web cam
-  getUserMedia.call(navigator, {video : true},
+  getUserMedia.call(navigator, {video : {facingMode : {exact : "environment"}}},
                     function(stream) {
                       if (window.webkitURL) {
                         video.src = window.webkitURL.createObjectURL(stream);
