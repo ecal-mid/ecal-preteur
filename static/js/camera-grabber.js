@@ -1,22 +1,23 @@
 'use strict';
 
-let takePhotoBtn = document.querySelector('.take-photo');
-takePhotoBtn.style.display = 'none';
-let liveViewBtn = document.querySelector('.live-view');
-liveViewBtn.style.display = 'none';
-
-let cameraEl = document.querySelector('.camera');
-let video = document.querySelector('video');
+let photoContainer;
+let stopCameraBtn;
+let startPhotoBtn;
+let takePhotoBtn;
+let liveViewBtn;
+let cameraEl;
+let currentStream;
+let video;
 let preview;
 let canvas;
+let imageData;
 
-let imageData = null;
-
-var getUserMedia = navigator.getUserMedia || navigator.webkitGetUserMedia ||
-                   navigator.mozGetUserMedia;
+navigator.getUserMedia = navigator.getUserMedia ||
+                         navigator.webkitGetUserMedia ||
+                         navigator.mozGetUserMedia;
 
 /**
- *  show video
+ *  show video feed
  */
 function showLive() {
   if (!preview.parentNode) {
@@ -64,24 +65,58 @@ function takeSnapshot() {
 * Start live view from device camera
 */
 function startLive() {
+  startPhotoBtn.style.display = 'none';
+  photoContainer.style.display = '';
   // access the web cam
-  getUserMedia.call(navigator, {video : {facingMode : {exact : "environment"}}},
-                    function(stream) {
-                      if (window.webkitURL) {
-                        video.src = window.webkitURL.createObjectURL(stream);
-                      } else {
-                        video.src = stream;
-                      }
-                      takePhotoBtn.style.display = 'block';
-                    },
-                    function(error) {
-                      document.body.textContent =
-                          'Could not access the camera. Error: ' + error.name;
-                    });
+  navigator.getUserMedia.call(
+      navigator, {video : {facingMode : {exact : "environment"}}},
+      function(stream) {
+        currentStream = stream;
+        if (window.URL) {
+          video.srcObject = stream;
+        } else {
+          video.src = stream;
+        }
+        takePhotoBtn.style.display = 'block';
+      },
+      function(error) {
+        document.body.textContent =
+            'Could not access the camera. Error: ' + error.name;
+      });
 }
 
+function closeLive() {
+  // get back to live mode if current snapshot
+  if (!video.parentNode) {
+    showLive();
+  }
+  // stop video stream
+  currentStream.getTracks()[0].stop();
+  // hide video container and show photo button
+  startPhotoBtn.style.display = '';
+  photoContainer.style.display = 'none';
+}
+
+/**
+* Setup camera module
+*/
 function setupCamera() {
-  startLive();
+  photoContainer = document.querySelector('.photo');
+
+  startPhotoBtn = document.querySelector('.start-photo');
+  startPhotoBtn.addEventListener('click', startLive);
+
+  stopCameraBtn = document.querySelector('.stop-camera');
+  stopCameraBtn.addEventListener('click', closeLive);
+
+  takePhotoBtn = document.querySelector('.take-photo');
   takePhotoBtn.addEventListener('click', takeSnapshot);
+  takePhotoBtn.style.display = 'none';
+
+  liveViewBtn = document.querySelector('.live-view');
   liveViewBtn.addEventListener('click', showLive);
+  liveViewBtn.style.display = 'none';
+
+  cameraEl = document.querySelector('.camera');
+  video = document.querySelector('video');
 }

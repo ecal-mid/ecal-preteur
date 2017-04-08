@@ -13,20 +13,23 @@
 
     <div class="student-finder">
       <img class="student-img" src="/static/res/user.svg" height="46px" />
-      <img class="clear-img" style="opacity:0" src="/static/res/close.svg" height="36px" />
+      <i class="md-icon clear-img" style="opacity:0">close</i>
       <div class="autocomplete-list">
         <input class="student-input" type="text"></input>
         <ul class="student-list" style="display:none;"></ul>
       </div>
     </div>
 
-    <div class="photo">
+    <button class="btn start-photo"><i class="md-icon">photo_camera</i> Photo</button>
+
+    <div class="photo" style="display:none;">
       <div class="camera">
+        <i class="md-icon stop-camera">close</i>
         <video autoplay></video>
       </div>
       <div class="camera-ui">
-        <svg class="photo-btn take-photo" viewBox="0 0 24 24"><path fill="white" d="M4,4H7L9,2H15L17,4H20A2,2 0 0,1 22,6V18A2,2 0 0,1 20,20H4A2,2 0 0,1 2,18V6A2,2 0 0,1 4,4M12,7A5,5 0 0,0 7,12A5,5 0 0,0 12,17A5,5 0 0,0 17,12A5,5 0 0,0 12,7M12,9A3,3 0 0,1 15,12A3,3 0 0,1 12,15A3,3 0 0,1 9,12A3,3 0 0,1 12,9Z" /></svg>
-        <svg class="photo-btn live-view" viewBox="0 0 24 24"><path fill="white" d="M12,6V9L16,5L12,1V4A8,8 0 0,0 4,12C4,13.57 4.46,15.03 5.24,16.26L6.7,14.8C6.25,13.97 6,13 6,12A6,6 0 0,1 12,6M18.76,7.74L17.3,9.2C17.74,10.04 18,11 18,12A6,6 0 0,1 12,18V15L8,19L12,23V20A8,8 0 0,0 20,12C20,10.43 19.54,8.97 18.76,7.74Z" /></svg>
+        <i class="md-icon photo-btn take-photo">photo_camera</i>
+        <i class="md-icon photo-btn live-view">autorenew</i>
       </div>
     </div>
 

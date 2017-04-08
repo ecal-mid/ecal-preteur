@@ -15,7 +15,7 @@ function validate(id, callback) {
 }
 
 function onValidateBtnClicked(evt) {
-  let id = evt.currentTarget.dataset['id'];
+  let id = evt.currentTarget.getAttribute('data-id');
   let el = document.getElementById('l' + id);
   validate(id, () => el.remove());
 }

@@ -12,6 +12,8 @@ proceed with caution
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  -webkit-touch-callout: none;
+  -webkit-tap-highlight-color: transparent;
 }
 html, body {
   /*margin: 0;*/
@@ -22,7 +24,7 @@ html, body {
 h1, h2 {
   font-weight: 100;
 }
-button {
+button, .btn {
   font-size: 1.5em;
   padding: 15px 50px;
   cursor: pointer;
@@ -40,11 +42,18 @@ button.disable {
 }
 
 button {
-  border: 4px solid black;
+  border: none;
+  box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.5);
   font-weight: bold;
   text-transform: uppercase;
   background: white;
   color: black;
+}
+button .md-icon {
+  text-transform: none;
+  font-size: 30px;
+  margin-right: 20px;
+  vertical-align: top;
 }
 
 input {
@@ -105,7 +114,6 @@ main {
   flex: 1;
   padding-bottom: 0.5em;
   padding-right: 0.5em;
-  overflow-y: auto;
   padding: 10px;
   box-sizing: border-box;
 }
@@ -149,7 +157,9 @@ iframe.loans {
   position: absolute;
   bottom: 10px;
   cursor: pointer;
-  height: 62px;
+  color: white;
+  font-size: 46px;
+  margin-bottom: 10px;
 }
 
 .camera-ui {
@@ -157,6 +167,20 @@ iframe.loans {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.start-photo {
+  width: 100%;
+}
+
+.stop-camera {
+  position: absolute;
+  font-size: 48px;
+  color: white;
+  right: 10px;
+  top: 10px;
+  cursor: pointer;
+  z-index: 999;
 }
 
 /* STUDENT LIST */
@@ -179,6 +203,7 @@ iframe.loans {
   top: 13px;
   z-index: 999;
   cursor: pointer;
+  font-size: 32px;
 }
 
 .autocomplete-list {
@@ -262,6 +287,7 @@ ul.loans-list .validate {
   width: 46px;
   padding-right: 10px;
   cursor: pointer;
+  touch-action: manipulation;
 }
 
 ul.loans-list .validate:hover path {
