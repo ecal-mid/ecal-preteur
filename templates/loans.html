@@ -5,7 +5,11 @@
 <ul class="loans-list">
 {% for loan in loans %}
   <li id="l{{ loan.key.id() }}" data-loaner="{{ loan.loaner }}" data-datein="{{ loan.date_in.strftime('%Y-%m-%d  %H:%M') }}">
+    {% if loan.photo[:2] == 'g-' %}
+    <div class="loan-generic"><i class="md-icon">vpn_key</i><p>{{ loan.photo[2:] }}</p></div>
+    {% else %}
     <img class="loan-photo" src="{{ prefix + loan.photo }}">
+    {% endif %}
     <div class="meta"></div>
   </li>
 {% endfor %}

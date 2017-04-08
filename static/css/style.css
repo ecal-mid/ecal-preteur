@@ -20,6 +20,7 @@ html, body {
   font-family: 'Roboto', 'Helvetica', sans-serif;
   font-size: 0.95em;
   width:100%;
+  background-color: #eaeaea;
 }
 h1, h2 {
   font-weight: 100;
@@ -29,11 +30,12 @@ button, .btn {
   padding: 15px 50px;
   cursor: pointer;
   transition: all 0.1s linear;
+  margin-top: 10px;
+  color: #6d6d6d;
 }
 
 button:hover {
-  background: black;
-  color: white;
+  color: black;
 }
 
 button.disable {
@@ -44,10 +46,7 @@ button.disable {
 button {
   border: none;
   box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.5);
-  font-weight: bold;
-  text-transform: uppercase;
   background: white;
-  color: black;
 }
 button .md-icon {
   text-transform: none;
@@ -57,8 +56,7 @@ button .md-icon {
 }
 
 input {
-  font-weight: bold;
-  text-transform: uppercase;
+  font-weight: 300;
   background: white;
   color: black;
   box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.19);
@@ -127,6 +125,10 @@ button.send {
   width: 100%;
   text-align: center;
 }
+button.send:hover {
+  background-color: black;
+  color:white;
+}
 
 .info {
   display: flex;
@@ -181,6 +183,31 @@ iframe.loans {
   top: 10px;
   cursor: pointer;
   z-index: 999;
+}
+
+/* GENERIC */
+
+.generic {
+  display: flex;
+}
+
+.generic .btn {
+  font-size: 11px;
+  padding: 15px 5px;
+  flex: 1;
+  margin-top: 0;
+}
+
+.generic .btn.selected {
+  background-color: black;
+  color: white;
+  pointer-events: none;
+}
+
+.generic .btn .md-icon {
+  font-size: 20px;
+  margin-right: 8px;
+  vertical-align: middle;
 }
 
 /* STUDENT LIST */
@@ -263,12 +290,31 @@ ul.loans-list li {
 
 ul.loans-list .loan-photo {
   width: 250px;
+  vertical-align: middle;
+}
+
+ul.loans-list .loan-generic {
+  width: 250px;
+  height: 190px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #989898;
+  color: white;
+  font-size: 30px;
+  font-weight: 100;
+}
+
+ul.loans-list .loan-generic i {
+  font-size: 50px;
 }
 
 ul.loans-list .meta {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: white;
 }
 
 ul.loans-list .meta > p{

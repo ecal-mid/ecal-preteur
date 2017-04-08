@@ -59,14 +59,21 @@ def list_loans():
 def create_loan():
     """Records a new loan."""
     loaner = request.form['loaner']
-    image_b64 = request.form['image']
-    img_data = re.sub('^data:image/.+;base64,', '', image_b64).decode('base64')
-    filename = time.strftime("%Y%m%d-%H%M%S") + '-' + loaner
-    file_id = upload_file(filename, img_data, filename)
+    item = request.form['item']
+    item_id = None
+    if item[:2] == 'g-':
+        print('saving generic item: ' + item)
+        item_id = item
+    else:
+        image_b64 = item
+        img_data = re.sub('^data:image/.+;base64,', '', image_b64).decode('base64')
+        filename = time.strftime("%Y%m%d-%H%M%S") + '-' + loaner
+        file_id = upload_file(filename, img_data, filename)
+        item_id = file_id
     # save entry to datastore
     loan = Loan(parent=ancestor_key)
     loan.loaner = loaner
-    loan.photo = file_id
+    loan.photo = item_id
     loan.date_out = None
     loan.put()
     return 'Success'

@@ -6,7 +6,7 @@ let inputEl = document.querySelector('input.student-input');
 let studentImg = document.querySelector('.student-finder img');
 let clearBtn = document.querySelector('.clear-img');
 let listEl;
-let currLoaner;
+let loaner;
 
 qwest.get('/static/data/students.json')
     .then(function(xhr, data) {
@@ -22,12 +22,12 @@ function onLiClicked(evt) {
   inputEl.value = name;
   clearBtn.style.opacity = 1;
   hideList();
-  currLoaner = email;
+  loaner = email;
   update();
 }
 
 function resetFinder() {
-  currLoaner = null;
+  loaner = null;
   studentImg.src = '/static/res/user.svg';
   inputEl.value = '';
   clearBtn.style.opacity = 0;

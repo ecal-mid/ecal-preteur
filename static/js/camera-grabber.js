@@ -10,7 +10,6 @@ let currentStream;
 let video;
 let preview;
 let canvas;
-let imageData;
 
 navigator.getUserMedia = navigator.getUserMedia ||
                          navigator.webkitGetUserMedia ||
@@ -20,15 +19,16 @@ navigator.getUserMedia = navigator.getUserMedia ||
  *  show video feed
  */
 function showLive() {
-  if (!preview.parentNode) {
+  if (video.parentNode) {
     return;
   }
   video.play();
   cameraEl.appendChild(video);
-  cameraEl.removeChild(preview);
+  if (preview.parentNode) {
+    cameraEl.removeChild(preview);
+  }
   liveViewBtn.style.display = 'none';
   takePhotoBtn.style.display = 'block';
-  imageData = null;
   update();
 }
 
@@ -36,7 +36,7 @@ function showLive() {
  *  generates a still frame image from the stream in the <video>
  */
 function takeSnapshot() {
-  if (!video.parentNode) {
+  if (preview.parentNode) {
     return;
   }
   const width = video.offsetWidth;
@@ -48,7 +48,6 @@ function takeSnapshot() {
   const context = canvas.getContext('2d');
   context.drawImage(video, 0, 0, width, height);
 
-  preview = preview || document.createElement('img');
   preview.src = canvas.toDataURL('image/png');
 
   cameraEl.appendChild(preview);
@@ -57,8 +56,7 @@ function takeSnapshot() {
   liveViewBtn.style.display = 'block';
   takePhotoBtn.style.display = 'none';
 
-  imageData = preview.src;
-  update();
+  setItem(preview.src);
 }
 
 /**
@@ -77,15 +75,17 @@ function startLive() {
         } else {
           video.src = stream;
         }
-        takePhotoBtn.style.display = 'block';
+        showLive();
       },
       function(error) {
         document.body.textContent =
             'Could not access the camera. Error: ' + error.name;
       });
+  // hide generic buttons
+  hideGeneric();
 }
 
-function closeLive() {
+function closeCamera() {
   // get back to live mode if current snapshot
   if (!video.parentNode) {
     showLive();
@@ -95,7 +95,16 @@ function closeLive() {
   // hide video container and show photo button
   startPhotoBtn.style.display = '';
   photoContainer.style.display = 'none';
+  // clear current item
+  setItem(null);
+  // show generic buttons
+  showGeneric();
 }
+
+/**
+* Setup camera module
+*/
+function isCameraShowing() { return photoContainer.style.display != 'none'; }
 
 /**
 * Setup camera module
@@ -107,7 +116,7 @@ function setupCamera() {
   startPhotoBtn.addEventListener('click', startLive);
 
   stopCameraBtn = document.querySelector('.stop-camera');
-  stopCameraBtn.addEventListener('click', closeLive);
+  stopCameraBtn.addEventListener('click', closeCamera);
 
   takePhotoBtn = document.querySelector('.take-photo');
   takePhotoBtn.addEventListener('click', takeSnapshot);
@@ -119,4 +128,7 @@ function setupCamera() {
 
   cameraEl = document.querySelector('.camera');
   video = document.querySelector('video');
+  preview = document.createElement('img');
+
+  cameraEl.removeChild(video);
 }

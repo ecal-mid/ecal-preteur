@@ -7,10 +7,17 @@ if (window.location.href.indexOf('localhost') == 1 &&
       window.location.href.substring(window.location.protocol.length);
 }
 
-let mainContainer = document.querySelector('main');
-let sendBtn = document.querySelector('.send');
-let iframe = document.querySelector('iframe.loans');
-sendBtn.addEventListener('click', onSendClicked);
+let mainContainer;
+let sendBtn;
+let currentGeneric;
+let genericContainer;
+let iframe;
+let item;
+
+function setItem(itemData) {
+  item = itemData;
+  update();
+}
 
 function resizeIframe() {
   if (!iframe.contentWindow) {
@@ -21,32 +28,72 @@ function resizeIframe() {
 }
 
 function onEntrySaved(xhr, data) {
-  closeLive();
+  if (isCameraShowing()) {
+    closeCamera();
+  }
+  clearGeneric();
   resetFinder();
   mainContainer.classList.remove('deactivated');
   iframe.src = iframe.src;
 }
 
 function onSendClicked(evt) {
-  if (!currLoaner || !imageData) {
-    return;
+  if (!loaner || !item) {
+    throw 'loaner or item has not been set';
   }
 
   mainContainer.classList.add('deactivated');
 
-  qwest.post('/loans', {loaner : currLoaner, image : imageData})
+  qwest.post('/loans', {loaner : loaner, item : item})
       .then(onEntrySaved)
       .catch(function(e) { console.error(e); });
 }
 
-function update() {
-  if (currLoaner && imageData) {
-    sendBtn.classList.remove('disable');
-  } else {
-    sendBtn.classList.add('disable');
+function hideGeneric() {
+  clearGeneric();
+  genericContainer.style.display = 'none';
+  setItem(null);
+}
+
+function showGeneric() { genericContainer.style.display = ''; }
+
+function clearGeneric() {
+  if (currentGeneric) {
+    currentGeneric.classList.remove('selected');
   }
 }
 
-document.addEventListener('resize', setTimeout(resizeIframe, 1000));
+function onGenericBtnClicked(ev) {
+  clearGeneric();
+  currentGeneric = ev.currentTarget;
+  currentGeneric.classList.add('selected');
+  setItem(currentGeneric.dataset['id']);
+}
 
-setupCamera();
+function setupGeneric() {
+  let btns = genericContainer.querySelectorAll('.btn');
+  for (let btn of btns) {
+    btn.addEventListener('click', onGenericBtnClicked);
+  }
+}
+
+function update() {
+  if (loaner && item) {
+    sendBtn.style.display = '';
+  } else {
+    sendBtn.style.display = 'none';
+  }
+}
+
+function setup() {
+  mainContainer = document.querySelector('main');
+  sendBtn = document.querySelector('.send');
+  iframe = document.querySelector('iframe.loans');
+  genericContainer = document.querySelector('.generic');
+  sendBtn.addEventListener('click', onSendClicked);
+  document.addEventListener('resize', setTimeout(resizeIframe, 1000));
+  setupCamera();
+  setupGeneric();
+}
+
+setup();
