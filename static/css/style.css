@@ -36,6 +36,7 @@ button, .btn {
 
 button:hover {
   color: black;
+  background-color: #f3f3f3;
 }
 
 button.disable {
@@ -59,9 +60,8 @@ input {
   font-weight: 300;
   background: white;
   color: black;
-  box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.19);
+  box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.5);
   border: none;
-  border-bottom: 3px solid black;
 }
 
 .md-icon {
@@ -221,7 +221,7 @@ iframe.loans {
 .student-img {
   position: absolute;
   left: 6px;
-  top: 7px;
+  top: 4px;
   z-index: 999;
 }
 
@@ -333,11 +333,18 @@ ul.loans-list .validate {
   padding-right: 10px;
   cursor: pointer;
   touch-action: manipulation;
-  font-size: 32px;
+  font-size: 25px;
   display: flex;
   color: #6d6d6d;
 }
 
+ul.loans-list .validate .md-icon {
+  border-radius: 26px;
+  padding: 5px;
+  transition: all 0.1s linear;
+}
+
 ul.loans-list .validate:hover .md-icon {
   color: black;
+  background: #e2e2e2;
 }
