@@ -1,6 +1,6 @@
 'use strict';
 
-if (window.location.href.indexOf('localhost') == 1 &&
+if (window.location.href.indexOf('localhost') == -1 &&
     window.location.protocol != 'https:') {
   window.location.href =
       'https:' +
