@@ -330,13 +330,14 @@ ul.loans-list .meta > p span{
 }
 
 ul.loans-list .validate {
-  height: 46px;
-  width: 46px;
   padding-right: 10px;
   cursor: pointer;
   touch-action: manipulation;
+  font-size: 32px;
+  display: flex;
+  color: #6d6d6d;
 }
 
-ul.loans-list .validate:hover path {
-  opacity: 0.5;
+ul.loans-list .validate:hover .md-icon {
+  color: black;
 }
