@@ -50,9 +50,9 @@ button {
 }
 button .md-icon {
   text-transform: none;
-  font-size: 30px;
-  margin-right: 20px;
-  vertical-align: top;
+  font-size: 22px;
+  margin-right: 10px;
+  vertical-align: middle;
 }
 
 input {
@@ -173,6 +173,7 @@ iframe.loans {
 
 .start-photo {
   width: 100%;
+  font-size: 13px;
 }
 
 .stop-camera {
