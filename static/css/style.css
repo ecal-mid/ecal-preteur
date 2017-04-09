@@ -20,13 +20,13 @@ html, body {
   font-family: 'Roboto', 'Helvetica', sans-serif;
   font-size: 0.95em;
   width:100%;
-  background-color: #eaeaea;
+  background-color: #f1f1f1;
 }
 h1, h2 {
   font-weight: 100;
 }
 button, .btn {
-  padding: 15px 50px;
+  padding: 12px 50px;
   cursor: pointer;
   transition: all 0.1s linear;
   margin-top: 10px;
@@ -125,6 +125,7 @@ button.send {
   width: 100%;
   text-align: center;
   text-transform: uppercase;
+  padding: 15px 50px;
 }
 
 .info {
@@ -154,6 +155,10 @@ iframe.loans {
   border-right: 0 !important;
 }
 
+i.md-icon {
+  color: #6d6d6d;
+}
+
 /* CAPTURE */
 
 .photo {
@@ -168,7 +173,7 @@ iframe.loans {
   position: absolute;
   bottom: 10px;
   cursor: pointer;
-  color: white;
+  color: white !important;
   font-size: 46px;
   margin-bottom: 10px;
 }
@@ -187,7 +192,7 @@ iframe.loans {
 .stop-camera {
   position: absolute;
   font-size: 48px;
-  color: white;
+  color: white !important;
   right: 10px;
   top: 10px;
   cursor: pointer;
@@ -201,7 +206,7 @@ iframe.loans {
 }
 
 .generic .btn {
-  padding: 15px 5px;
+  padding: 13px 5px;
   flex: 1;
   margin-top: 0;
 }
@@ -232,11 +237,11 @@ iframe.loans {
 
 .clear-img {
   position: absolute;
-  right: 13px;
-  top: 8px;
+  right: 7px;
+  top: 5px;
   z-index: 999;
   cursor: pointer;
-  font-size: 32px;
+  font-size: 25px;
 }
 
 .autocomplete-list {
@@ -341,16 +346,15 @@ ul.loans-list .validate {
   touch-action: manipulation;
   font-size: 25px;
   display: flex;
-  color: #6d6d6d;
 }
 
-ul.loans-list .validate .md-icon {
+ul.loans-list .validate .md-icon, .clear-img {
   border-radius: 26px;
   padding: 5px;
   transition: all 0.1s linear;
 }
 
-ul.loans-list .validate:hover .md-icon {
+ul.loans-list .validate:hover .md-icon, .clear-img:hover {
   color: black;
   background: #f3f3f3;
 }
