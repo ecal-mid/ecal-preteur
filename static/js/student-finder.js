@@ -6,15 +6,11 @@ let inputEl = document.querySelector('input.student-input');
 let studentImg = document.querySelector('.student-finder img');
 let clearBtn = document.querySelector('.clear-img');
 let listEl;
-let loaner;
 
-qwest.get('/static/data/students.json')
-    .then(function(xhr, data) {
-      students = data;
-      setupFinder();
-    })
-    .catch(function(e) { console.error(e); });
-
+/**
+ * Event handler for click on list item
+ * @param  {MouseEvent} evt The MouseEvent object.
+ */
 function onLiClicked(evt) {
   const name = evt.currentTarget.dataset['name'];
   const email = evt.currentTarget.dataset['email'];
@@ -26,6 +22,9 @@ function onLiClicked(evt) {
   update();
 }
 
+/**
+ * Resets the the current selected user.
+ */
 function resetFinder() {
   loaner = null;
   studentImg.src = '/static/res/user.svg';
@@ -34,25 +33,51 @@ function resetFinder() {
   update();
 }
 
-function onInputFocus() {
+/**
+ * Event Handler for focus on input item.
+ * @param  {Event} evt The Event object.
+ */
+function onInputFocus(evt) {
   resetFinder();
   showList();
 }
 
-function onInputBlur() { hideList(); }
+/**
+ * Event Handler for blur of input item.
+ * @param  {Event} evt The Event object.
+ */
+function onInputBlur(evt) {
+  hideList();
+}
 
-function onInputChange() {
+/**
+ * Event Handler for change of input value.
+ * @param  {Event} evt The Event object.
+ */
+function onInputChange(evt) {
   const val = inputEl.value;
   filterList(val);
 }
 
+/**
+ * Shows the list of filtered users according to current input.
+ */
 function showList() {
-  listEl.style.display = "block";
+  listEl.style.display = 'block';
   filterList(inputEl.value);
 }
 
-function hideList() { listEl.style.display = "none"; }
+/**
+ * Shows the list of filtered users.
+ */
+function hideList() {
+  listEl.style.display = 'none';
+}
 
+/**
+ * Performs filtering of the list according to current input.
+ * @param {String} text Part of the name text to filter users with.
+ */
 function filterList(text) {
   text = text.toLowerCase();
   let i = 0;
@@ -76,6 +101,9 @@ function filterList(text) {
   }
 }
 
+/**
+ * Setup the user finder input item.
+ */
 function setupFinder() {
   // setup autocomplete list
   listEl = document.querySelector('ul.student-list');
@@ -86,3 +114,13 @@ function setupFinder() {
   inputEl.addEventListener('blur', onInputBlur);
   inputEl.addEventListener('input', onInputChange);
 }
+
+// request the users list then setup the finder.
+qwest.get('/static/data/students.json')
+    .then(function(xhr, data) {
+      students = data;
+      setupFinder();
+    })
+    .catch(function(e) {
+      console.error(e);
+    });

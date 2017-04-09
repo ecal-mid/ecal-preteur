@@ -12,11 +12,10 @@ let preview;
 let canvas;
 
 navigator.getUserMedia = navigator.getUserMedia ||
-                         navigator.webkitGetUserMedia ||
-                         navigator.mozGetUserMedia;
+    navigator.webkitGetUserMedia || navigator.mozGetUserMedia;
 
 /**
- *  show video feed
+ *  Shows the video feed.
  */
 function showLive() {
   if (video.parentNode) {
@@ -33,7 +32,7 @@ function showLive() {
 }
 
 /**
- *  generates a still frame image from the stream in the <video>
+ *  Generates a still frame image from the stream in the <video>.
  */
 function takeSnapshot() {
   if (preview.parentNode) {
@@ -61,14 +60,14 @@ function takeSnapshot() {
 }
 
 /**
-* Start live view from device camera
-*/
+ * Start live view from device camera.
+ */
 function startLive() {
   startPhotoBtn.style.display = 'none';
   photoContainer.style.display = '';
   // access the web cam
   navigator.getUserMedia.call(
-      navigator, {video : {facingMode : {exact : "environment"}}},
+      navigator, {video: {facingMode: {exact: 'environment'}}},
       function(stream) {
         currentStream = stream;
         if (window.URL) {
@@ -86,6 +85,9 @@ function startLive() {
   hideGeneric();
 }
 
+/**
+ * Closes the camera feed.
+ */
 function closeCamera() {
   // get back to live mode if current snapshot
   if (!video.parentNode) {
@@ -103,13 +105,16 @@ function closeCamera() {
 }
 
 /**
-* Setup camera module
-*/
-function isCameraShowing() { return photoContainer.style.display != 'none'; }
+ * Setup camera module
+ * @return {Boolean} Wether the camera module is being shown or not.
+ */
+function isCameraShowing() {
+  return photoContainer.style.display != 'none';
+}
 
 /**
-* Setup camera module
-*/
+ * Setup camera module
+ */
 function setupCamera() {
   photoContainer = document.querySelector('.photo');
 
