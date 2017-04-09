@@ -11,9 +11,6 @@ let video;
 let preview;
 let canvas;
 
-navigator.getUserMedia = navigator.getUserMedia ||
-    navigator.webkitGetUserMedia || navigator.mozGetUserMedia;
-
 /**
  *  Shows the video feed.
  */
@@ -66,9 +63,9 @@ function startLive() {
   startPhotoBtn.style.display = 'none';
   photoContainer.style.display = '';
   // access the web cam
-  navigator.getUserMedia.call(
-      navigator, {video: {facingMode: {exact: 'environment'}}},
-      function(stream) {
+  const constraints = {video: {facingMode: {exact: 'environment'}}};
+  navigator.mediaDevices.getUserMedia(constraints)
+      .then(function(stream) {
         currentStream = stream;
         if (window.URL) {
           video.srcObject = stream;
@@ -76,8 +73,8 @@ function startLive() {
           video.src = stream;
         }
         showLive();
-      },
-      function(error) {
+      })
+      .catch(function(error) {
         document.body.textContent =
             'Could not access the camera. Error: ' + error.name;
       });
