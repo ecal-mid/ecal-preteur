@@ -26,12 +26,12 @@ h1, h2 {
   font-weight: 100;
 }
 button, .btn {
-  font-size: 1.5em;
   padding: 15px 50px;
   cursor: pointer;
   transition: all 0.1s linear;
   margin-top: 10px;
   color: #6d6d6d;
+  font-size: 13px;
 }
 
 button:hover {
@@ -46,7 +46,7 @@ button.disable {
 
 button {
   border: none;
-  box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.5);
+  box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.1);
   background: white;
 }
 button .md-icon {
@@ -60,7 +60,7 @@ input {
   font-weight: 300;
   background: white;
   color: black;
-  box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.5);
+  box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.1);
   border: none;
 }
 
@@ -124,10 +124,7 @@ main.deactivated {
 button.send {
   width: 100%;
   text-align: center;
-}
-button.send:hover {
-  background-color: black;
-  color:white;
+  text-transform: uppercase;
 }
 
 .info {
@@ -143,6 +140,18 @@ button.send:hover {
 
 iframe.loans {
   width: 100%;
+}
+
+.controls button {
+  box-shadow: none;
+  box-shadow: 2px 2px 3px 0px rgba(0, 0, 0, 0.1);
+}
+.controls button:not(:last-child) {
+  border-right: 1px solid #efefef;
+}
+.controls .start-photo {
+  border-bottom: 1px solid #efefef;
+  border-right: 0 !important;
 }
 
 /* CAPTURE */
@@ -173,7 +182,6 @@ iframe.loans {
 
 .start-photo {
   width: 100%;
-  font-size: 13px;
 }
 
 .stop-camera {
@@ -193,7 +201,6 @@ iframe.loans {
 }
 
 .generic .btn {
-  font-size: 11px;
   padding: 15px 5px;
   flex: 1;
   margin-top: 0;
@@ -220,15 +227,13 @@ iframe.loans {
 
 .student-img {
   position: absolute;
-  left: 6px;
-  top: 4px;
   z-index: 999;
 }
 
 .clear-img {
   position: absolute;
   right: 13px;
-  top: 13px;
+  top: 8px;
   z-index: 999;
   cursor: pointer;
   font-size: 32px;
@@ -241,7 +246,7 @@ iframe.loans {
 .student-input {
   font-size: 1.2em;
   width: 100%;
-  padding: 16px;
+  padding: 13px;
   padding-left: 55px;
 }
 
@@ -252,7 +257,7 @@ ul.student-list {
   background-color: white;
   position: absolute;
   z-index: 999;
-  box-shadow: 2px 2px 3px 0px rgba(0, 0, 0, 0.19);
+  box-shadow: 2px 2px 3px 0px rgba(0, 0, 0, 0.1);
 
 }
 
@@ -286,7 +291,8 @@ ul.loans-list {
 
 ul.loans-list li {
   display: inline-block;
-  box-shadow: 2px 2px 3px 0px rgba(0, 0, 0, 0.19);
+  box-shadow: 2px 2px 3px 0px rgba(0, 0, 0, 0.1);
+  margin: 3px;
 }
 
 ul.loans-list .loan-photo {
@@ -346,5 +352,5 @@ ul.loans-list .validate .md-icon {
 
 ul.loans-list .validate:hover .md-icon {
   color: black;
-  background: #e2e2e2;
+  background: #f3f3f3;
 }
