@@ -42,10 +42,11 @@ function takeSnapshot() {
   const width = video.offsetWidth;
   const height = video.offsetHeight;
   canvas = canvas || document.createElement('canvas');
-  canvas.width = width;
-  canvas.height = height;
+  canvas.width = width * 2;
+  canvas.height = height * 2;
 
   const context = canvas.getContext('2d');
+  context.scale(2, 2);
   context.drawImage(video, 0, 0, width, height);
 
   preview.src = canvas.toDataURL('image/png');
