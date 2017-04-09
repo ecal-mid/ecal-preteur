@@ -22,7 +22,7 @@
 {{ super () }}
 <script type="text/template" id="loan-meta-tpl">
   <% if (typeof(loaner.img) !== 'undefined') { %>
-  <img src="http://intranet.ecal.ch<%= loaner.img %>" height="46px"/>
+  <img src="/img/<%= loaner.img %>" height="46px"/>
   <% } else { %>
   <div style="width:50px; height:40px;"></div>
   <% } %>

@@ -5,6 +5,8 @@ threadsafe: yes
 handlers:
 - url: /
   script: src.main.app
+- url: /img/.*
+  script: src.main.app
 # loans
 - url: /loans
   script: src.main.app
