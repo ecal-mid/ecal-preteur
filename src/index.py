@@ -74,6 +74,7 @@ def create_loan():
     loan = Loan(parent=ancestor_key)
     loan.loaner = loaner
     loan.photo = item_id
+    loan.date_in = datetime.datetime.now()
     loan.date_out = None
     loan.put()
     return 'Success'
