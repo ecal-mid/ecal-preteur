@@ -206,7 +206,7 @@ i.md-icon {
 }
 
 .generic .btn {
-  padding: 13px 5px;
+  padding: 13px 11px;
   flex: 1;
   margin-top: 0;
 }
@@ -219,7 +219,7 @@ i.md-icon {
 
 .generic .btn .md-icon {
   font-size: 20px;
-  margin-right: 8px;
+  margin-right: 6px;
   vertical-align: middle;
 }
 
