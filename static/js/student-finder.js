@@ -14,7 +14,10 @@ let listEl;
 function onLiClicked(evt) {
   const name = evt.currentTarget.dataset['name'];
   const email = evt.currentTarget.dataset['email'];
-  studentImg.src = evt.currentTarget.querySelector('img').src;
+  const img = evt.currentTarget.querySelector('img');
+  if (studentImg && img) {
+    studentImg.src = img.src;
+  }
   inputEl.value = name;
   clearBtn.style.opacity = 1;
   hideList();
