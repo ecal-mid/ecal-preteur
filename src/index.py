@@ -10,6 +10,7 @@ import re
 import time
 import datetime
 from google.appengine.api import app_identity
+from google.appengine.api import mail
 from google.appengine.api import users
 from google.appengine.ext import ndb
 
@@ -105,6 +106,8 @@ def create_loan():
     loan.date_out = None
     loan.reporter = users.get_current_user().email()
     loan.put()
+    # send confirmation email
+    send_email(loan.key.id(), 'confirm_email', 'Confirmation d\'emprunt')
     return 'Success'
 
 
@@ -115,8 +118,21 @@ def validate_loan(id):
     loan = Loan.get_by_id(id, parent=ancestor_key)
     loan.date_out = datetime.datetime.now()
     loan.put()
+    send_email(loan.key.id(), 'return_email', 'Confirmation de retour')
     return 'Success'
 
+def send_email(id, template, subject):
+    """Sends an email related to a loan."""
+    loan = Loan.get_by_id(id, parent=ancestor_key)
+    # render email's template
+    body = render_template(template + '.html', loan=loan, prefix=get_photo_prefix())
+    # send email
+    mail.send_mail(sender="ECAL - Bureau CV <do-not-reply@ecal-preteur.appspotmail.com>",
+                   to=loan.loaner,
+                   subject="Bureau CV - " + subject,
+                   body=body,
+                   html=body)
+    return 'Sent'
 
 @bp.errorhandler(404)
 def page_not_found(e):
