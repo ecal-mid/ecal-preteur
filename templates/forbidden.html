@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block main %}
+
+<section class="app">
+  <main class="error">
+    <p>User account <b>{{user}}</b> has not been authorized yet.</p>
+    <p>
+      <a class="btn" href="{{logout_url}}">Try with a different account</a>
+      or
+      <a class="btn" href="mailto:cyril.diagne@ecal.ch">make a request</a>
+    </p>
+  <main>
+</section>
+
+{% endblock %}
