@@ -358,3 +358,16 @@ ul.loans-list .validate:hover .md-icon, .clear-img:hover {
   color: black;
   background: #f3f3f3;
 }
+
+main.error {
+  font-size: 120%;
+}
+
+main.error p:first-child {
+  padding: 20px;
+  color: white;
+  background-color: #ea3a0d;
+  border-radius: 5px;
+  text-align: center;
+  margin-bottom: 50px;
+}

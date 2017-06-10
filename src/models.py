@@ -8,3 +8,4 @@ class Loan(ndb.Model):
     photo = ndb.StringProperty(required=True)
     date_in = ndb.DateTimeProperty(indexed=True)
     date_out = ndb.DateTimeProperty(indexed=True)
+    reporter = ndb.StringProperty()

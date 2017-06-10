@@ -1,8 +1,8 @@
 """ Index """
 
 from flask import Blueprint, render_template, jsonify, request
+from functools import wraps
 from itsdangerous import URLSafeSerializer
-
 import os
 import cloudstorage as gcs
 import base64
@@ -10,6 +10,7 @@ import re
 import time
 import datetime
 from google.appengine.api import app_identity
+from google.appengine.api import users
 from google.appengine.ext import ndb
 
 from .models import Loan
@@ -20,6 +21,33 @@ bp = Blueprint(
     template_folder='../templates')
 
 ancestor_key = ndb.Key('Loan', '2016-2017')
+
+# Setup list of authorized users.
+authorized_users = open('config/authorized.txt').read().splitlines()
+authorized_users = '(' + ')|(^'.join(authorized_users) + '$)'
+
+def get_photo_prefix():
+    prefix = 'https://storage.googleapis.com'
+    is_prod = os.getenv('SERVER_SOFTWARE', '').startswith('Google App Engine/')
+    if not is_prod:
+        prefix = 'http://localhost:8080/_ah/gcs'
+    return prefix
+
+
+def login_required(f):
+  """Provides decorator for login."""
+
+  @wraps(f)
+  def decorated_function(*args, **kwargs):
+    user = users.get_current_user().email()
+    if re.match(authorized_users, user):
+      return f(*args, **kwargs)
+    else:
+      logout_url = users.create_logout_url('/')
+      return render_template('forbidden.html', user=user, logout_url=logout_url), 403
+
+  return decorated_function
+
 
 
 def upload_file(file_name, file_data, loaner):
@@ -39,23 +67,22 @@ def upload_file(file_name, file_data, loaner):
 
 
 @bp.route('/')
+@login_required
 def index():
     """Return the homepage."""
     return render_template('index.html')
 
 
 @bp.route('/loans')
+@login_required
 def list_loans():
     """Return the list of loans."""
     loans = Loan.query(Loan.date_out == None, ancestor=ancestor_key).order(-Loan.date_in).fetch()
-    prefix = 'https://storage.googleapis.com'
-    is_prod = os.getenv('SERVER_SOFTWARE', '').startswith('Google App Engine/')
-    if not is_prod:
-        prefix = 'http://localhost:8080/_ah/gcs'
-    return render_template('loans.html', loans=loans, prefix=prefix)
+    return render_template('loans.html', loans=loans, prefix=get_photo_prefix())
 
 
 @bp.route('/loans', methods=['POST'])
+@login_required
 def create_loan():
     """Records a new loan."""
     loaner = request.form['loaner']
@@ -68,7 +95,7 @@ def create_loan():
         image_b64 = item
         img_data = re.sub('^data:image/.+;base64,', '', image_b64).decode('base64')
         filename = time.strftime("%Y%m%d-%H%M%S") + '-' + loaner
-        file_id = upload_file(filename, img_data, filename)
+        file_id = upload_file(filename, img_data, loaner)
         item_id = file_id
     # save entry to datastore
     loan = Loan(parent=ancestor_key)
@@ -76,11 +103,13 @@ def create_loan():
     loan.photo = item_id
     loan.date_in = datetime.datetime.now()
     loan.date_out = None
+    loan.reporter = users.get_current_user().email()
     loan.put()
     return 'Success'
 
 
 @bp.route('/loans/validate/<int:id>', methods=['POST'])
+@login_required
 def validate_loan(id):
     """Validate a loan."""
     loan = Loan.get_by_id(id, parent=ancestor_key)

@@ -4,18 +4,17 @@ threadsafe: yes
 
 handlers:
 - url: /
+  login: required
   script: src.main.app
 - url: /img/.*
   script: src.main.app
 # loans
 - url: /loans
+  login: required
   script: src.main.app
 - url: /loans/validate/.*
+  login: required
   script: src.main.app
-# admin frontend
-- url: /admin
-  script: src.main.app
-  login: admin
 # static files
 - url: /static
   static_dir: static
@@ -31,3 +30,4 @@ skip_files:
 - ^(.*/)?\..*$
 - ^\.idea$
 - ^data$
+- data
