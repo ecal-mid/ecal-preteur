@@ -12,6 +12,9 @@ handlers:
 - url: /loans
   login: required
   script: src.main.app
+- url: /loans/send_reminder
+  login: admin
+  script: src.main.app
 - url: /loans/validate/.*
   login: required
   script: src.main.app

@@ -121,6 +121,14 @@ def validate_loan(id):
     send_email(loan.key.id(), 'return_email', 'Confirmation de retour')
     return 'Success'
 
+@bp.route('/loans/send_reminder', methods=['GET'])
+def send_reminder():
+    """Sends reminder to all the current loans."""
+    loans = Loan.query(Loan.date_out == None, ancestor=ancestor_key).fetch()
+    for loan in loans:
+        send_email(loan.key.id(), 'remind_email', 'rappel hebdomadaire')
+    return 'Success'
+
 def send_email(id, template, subject):
     """Sends an email related to a loan."""
     loan = Loan.get_by_id(id, parent=ancestor_key)

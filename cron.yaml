@@ -1,0 +1,4 @@
+cron:
+- description: Sends a weekly reminder
+  url: /loans/send_reminder
+  schedule: every thursday at 07:00
