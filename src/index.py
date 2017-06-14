@@ -107,7 +107,7 @@ def create_loan():
     loan.reporter = users.get_current_user().email()
     loan.put()
     # send confirmation email
-    send_email(loan.key.id(), 'confirm_email', 'Confirmation d\'emprunt')
+    send_email(loan.key.id(), 'confirm_email', 'Confirmation d\'enregistrement')
     return 'Success'
 
 
@@ -126,7 +126,7 @@ def send_reminder():
     """Sends reminder to all the current loans."""
     loans = Loan.query(Loan.date_out == None, ancestor=ancestor_key).fetch()
     for loan in loans:
-        send_email(loan.key.id(), 'remind_email', 'rappel hebdomadaire')
+        send_email(loan.key.id(), 'remind_email', 'Rappel hebdomadaire')
     return 'Success'
 
 def send_email(id, template, subject):
@@ -137,7 +137,7 @@ def send_email(id, template, subject):
     # send email
     mail.send_mail(sender="ECAL - Bureau CV <do-not-reply@ecal-preteur.appspotmail.com>",
                    to=loan.loaner,
-                   subject="Bureau CV - " + subject,
+                   subject="Emprunt CV - " + subject,
                    body=body,
                    html=body)
     return 'Sent'
