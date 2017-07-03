@@ -21,13 +21,13 @@ function setItem(itemData) {
 /**
  * Helper to resize the loans list iframe.
  */
-function resizeIframe() {
-  if (!iframe.contentWindow) {
-    return;
-  }
-  iframe.style.height =
-      iframe.contentWindow.document.body.scrollHeight + 200 + 'px';
-}
+// function resizeIframe() {
+//   if (!iframe.contentWindow) {
+//     return;
+//   }
+//   iframe.style.height =
+//       iframe.contentWindow.document.body.scrollHeight + 200 + 'px';
+// }
 
 /**
  * Callback for success of new entry.
@@ -41,7 +41,8 @@ function onEntrySaved(xhr, data) {
   clearGeneric();
   resetFinder();
   mainContainer.classList.remove('deactivated');
-  iframe.src = iframe.src;
+  window.location.href = window.location.href;
+  // iframe.src = iframe.src;
 }
 
 /**
@@ -130,7 +131,7 @@ function setup() {
   iframe = document.querySelector('iframe.loans');
   genericContainer = document.querySelector('.generic');
   sendBtn.addEventListener('click', onSendClicked);
-  document.addEventListener('resize', setTimeout(resizeIframe, 1000));
+  // document.addEventListener('resize', setTimeout(resizeIframe, 1000));
   setupCamera();
   setupGeneric();
 }

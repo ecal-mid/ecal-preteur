@@ -30,7 +30,7 @@ function onValidateBtnClicked(evt) {
  * Setup the loans list.
  * @param {Array.<Object>} users The json list of users.
  */
-function setup(users) {
+function setupLoansList(users) {
   let usersPerEmail = {};
   for (let loaner of users) {
     usersPerEmail[loaner.email] = loaner;
@@ -55,7 +55,7 @@ function setup(users) {
 // Request the students file upon loading.
 qwest.get('/static/data/students.json')
     .then(function(xhr, data) {
-      setup(data);
+      setupLoansList(data);
     })
     .catch(function(e) {
       console.error(e);

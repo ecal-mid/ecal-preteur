@@ -46,7 +46,20 @@
   </main>
 </section>
 
-<iframe src="/loans" class="loans" frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>
+<ul class="loans-list">
+{% for loan in loans %}
+  <li id="l{{ loan.key.id() }}" data-loaner="{{ loan.loaner }}" data-datein="{{ loan.date_in.strftime('%Y-%m-%d  %H:%M') }}">
+    {% if loan.photo[:2] == 'g-' %}
+    <div class="loan-generic"><i class="md-icon">vpn_key</i><p>{{ loan.photo[2:] }}</p></div>
+    {% else %}
+    <img class="loan-photo" src="{{ prefix + loan.photo }}">
+    {% endif %}
+    <div class="meta"></div>
+  </li>
+{% endfor %}
+</ul>
+
+<!-- <iframe src="/loans" class="loans" frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe> -->
 
 {% endblock %}
 
@@ -72,6 +85,19 @@
 <script src="{{ url_for('static', filename='js/camera-grabber.js') }}"></script>
 <script src="{{ url_for('static', filename='js/student-finder.js') }}"></script>
 <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+<script src="{{ url_for('static', filename='js/loans-list.js') }}"></script>
 
+
+<script type="text/template" id="loan-meta-tpl">
+  <% if (typeof(loaner.img) !== 'undefined') { %>
+  <img src="/img/<%= loaner.img %>" height="46px"/>
+  <% } else { %>
+  <div style="width:50px; height:40px;"></div>
+  <% } %>
+  <p><%= loaner.name %><br><span><%= loan.dateIn %></span></p>
+  <div data-id="<%= loan.id %>" class="validate">
+    <i class="md-icon">check</i>
+  </div>
+</script>
 
 {% endblock %}

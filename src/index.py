@@ -71,7 +71,8 @@ def upload_file(file_name, file_data, loaner):
 @login_required
 def index():
     """Return the homepage."""
-    return render_template('index.html')
+    loans = Loan.query(Loan.date_out == None, ancestor=ancestor_key).order(-Loan.date_in).fetch()
+    return render_template('index.html', loans=loans, prefix=get_photo_prefix())
 
 
 @bp.route('/loans')
