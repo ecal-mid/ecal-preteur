@@ -22,6 +22,7 @@ function onLiClicked(evt) {
   clearBtn.style.opacity = 1;
   hideList();
   loaner = email;
+  filterLoans(loaner);
   update();
 }
 
@@ -33,6 +34,7 @@ function resetFinder() {
   studentImg.src = '/static/res/user.svg';
   inputEl.value = '';
   clearBtn.style.opacity = 0;
+  clearLoansFilter();
   update();
 }
 

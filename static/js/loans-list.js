@@ -52,6 +52,29 @@ function setupLoansList(users) {
   }
 }
 
+/**
+ * Filter loans.
+ * @param {String} user The user to filter.
+ */
+function filterLoans(user) {
+  let listEls = document.querySelectorAll('ul.loans-list li');
+  for (let li of listEls) {
+    if (li.dataset['loaner'] != user) {
+      li.style.display = 'none';
+    }
+  }
+}
+
+/**
+ * Clear loans filter.
+ */
+function clearLoansFilter() {
+  let listEls = document.querySelectorAll('ul.loans-list li');
+  for (let li of listEls) {
+    li.style.display = null;
+  }
+}
+
 // Request the students file upon loading.
 qwest.get('/static/data/students.json')
     .then(function(xhr, data) {
