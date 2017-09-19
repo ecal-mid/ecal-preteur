@@ -4,7 +4,6 @@ let mainContainer;
 let sendBtn;
 let currentGeneric;
 let genericContainer;
-let iframe;
 let item;
 let loaner;
 
@@ -128,7 +127,7 @@ function update() {
 function setup() {
   mainContainer = document.querySelector('main');
   sendBtn = document.querySelector('.send');
-  iframe = document.querySelector('iframe.loans');
+  // iframe = document.querySelector('iframe.loans');
   genericContainer = document.querySelector('.generic');
   sendBtn.addEventListener('click', onSendClicked);
   // document.addEventListener('resize', setTimeout(resizeIframe, 1000));

@@ -13,8 +13,11 @@ app.register_blueprint(index)
 
 @app.route('/img/<string:filename>', methods=['GET'])
 def get_image(filename):
-    result = urlfetch.fetch('http://intranet.ecal.ch/img/photo/' + filename)
-    return Response(result.content, content_type=result.headers['content-type'])
+    try:
+        result = urlfetch.fetch('http://intranet.ecal.ch/img/photo/' + filename)
+        return Response(result.content, content_type=result.headers['content-type'])
+    except urlfetch.DownloadError:
+        return ''
 
 
 @app.before_request

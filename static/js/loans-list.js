@@ -76,7 +76,7 @@ function clearLoansFilter() {
 }
 
 // Request the students file upon loading.
-qwest.get('/static/data/students.json')
+qwest.get('/static/data/' + year + '/students.json')
     .then(function(xhr, data) {
       setupLoansList(data);
     })

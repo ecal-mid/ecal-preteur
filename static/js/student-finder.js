@@ -1,5 +1,6 @@
 'use strict';
 
+let year = document.body.dataset['year'];
 let students = null;
 let template = document.getElementById('user-card-tpl').innerHTML;
 let inputEl = document.querySelector('input.student-input');
@@ -121,7 +122,7 @@ function setupFinder() {
 }
 
 // request the users list then setup the finder.
-qwest.get('/static/data/students.json')
+qwest.get('/static/data/' + year + '/students.json')
     .then(function(xhr, data) {
       students = data;
       setupFinder();

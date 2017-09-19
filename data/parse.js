@@ -1,7 +1,14 @@
+if (process.argv.length < 3) {
+  console.log('Missing path argument. node parse.js path/to/html-file');
+  process.exit();
+}
+
+let file = process.argv[2];
+
 let fs = require('fs');
 let cheerio = require('cheerio');
 
-let data = fs.readFileSync(__dirname + '/students.html');
+let data = fs.readFileSync(__dirname + '/' + file);
 let $ = cheerio.load(data, {decodeEntities: false});
 
 let students = $('li.boma .ds-line');
@@ -19,6 +26,8 @@ students.each((i, el) => {
   let email = $(el).find('.card > a').text();
   result.push({name: name, img: img, email: email});
 });
+
+console.log(result);
 
 // remove first empty line
 result.shift();

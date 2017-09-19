@@ -16,12 +16,14 @@ from google.appengine.ext import ndb
 
 from .models import Loan
 
+YEAR = '2017-2018'
+
 bp = Blueprint(
     'index', __name__,
     static_folder='../static',
     template_folder='../templates')
 
-ancestor_key = ndb.Key('Loan', '2016-2017')
+ancestor_key = ndb.Key('Loan', YEAR)
 
 # Setup list of authorized users.
 authorized_users = open('config/authorized.txt').read().splitlines()
@@ -72,7 +74,7 @@ def upload_file(file_name, file_data, loaner):
 def index():
     """Return the homepage."""
     loans = Loan.query(Loan.date_out == None, ancestor=ancestor_key).order(-Loan.date_in).fetch()
-    return render_template('index.html', loans=loans, prefix=get_photo_prefix())
+    return render_template('index.html', loans=loans, prefix=get_photo_prefix(), year=YEAR)
 
 
 @bp.route('/loans')
@@ -80,7 +82,7 @@ def index():
 def list_loans():
     """Return the list of loans."""
     loans = Loan.query(Loan.date_out == None, ancestor=ancestor_key).order(-Loan.date_in).fetch()
-    return render_template('loans.html', loans=loans, prefix=get_photo_prefix())
+    return render_template('loans.html', loans=loans, prefix=get_photo_prefix(), year=YEAR)
 
 
 @bp.route('/loans', methods=['POST'])
